@@ -517,3 +517,48 @@ html.transition *:after {
   transition: all 750ms !important;
   transition-delay: 0 !important;
 }
+
+// Tiamat
+
+.tiamat-header {
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 5rem;
+  h1 {
+    color: var(--global-theme-color);
+    font-size: 5rem;
+  }
+}
+
+.tiamat-abstract {
+  border-bottom: 1px solid $grey-color-light;
+  padding-bottom: 3rem;
+}
+
+// Relato
+
+.relato-header, .relato-chapter {
+  text-align: center;
+}
+
+.relato-chapter {
+  margin-top: 2em;
+}
+
+.relato-content {
+  text-align: justify;
+  text-justify: inter-word;
+  word-wrap: normal;
+  hyphens: auto;
+  margin: 3em;
+}
+
+.relato-author {
+  text-align: right;
+  margin-right: 3em;
+}
+
+.content-media {
+  text-align: right;
+  margin-right: 3.3em;
+}

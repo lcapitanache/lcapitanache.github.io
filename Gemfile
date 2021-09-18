@@ -12,3 +12,5 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
 end
+
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?

@@ -5,7 +5,7 @@ pagination:
   enabled: true
   collection: posts
   permalink: /page/:num/
-  per_page: 3
+  per_page: 5
   sort_field: date
   sort_reverse: true
   trail:
@@ -15,17 +15,29 @@ pagination:
 
 <div class="post">
 
-  <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
-  </div>
+  {% if page.title == "blog" %}
+    <div class="header-bar">
+      <h1>{{ site.blog_name }}</h1>
+      <h2>{{ site.blog_description }}</h2>
+    </div>
+  {% endif %}
 
+  {% if page.title == "tiamat" %}
+    <article class="tiamat-abstract">
+      <p><code class="language-plaintext highlighter-rouge">Tiamat: Relatos & fragmentos de/mentes</code> surge como una necesidad personal de escribir historias. Estos relatos y fragmentos son individuales, por lo que pueden leerse de forma aislada y al azar. No obstante, todos tienen un hilo conductor que los une, pues ocurren en la ficticia <code class="language-plaintext highlighter-rouge">ciudad-estado de Tiamat</code>, además de compartir personajes y otros lugares de mi autoría.</p>
+
+      <p>Esta forma de contar historias está directamente inspirada en los trabajos de <a href="https://es.wikipedia.org/wiki/H._P._Lovecraft" target="_blank">H. P. Lovecraft</a>. Y, al igual que en su obra —aunque con mucha más modestia—, a los relatos y fragmentos de Tiamat los une la muerte y la locura.</p>
+
+      <p>Lo relatos y fragmentos de esta sección están todos bajo licencia <strong>Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional</strong> (<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es" target="_blank">CC BY-NC-ND 4.0</a>).</p>
+    </article>
+  </br>
+  {% endif %}
 
   <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
         <h3><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
+        <p class="post-meta">{{ post.date | date: '%Y.%m.%d' }}</p>
         <p>{{ post.description }}</p>
       </li>
     {% endfor %}

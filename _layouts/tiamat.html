@@ -1,0 +1,26 @@
+---
+layout: default
+title: tiamat
+pagination:
+  enabled: true
+  collection: tiamat
+  permalink: /page/:num/
+  per_page: 5
+  sort_field: date
+  sort_reverse: true
+  trail:
+    before: 1 # The number of links before the current page
+    after: 3  # The number of links after the current page
+---
+<div class="post">
+
+  <div class="tiamat-header">
+    <h1>tiamat</h1>
+    <h2>Relatos & fragmentos de/mentes</h2>
+  </div>
+
+  <article>
+    {{ content }}
+  </article>
+
+</div>
