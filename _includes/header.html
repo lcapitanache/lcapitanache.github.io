@@ -32,7 +32,7 @@
           </li>
           {% if site.blog_name %}
           <!-- Blog -->
-          <li class="nav-item {% if page.title == 'blog' %}active{% endif %}">
+          <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
             <a class="nav-link" href="{{ '/blog/' | relative_url }}">
               blog
               {% if page.title == "blog" %}
@@ -51,7 +51,7 @@
             </a>
           </li>
           <!-- Tiamat -->
-          <li class="nav-item {% if page.title == 'tiamat' %}active{% endif %}">
+          <li class="nav-item {% if page.url contains 'tiamat' %}active{% endif %}">
             <a class="nav-link" href="{{ '/tiamat/' | relative_url }}">
               tiamat
               {% if page.title == "tiamat" %}
