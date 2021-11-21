@@ -12,7 +12,7 @@ layout: null
     <author><name>{{ site.author }}</name></author>
     <generator>Jekyll v{{ jekyll.version }}</generator>
 
-    {% for post in site.tiamat limit:10 %}
+    {% for post in site.tiamat %}
         <entry>
             <title>{{ post.title }}</title>
             <author><name>{{ site.author }}</name></author>
@@ -26,7 +26,7 @@ layout: null
         </entry>
     {% endfor %}
 
-     {% for post in site.posts limit:5 %}
+     {% for post in site.posts %}
         <entry>
             <title>{{ post.title }}</title>
             <author><name>{{ site.author }}</name></author>
