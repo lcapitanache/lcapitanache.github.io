@@ -10,6 +10,7 @@ layout: default
     </h1>
      <p class="desc">{{ page.description }}</p>
   </header>
+</br>
 
   <article>
     {% if page.profile %}
@@ -19,7 +20,8 @@ layout: default
       {% endif %}
       {% if page.profile.address %}
         <div class="address">
-          {{ page.profile.address }}
+          <!--{{ page.profile.address }}-->
+          <p>&nbsp;</p>
         </div>
       {% endif %}
     </div>
@@ -27,6 +29,13 @@ layout: default
 
     <div class="clearfix">
       {{ content }}
+    </div>
+
+    <div>
+      </br>
+      <h2 style="margin-bottom: .7em;">instagram</h2>
+      {% include instagram.html username="luis_capitanache" %}
+      </br>
     </div>
 
     {% if page.news %}
