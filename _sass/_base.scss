@@ -4,6 +4,8 @@
 
 // Typography
 
+@import url(//fonts.googleapis.com/css?family=Bitter);
+
 p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
   color: var(--global-text-color);
 }
@@ -547,10 +549,12 @@ html.transition *:after {
 
 @media only screen and (min-width: 601px) {
   .relato-content {
+    font-family: "Bitter";
     text-align: justify;
     text-justify: inter-word;
     word-wrap: normal;
     hyphens: auto;
+    line-height: 2em;
     margin: 3em;
   }
 
@@ -567,10 +571,12 @@ html.transition *:after {
 
 @media only screen and (max-width: 600px) {
   .relato-content {
+    font-family: "Bitter";
     text-align: justify;
     text-justify: inter-word;
     word-wrap: normal;
     hyphens: auto;
+    line-height: 2em;
   }
 
   .relato-author {
