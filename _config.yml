@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Luis Capitanache # the website title (if blank, full name will be used instead)
 first_name: Luis
 middle_name: 
 last_name: Capitanache
@@ -25,13 +25,17 @@ author: Luis Capitanache
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-feed:
-  post_limit: 20
-  collections:
-    news:
-      path: "/news.xml"
-    tiamat:
-      path: "/tiamat.xml"
+#feed:
+#  post_limit: 20
+#  collections:
+#    - news
+#    - tiamat
+
+#  collections:
+#    news:
+#      path: "/news.xml"
+#    tiamat:
+#      path: "/tiamat.xml"
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -146,7 +150,7 @@ keep_files:
 plugins:
   - jekyll-email-protect
   - jekyll-github-metadata
-  - jekyll-feed
+# - jekyll-feed
   - jekyll-paginate-v2
   - jekyll/scholar
   - jekyll-twitter-plugin

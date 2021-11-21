@@ -1,0 +1,42 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>{{ site.url }}{{ site.baseurl }}/</id>
+    <title>{{ site.title }}</title>
+    <link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" />
+    <link href="{{ site.url }}{{ site.baseurl }}/" />
+    <updated>{{ site.time | date_to_xmlschema }}</updated>
+    <author><name>{{ site.author }}</name></author>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+
+    {% for post in site.tiamat limit:10 %}
+        <entry>
+            <title>{{ post.title }}</title>
+            <author><name>{{ site.author }}</name></author>
+            <rights>2021 Luis Capitanache - CC BY-NC-ND 4.0</rights>
+            <summary>{{ post.description }}</summary>
+            <published>{{ post.date | date_to_xmlschema }}</published>
+            <updated>{{ post.date | date_to_xmlschema }}</updated>
+            <link rel="alternate" type="text/html" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" />
+            <id>{{ post.url | prepend: site.baseurl | prepend: site.url }}</id>
+            <content type="html" xml:base="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.content | xml_escape }}</content>
+        </entry>
+    {% endfor %}
+
+     {% for post in site.posts limit:5 %}
+        <entry>
+            <title>{{ post.title }}</title>
+            <author><name>{{ site.author }}</name></author>
+            <rights>2021 Luis Capitanache - CC BY-NC-ND 4.0</rights>
+            <summary>{{ post.description }}</summary>
+            <published>{{ post.date | date_to_xmlschema }}</published>
+            <updated>{{ post.date | date_to_xmlschema }}</updated>
+            <link href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" />
+            <id>{{ post.url | prepend: site.baseurl | prepend: site.url }}</id>
+            <content type="html">{{ post.content | xml_escape }}</content>
+        </entry>
+    {% endfor %}
+</feed>
