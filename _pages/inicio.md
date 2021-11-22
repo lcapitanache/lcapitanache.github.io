@@ -2,7 +2,7 @@
 layout: inicio
 title: inicio
 permalink: /
-description: Ing. en Sistemas, estudiante de Lic. en Química Clínica, intento de escritor.
+description: Ing. en Sistemas, estudiante de Lic. en Química Clínica, escritor.
 
 profile:
   align: right
