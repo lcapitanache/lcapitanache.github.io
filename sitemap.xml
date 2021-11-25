@@ -20,6 +20,16 @@ layout:
         <priority>1.0</priority>
        </url>
   {% endfor %}
+  {% for collection in site.collections %}
+      {% assign name = collection.label %}
+      {% for page in site.[name] %}
+        <url>
+          <loc>{{ site.url }}{{ page.url | replace: 'index.html', '' }}</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       {% endfor %}
+  {% endfor %}
   {% for page in site.without-plugin %}
       <url>
         <loc>{{ site.url }}{{ page.url | replace: 'index.html', '' }}</loc>
