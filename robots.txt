@@ -1,7 +1,7 @@
 ---
 permalink: /robots.txt
 ---
+Sitemap: https://lcapitanache.github.io/sitemap.xml
+
 User-agent: *
 Allow: /
-
-Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
