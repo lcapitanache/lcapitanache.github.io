@@ -2,7 +2,7 @@
 layout: relato
 title: A las tres de la madrugada
 date: 2021-09-04
-description: una chica recibe a su hermano a las tres de la madrugada.
+description: Una chica recibe a su hermano a las tres de la madrugada.
 ---
 
 Un sonido la despertó. Miró la hora en su despertador rosa. Eran las tres de la madrugada. Somnolienta se sentó en su cama y prestó atención: había un sonido constante, como el agua de una regadera golpeando a la ventana. Estaba lloviendo. Llovía desde hace más de doce horas. Pero ese no era el sonido que la había despertado. El ruido más bien fue un...

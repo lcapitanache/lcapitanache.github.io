@@ -2,7 +2,7 @@
     <!-- Nav Bar -->
     <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
     <div class="container">
-      {% if page.title != "inicio" %}
+      {% if page.title != "Inicio" %}
       <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl | prepend: site.url }}/">
        {% if site.title != "blank" %}{{ site.first_name }} {{ site.middle_name }}  <span class="font-weight-bold">{{ site.last_name }}</span>{% else %}{{ site.title }}{% endif %}
       </a>
@@ -22,10 +22,10 @@
       <div class="collapse navbar-collapse text-right" id="navbarNav">
         <ul class="navbar-nav ml-auto flex-nowrap">
           <!-- Inicio -->
-          <li class="nav-item {% if page.title == 'inicio' %}active{% endif %}">
+          <li class="nav-item {% if page.title == 'Inicio' %}active{% endif %}">
             <a class="nav-link" href="{{ '/' | relative_url }}">
-              inicio
-              {% if page.title == "inicio" %}
+              Inicio
+              {% if page.title == "Inicio" %}
                 <span class="sr-only">(current)</span>
               {% endif %}
             </a>
@@ -34,18 +34,18 @@
           <!-- Blog -->
           <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
             <a class="nav-link" href="{{ '/blog/' | relative_url }}">
-              blog
-              {% if page.title == "blog" %}
+              Blog
+              {% if page.title == "Blog" %}
               <span class="sr-only">(current)</span>
               {% endif %}
             </a>
           </li>
           {% endif %}
           <!-- Papers -->
-          <li class="nav-item {% if page.title == 'papers' %}active{% endif %}">
+          <li class="nav-item {% if page.title == 'Papers' %}active{% endif %}">
             <a class="nav-link" href="{{ '/papers/' | relative_url }}">
-              papers
-              {% if page.title == "papers" %}
+              Papers
+              {% if page.title == "Papers" %}
               <span class="sr-only">(current)</span>
               {% endif %}
             </a>
@@ -53,8 +53,8 @@
           <!-- Tiamat -->
           <li class="nav-item {% if page.url contains 'tiamat' %}active{% endif %}">
             <a class="nav-link" href="{{ '/tiamat/' | relative_url }}">
-              tiamat
-              {% if page.title == "tiamat" %}
+              Tiamat
+              {% if page.title == "Tiamat" %}
               <span class="sr-only">(current)</span>
               {% endif %}
             </a>

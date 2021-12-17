@@ -2,7 +2,7 @@
 layout: relato
 title: Carta a Martha Elena
 date: 2021-09-11
-description: un joven médico escribe a su amada. prólogo.
+description: Un joven médico escribe a su amada. Prólogo.
 ---
 
 7 de octubre de 1814. 

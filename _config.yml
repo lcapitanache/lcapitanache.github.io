@@ -85,8 +85,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: apsu  # your blog must have a name for it to show up in the nav bar
-blog_description: arte, ciencia, literatura & tecnología
+blog_name: Apsu  # your blog must have a name for it to show up in the nav bar
+blog_description: Arte, ciencia, literatura & tecnología
 permalink: /blog/:year/:title/
 
 # Pagination

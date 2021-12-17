@@ -1,6 +1,6 @@
 ---
 layout: tiamat
-title: tiamat
+title: Tiamat
 permalink: /tiamat/
 description: Relatos & fragmentos de/mentes de mi autoría.
 nav: true

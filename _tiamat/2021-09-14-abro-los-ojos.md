@@ -2,7 +2,7 @@
 layout: relato
 title: Abro los ojos
 date: 2021-09-14
-description: los días son siempre iguales.
+description: Los días son siempre iguales.
 ---
 
 Abro los ojos. Hoy me siento triste y vacío de nuevo. La luz del sol penetra opalescente por la ventana de mi habitación. No quiero levantarme. Suspiro. Mi mirada se pierde en las formas sutiles que hay en el techo. Quiero permanecer dormido, sumergido en la oscura profundidad de la quietud del sueño... a ser posible, para siempre. 

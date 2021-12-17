@@ -2,7 +2,7 @@
 layout: relato
 title: Hola, Natascha
 date: 2021-09-03
-description: el mayor admirador, el más grande fan.
+description: El mayor admirador, el más grande fan.
 ---
 
 Facebook, Twitter, Instagram, YouTube y Snapchat. Te sigo a través de todos tus perfiles en las redes sociales. Soy tu mayor admirador, tu más grande fan.

@@ -1,6 +1,6 @@
 ---
 layout: inicio
-title: inicio
+title: Inicio
 permalink: /
 description: Ing. en Sistemas, estudiante de Lic. en Química Clínica, escritor.
 
