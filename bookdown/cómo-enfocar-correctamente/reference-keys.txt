@@ -11,6 +11,8 @@ tab:Tabla
 fig:oculares
 fig:formatos
 fig:objetivos
+fig:cargille
+fig:case
 tipos-de-microscopio
 técnicas-de-iluminación
 partes-de-un-microscopio
@@ -37,5 +39,6 @@ procedimiento-2
 diagrama-de-pasos-2
 cómo-guardar-el-microscopio
 introducción-4
+importante-2
 procedimiento-3
 diagrama-de-pasos-3
