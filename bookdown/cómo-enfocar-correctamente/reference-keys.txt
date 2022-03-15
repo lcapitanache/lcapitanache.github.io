@@ -3,7 +3,7 @@ fig:invertido
 fig:metal
 fig:electron
 fig:compuesto
-fig:campo-obscuro
+fig:campo-oscuro
 fig:condensadores
 fig:contraste
 fig:epifluorescencia
