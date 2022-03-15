@@ -3,7 +3,12 @@ fig:invertido
 fig:metal
 fig:electron
 fig:compuesto
+fig:campo-obscuro
+fig:condensadores
+fig:contraste
+fig:epifluorescencia
 tab:Tabla
+fig:oculares
 fig:formatos
 fig:objetivos
 tipos-de-microscopio
