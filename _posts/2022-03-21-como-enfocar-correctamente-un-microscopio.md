@@ -5,7 +5,9 @@ date:   2022-03-21 14:10:00
 description: Publicación de mi primer booklet.
 ---
 
-<p><img src="/assets/img/cover-como-enfocar.png" alt="cover" width="70%" class="img-post center"/></p>
+<div class="float-right profile">
+    <img class="img-fluid img-post medium-zoom-image z-depth-1 rounded" src="/assets/img/cover-como-enfocar.png" data-zoomable>
+</div>
 
 Cuando era un niño no había Internet, ni tampoco computadoras. Para pasar el tiempo veía a las <a href="https://es.wikipedia.org/wiki/Tortugas_Ninja" target="blank">Tortugas Ninja</a> en la televisión y leía las enciclopedias que mamá compraba para el desarrollo intelectual de mi hermana y el mío.
 
@@ -41,7 +43,12 @@ Espero de corazón que este libro le resulte útil a quien lo necesite. Lo he es
 
 Pienso expandir esta obra constantemente, añadiendo temas y nutriendo cada vez más los ya existentes, según mi propio conocimiento y experiencia vayan puliéndose y haciéndose más grandes.
 
-El libro está protegido bajo licencia **Creative Commons Atribución-CompartirIgual 4.0 Internacional** (<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="blank">CC BY-SA 4.0</a>).
+El libro está protegido bajo licencia **Creative Commons Atribución-CompartirIgual 4.0 Internacional** (<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="blank">CC BY-SA 4.0</a>), pues no hay nada más gratificante que compartir lo que se sabe.
 
 He aquí el enlace al libro:
-<p><a href="/bookdown/cómo-enfocar-correctamente/" target="blank"><img src="/assets/img/cover_title.png" alt="cover" width="35%" class="img-post center"/></a></p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <a href="/bookdown/cómo-enfocar-correctamente/" target="blank"><img src="/assets/img/cover_title.png" alt="botton" class="img-fluid"/></a>
+    </div>
+</div>
