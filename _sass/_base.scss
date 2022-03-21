@@ -23,14 +23,6 @@ strong {
   margin-bottom: 1em;
 }
 
-.post-content {
-  hyphens: auto;
-  line-height: 1.7em;
-  text-align: justify;
-  text-justify: inter-word;
-  word-wrap: normal;
-}
-
 a, table.table a {
   color: var(--global-theme-color);
   &:hover {
@@ -569,10 +561,14 @@ html.transition *:after {
 }
 
 @media only screen and (min-width: 927px) {
-  .relato-content {
+  .content-media {
+    text-align: right;
+    margin-right: 3.3em;
+  }
+
+  .post-content {
     hyphens: auto;
-    line-height: 1.7em;
-    margin: 3em;
+    line-height: 2em;
     text-align: justify;
     text-justify: inter-word;
     word-wrap: normal;
@@ -583,27 +579,26 @@ html.transition *:after {
     margin-right: 3em;
   }
 
-  .content-media {
-    text-align: right;
-    margin-right: 3.3em;
+  .relato-content {
+    margin: 3em;
   }
 }
 
 @media only screen and (max-width: 926px) {
-  .relato-content {
-    hyphens: auto;
+  .content-media {
+    text-align: right;
+    margin-right: .3em;
+  }
+
+  .post-content {
     line-height: 1.5em;
-    text-align: justify;
-    text-justify: inter-word;
-    word-wrap: normal;
   }
 
   .relato-author {
     text-align: right;
   }
 
-  .content-media {
-    text-align: right;
-    margin-right: .3em;
+  .relato-content {
+    line-height: 1.5em;
   }
 }
