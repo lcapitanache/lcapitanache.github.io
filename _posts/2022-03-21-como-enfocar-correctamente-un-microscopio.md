@@ -41,7 +41,7 @@ Espero de corazón que este libro le resulte útil a quien lo necesite. Lo he es
 
 Pienso expandir esta obra constantemente, añadiendo temas y nutriendo cada vez más los ya existentes, según mi propio conocimiento y experiencia vayan puliéndose y haciéndose más grandes.
 
-El libro está protegido bajo licencia **Creative Commons Atribución-CompartirIgual 4.0 Internacional** (<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="blank">CC BY-SA 4.0</a>), pues no hay nada más gratificante que compartir lo que se sabe.
+El libro está protegido bajo licencia **Creative Commons Atribución-CompartirIgual 4.0 Internacional** (<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="blank">CC BY-SA 4.0</a>).
 
 He aquí el enlace al libro:
 <p><a href="/bookdown/cómo-enfocar-correctamente/" target="blank"><img src="/assets/img/cover_title.png" alt="cover" width="35%" class="img-post center"/></a></p>
