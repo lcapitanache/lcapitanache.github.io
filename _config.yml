@@ -114,7 +114,7 @@ collections:
     output: true
     permalink: /tiamat/:year/:title/
 
-news_limit: 3
+news_limit: 10
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

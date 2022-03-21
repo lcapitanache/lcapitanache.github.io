@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-03-14 23:00
+date: 2022-03-21 14:10
 inline: true
 ---
 
-Publicado mi nuevo `booklet`: [Cómo enfocar correctamente un microscopio](https://lcapitanache.github.io/bookdown/cómo-enfocar-correctamente/).
+Nueva entrada en `Apsu`: [Cómo enfocar correctamente un microscopio](blog/2022/como-enfocar-correctamente-un-microscopio/).

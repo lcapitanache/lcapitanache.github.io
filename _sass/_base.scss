@@ -4,10 +4,32 @@
 
 // Typography
 
-@import url(//fonts.googleapis.com/css?family=Bitter);
-
 p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
   color: var(--global-text-color);
+}
+
+strong {
+  font-weight: bold;
+  font-style: normal;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-post {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.post-content {
+  hyphens: auto;
+  line-height: 2em;
+  text-align: justify;
+  text-justify: inter-word;
+  word-wrap: normal;
 }
 
 a, table.table a {
@@ -549,13 +571,12 @@ html.transition *:after {
 
 @media only screen and (min-width: 927px) {
   .relato-content {
-    font-family: "Bitter";
-    text-align: justify;
-    text-justify: inter-word;
-    word-wrap: normal;
     hyphens: auto;
     line-height: 2em;
     margin: 3em;
+    text-align: justify;
+    text-justify: inter-word;
+    word-wrap: normal;
   }
 
   .relato-author {
@@ -571,10 +592,11 @@ html.transition *:after {
 
 @media only screen and (max-width: 926px) {
   .relato-content {
+    hyphens: auto;
+    line-height: 2em;
     text-align: justify;
     text-justify: inter-word;
     word-wrap: normal;
-    hyphens: auto;
   }
 
   .relato-author {

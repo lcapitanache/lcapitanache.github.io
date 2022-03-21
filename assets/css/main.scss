@@ -13,3 +13,9 @@ $max-content-width: {{site.max_width}};
   "base",
   "distill"
 ;
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif&display=swap');
+
+body {
+  font-family: 'Noto Serif', serif;
+}
