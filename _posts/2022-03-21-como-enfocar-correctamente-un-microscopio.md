@@ -5,8 +5,8 @@ date:   2022-03-21 14:10:00
 description: Publicación de mi primer booklet.
 ---
 
-<div class="float-right profile">
-    <img class="img-fluid img-post medium-zoom-image z-depth-1 rounded" src="/assets/img/cover-como-enfocar.png" data-zoomable>
+<div class="profile float-right">
+    <img class="img-fluid img-post z-depth-1 rounded" src="/assets/img/cover-como-enfocar.png">
 </div>
 
 Cuando era un niño no había Internet, ni tampoco computadoras. Para pasar el tiempo veía a las <a href="https://es.wikipedia.org/wiki/Tortugas_Ninja" target="blank">Tortugas Ninja</a> en la televisión y leía las enciclopedias que mamá compraba para el desarrollo intelectual de mi hermana y el mío.
