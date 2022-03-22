@@ -19,7 +19,7 @@ Me gustaba fantasear con trabajar en un laboratorio y llevaba a cabo peligrosos 
 
 Recuerdo un día ---aunque confieso que no con demasiado detalle--- en el que estaba con mamá y una de sus hermanas en uno de los centros comerciales de la ciudad. Íbamos pasando por uno de sus amplios y blancos pasillos cuando lo ví por primera vez. Encerrado en una caja negra, con una vista transparente para apreciar su contenido, y apilado con otros semejantes, yacía un `microscopío`. Hasta ese momento nunca había visto uno, pero sabía por los libros que había leído para qué se utilizaba y lo que su posesión implicaba para mi mente infantil, ávida del conocimiento que da la febril experimentación propia de un niño.
 
-No tengo memoría de la interacción que tuve con mamá en ese entonces; pero me salí con la mía y abandoné el centro comercial aquél día con el preciado objeto entre mis brazos.
+No tengo memoría de la interacción que tuve con mamá en ese entonces; pero me salí con la mía y abandoné el centro comercial aquel día con el preciado objeto entre mis brazos.
 
 Como es natural, en cuanto llegué a casa lo abrí. Tengo la remembranza de deslizar fuera de la caja negra al unicel blanco en que el microscopío yacía inserto, descansando con el resto de sus aditamentos: unas pinzas, una lupa, tubos para muestras, y algunos cuantos portaobjetos plásticos con muestras previamente ya preparadas. Olía a plástico nuevo.
 

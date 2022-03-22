@@ -582,6 +582,11 @@ html.transition *:after {
   .relato-content {
     margin: 3em;
   }
+
+  .post-author {
+    margin-top: 2em;
+    text-align: right;
+  }
 }
 
 @media only screen and (max-width: 926px) {
@@ -600,5 +605,10 @@ html.transition *:after {
 
   .relato-content {
     line-height: 1.5em;
+  }
+
+  .post-author {
+    margin-top: 2em;
+    text-align: right;
   }
 }
