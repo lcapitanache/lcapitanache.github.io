@@ -11,7 +11,7 @@ description: Publicación de mi primer booklet.
 
 Cuando era niño no había Internet, ni tampoco computadoras. Para pasar el tiempo veía a las <a href="https://es.wikipedia.org/wiki/Tortugas_Ninja" target="blank">Tortugas Ninja</a> en la televisión y leía las enciclopedias que mamá compraba, para el enriquecimiento intelectual de mi hermana y el mío.
 
-Recuerdo especialmente una enciclopedía roja de la editorial Océano. Ah, cómo me perdía en sus páginas blancas e imágenes en escala de grises. Tenía mis tomos favoritos, aquellos dedicados a las ciencias que consideraba _ciencias_: biología, química, astronomía... ¡Cómo se desgastaron sus lomos de tanto que los asía!
+Recuerdo especialmente una enciclopedia roja de la editorial Océano. Ah, cómo me perdía en sus páginas blancas e imágenes en escala de grises. Tenía mis tomos favoritos, aquellos dedicados a las ciencias que consideraba _ciencias_: biología, química, astronomía... ¡Cómo se desgastaron sus lomos de tanto que los asía!
 
 Y mientras mamá dormía luego de un cansado turno nocturo en el hospital, salía al patio y me disponía a experimentar. Considero que todos llevamos un científico dentro, especialmente cuando somos unos niños que exploran el mundo.
 
