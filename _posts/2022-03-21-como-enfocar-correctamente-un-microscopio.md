@@ -31,7 +31,7 @@ No tengo recuerdo de qué ha ocurrido a ese microscopio. Sólo tengo la certeza 
 
 Ahora, pasados los años y encontrándome a mí mismo en _la mitad de mi vida_ ---según Dante Alighieri---, he aquí que me he hecho con un nuevo microscopio. Uno de nivel clínico, profesional; superior incluso a los de mi nueva universidad y a los de algunos laboratorios de la ciudad.
 
-Abrir el pesado paquete en el que venía, y descubrirlo con sus partes metálicas y plásticas ---brillantes y de alta calidad---, me ha devuelto a aquellos años en los que me sentía como un gran científico, luego de ver a <a href="https://es.wikipedia.org/wiki/Tortugas_Ninja" target="blank">El mundo de Beackman</a> por televisión.
+Abrir el pesado paquete en el que venía, y descubrirlo con sus partes metálicas y plásticas ---brillantes y de alta calidad---, me ha devuelto a aquellos años en los que me sentía como un gran científico, luego de ver a <a href="https://es.wikipedia.org/wiki/El_mundo_de_Beakman" target="blank">El mundo de Beackman</a> por televisión.
 
 _¡Ah, pero qué bello y maravilloso es el obsequiarse sueños prístinos a sí mismo!_
 
