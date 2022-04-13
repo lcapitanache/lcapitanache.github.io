@@ -1,0 +1,31 @@
+Cómo ajustar las dioptrías
+==========================
+
+Introducción
+------------
+
+En términos muy simples, las **dioptrías** son la unidad de medida de graduación de los ojos. Es decir, es la medida que indica la potencia que ha de tener una lente para que los ojos puedan enfocar correctamente. 
+
+Como usted ya sabe, el desgaste visual es algo frecuente en nuestra sociedad y puede deberse a distintos factores, como la herencia o la edad. Una persona puede tener diferente cantidad de dioptrías en ambos ojos, situación que tiene el potencial de mermar su experiencia en el ejercicio de la microscopía. 
+
+Pensando en esto, algunos microscopios cuentan con un sistema para el ajuste manual de dioptrías. Si usted tiene problemas de visión y tiene distinto desgaste en ambos ojos, siga estas instrucciones para calibrar el microscopio a sus necesidades.
+
+
+Procedimiento
+-------------
+
+1.	En primer lugar, identifique si el microscopio puede realizar este ajuste. Para ello, verifique si en la base del ``ocular`` izquierdo hay una rosca que se gira y que no está presente en el derecho. Si es así, siga con las instrucciones; en caso contrario, el microscopio carece de las capacidades necesarias para realizar este ajuste.
+
+2.	Con la mano izquierda, cúbrase el ojo del mismo lado y observe a través del ``ocular`` derecho. Utilizando el ``tornillo micrométrico``, enfoque la imagen hasta que ésta se encuentre perfectamente nítida, según las capacidades del microscopio.
+
+3.	Descúbrase el ojo izquierdo, parpadee un poco y cúbrase ahora el derecho. En esta ocasión utilice la rosca ubicada en la base del ``ocular`` izquierdo para hacer el ajuste de enfoque. Por ningún motivo toque los tornillos ``macrométrico`` y ``micrométrico``.
+
+4.	Una vez conseguido el enfoque, descúbrase el ojo, parpadee un poco y observe con ambos ojos a través de los ``oculares``. Si lo hizo correctamente, deberá ver una imagen enfocada en ambos ojos.
+
+5.	Si usted es el único usuario del microscopio, no hace falta que repita el procedimiento; pero si lo comparte con una o más personas, deberá repetir estas instrucciones siempre que usted utilice el aparato.
+  
+  
+Diagrama de flujo
+-----------------
+
+.. image:: images/diag-dioptrias.svg

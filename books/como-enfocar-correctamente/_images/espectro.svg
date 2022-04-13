@@ -1,0 +1,86 @@
+<svg width="850" height="100" xmlns="http://www.w3.org/2000/svg" stroke="null" style="vector-effect: non-scaling-stroke;">
+ <defs stroke="null" style="vector-effect: non-scaling-stroke;">
+  <linearGradient stroke="null" style="vector-effect: non-scaling-stroke;" id="lgSpectrum">
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s380nm" offset="0" stop-color="#020005"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s385nm" offset="0.01351" stop-color="#020006"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s390nm" offset="0.02703" stop-color="#030008"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s395nm" offset="0.04054" stop-color="#04000A"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s400nm" offset="0.05405" stop-color="#06000D"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s405nm" offset="0.06757" stop-color="#080110"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s410nm" offset="0.08108" stop-color="#0C0117"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s415nm" offset="0.09459" stop-color="#11021F"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s420nm" offset="0.10811" stop-color="#17032A"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s425nm" offset="0.12162" stop-color="#1F053A"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s430nm" offset="0.13514" stop-color="#25084B"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s435nm" offset="0.14865" stop-color="#290A5C"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s440nm" offset="0.16216" stop-color="#2B0E6F"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s445nm" offset="0.17568" stop-color="#291380"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s450nm" offset="0.18919" stop-color="#1F237B"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s455nm" offset="0.2027" stop-color="#132E74"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s460nm" offset="0.21622" stop-color="#09376C"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s465nm" offset="0.22973" stop-color="#0A3E66"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s470nm" offset="0.24324" stop-color="#0C4667"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s475nm" offset="0.25676" stop-color="#0E4F6A"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s480nm" offset="0.27027" stop-color="#10596C"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s485nm" offset="0.28378" stop-color="#11636D"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s490nm" offset="0.2973" stop-color="#146E6F"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s495nm" offset="0.31081" stop-color="#177970"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s500nm" offset="0.32432" stop-color="#178672"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s505nm" offset="0.33784" stop-color="#1A9574"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s510nm" offset="0.35135" stop-color="#1DA375"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s515nm" offset="0.36486" stop-color="#1DB273"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s520nm" offset="0.37838" stop-color="#20C070"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s525nm" offset="0.39189" stop-color="#22CB6B"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s530nm" offset="0.40541" stop-color="#21D662"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s535nm" offset="0.41892" stop-color="#23E054"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s540nm" offset="0.43243" stop-color="#36E842"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s545nm" offset="0.44595" stop-color="#50ED28"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s550nm" offset="0.45946" stop-color="#73EB22"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s555nm" offset="0.47297" stop-color="#8FE722"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s560nm" offset="0.48649" stop-color="#A5E221"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s565nm" offset="0.5" stop-color="#B9DC22"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s570nm" offset="0.51351" stop-color="#CBD621"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s575nm" offset="0.52703" stop-color="#DCCE20"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s580nm" offset="0.54054" stop-color="#ECC420"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s585nm" offset="0.55405" stop-color="#F2B735"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s590nm" offset="0.56757" stop-color="#F5AB42"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s595nm" offset="0.58108" stop-color="#F69F49"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s600nm" offset="0.59459" stop-color="#F7944B"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s605nm" offset="0.60811" stop-color="#F98848"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s610nm" offset="0.62162" stop-color="#FA7B42"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s615nm" offset="0.63514" stop-color="#FB6C39"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s620nm" offset="0.64865" stop-color="#FD5B2E"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s625nm" offset="0.66216" stop-color="#FC471F"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s630nm" offset="0.67568" stop-color="#F7300F"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s635nm" offset="0.68919" stop-color="#EA220D"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s640nm" offset="0.7027" stop-color="#D42215"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s645nm" offset="0.71622" stop-color="#BF2318"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s650nm" offset="0.72973" stop-color="#A92309"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s655nm" offset="0.74324" stop-color="#981F07"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s660nm" offset="0.75676" stop-color="#871B06"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s665nm" offset="0.77027" stop-color="#771805"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s670nm" offset="0.78378" stop-color="#671504"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s675nm" offset="0.7973" stop-color="#591303"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s680nm" offset="0.81081" stop-color="#4D1103"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s685nm" offset="0.82432" stop-color="#420E02"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s690nm" offset="0.83784" stop-color="#370C01"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s695nm" offset="0.85135" stop-color="#2E0A01"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s700nm" offset="0.86486" stop-color="#270801"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s705nm" offset="0.87838" stop-color="#210600"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s710nm" offset="0.89189" stop-color="#1E0400"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s715nm" offset="0.90541" stop-color="#1A0300"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s720nm" offset="0.91892" stop-color="#170200"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s725nm" offset="0.93243" stop-color="#130100"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s730nm" offset="0.94595" stop-color="#100100"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s735nm" offset="0.95946" stop-color="#0C0100"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s740nm" offset="0.97297" stop-color="#080100"/>
+   <stop stroke="null" style="vector-effect: non-scaling-stroke;" id="s745nm" offset="0.98649" stop-color="#060100"/>
+  </linearGradient>
+ </defs>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <g stroke="#000" id="svg_1">
+   <rect stroke="null" x="-0.5" y="-2" width="852.00003" height="106" fill="url(#lgSpectrum)" stroke-linejoin="round" id="svg_2"/>
+  </g>
+ </g>
+</svg>

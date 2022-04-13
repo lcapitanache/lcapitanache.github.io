@@ -1,0 +1,26 @@
+Glosario
+========
+
+.. glossary::
+    :sorted:
+
+    microscopio
+        Instrumento de laboratorio cuyo proposito es el de permitir la observación de muestras que no son visibles a simple vista.
+
+    luz
+        Energía electromagnética cuya unidad fundamental es el fotón.
+
+    muestra
+        Parte de aquello que es objeto de interés y de estudio. En microscopía, es aquella que se coloca sobre el portaobjetos para su posterior observación.
+
+    portaobjetos
+        Soporte de vidrio sobre el que se coloca la muestra. Suele estar construido de vidrio y ser de dimensiones estandarizadas.
+
+    cubreobjetos
+        Fragmento de vidrio que cubre a la muestra, la cual descansa sobre el portaobjetos. Una de sus funciones es el de distribuir la muestra de forma uniforme.
+
+    microscopía
+        Conjunto de métodos y técnicas que permiten la observación de objetos que no son visibles a simple vista.
+
+    
+

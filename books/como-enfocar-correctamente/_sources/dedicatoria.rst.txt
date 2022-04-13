@@ -1,0 +1,6 @@
+Dedicatoria
+===========
+
+*Para Armand.*
+
+.. image:: images/armand.jpg

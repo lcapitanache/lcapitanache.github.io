@@ -1,0 +1,40 @@
+Tipos de microscopio
+====================
+
+Antes que nada, conviene aclarar algo simple y elemental: de qué tipo de microscopio habla este documento, porque hay de varios tipos: existen microscopios de poco aumento que sirven para la reparación de placas y circuitos electrónicos, así como para llevar a cabo micro autopsias (**microscopios estereoscópicos**); hay microscopios diseñados específicamente para ver muestras biológicas vivas (**microscopios invertidos**); también microscopios especiales para la observación de cuerpos sólidos, como rocas y metales (**microscopios metalúrgicos**); están aquellos que son grandes y costosos que emplean electrones y que sirven para la investigación científica y que únicamente ciertas entidades poseen (**microscopios electrónicos**). Y finalmente, claro, están los aquellos que se nos vienen a la mente cuando hablamos, escuchamos o leemos sobre microscopios: los **microscopios compuestos**. 
+
+Los ``microscopios compuestos`` tienen ciertas partes organizadas de una forma característica, la cual se muestra en la siguiente sección. Baste decir que, a grandes rasgos, estos microscopios funcionan con una ``fuente de iluminación`` ubicada en su base —o muy cerca de ella—, la cual envía luz hacia un ``condensador``, el cual la concentra. Este pequeño dispositivo, a continuación, dirige la luz colectada hacia donde se encuentra la muestra, atravesándola, para luego introducirse en el complejo sistema óptico de un ``objetivo``. El ``objetivo``, posteriormente, envía la luz a un sistema de lentes interno, que finalmente llega a unos ``oculares``, que es por donde podemos asomamos al mundo microscópico. Es a este tipo de microscopios que va dirigido este texto.
+
+Queda pues, aclarado a qué tipo de dispositivos aplica este documento y a cuáles no. 
+
+
+.. figure:: images/estereo.jpg
+   :figclass: margin-caption
+   :alt: Microscopio estereoscópico
+
+   ``Microscopio estereoscópico``. Obsérvese la ausencia de partes conocidas, como la ``platina``, el ``revólver`` o el ``condensador``.
+
+.. figure:: images/invertido.jpg
+   :figclass: margin-caption
+   :alt: Microscopio invertido
+
+   ``Microscopio invertido`` con técnica de ``epifluorescencia``. Nótese que el ``revólver`` se encuentra debajo de la ``platina``, que el ``condensador`` se ubica sobre la muestra, y que la ``fuente de iluminación`` se halla encima de éste.
+
+.. figure:: images/metalúrgico.jpg
+   :figclass: margin-caption
+   :alt: Microscopio metalúrgico
+
+   ``Microscopio metalúrgico``. Las rocas y minerales, al ser opacos, son iluminados por luz reflejada. Preste especial atención en la estructura de la ``platina`` y del ``condensador``.
+
+.. figure:: images/electrones.jpg
+   :figclass: margin-caption
+   :alt: Microscopio de electrones
+
+   ``Microscopio de electrones``. Voluminoso y de aspecto atípico. Requiere de grandes espacios para acelerar los electrones que impactan en la muestra.
+
+.. figure:: images/compuesto.jpg
+   :figclass: margin-caption
+   :alt: Microscopio compuesto
+
+   ``Microscopio compuesto``. Este el tipo de dispositivo en el que solemos pensar cuando leemos o escuchamos la palabra «microscopio».
+
