@@ -1,0 +1,83 @@
+Cómo enfocar correctamente
+==========================
+
+Introducción
+------------
+
+Terminados los preámbulos aclaratorios, se describen a continuación los pasos necesarios para llevar a cabo un correcto enfoque, logrando conseguir la máxima calidad de imagen posible en el microscopio que se esté utilizando.
+
+
+.. important::
+
+    Por favor, antes de continuar con las instrucciones tome nota que: 
+
+    1.  Para proseguir usted debe poder identificar las partes de un ``microscopio compuesto`` y conocer su correspondiente uso. Dé un repaso a la sección :doc:`partes-de-un-microscopio` si es necesario.
+
+    2.  Usted no debe seguir estas instrucciones para utilizar el ``objetivo 100x`` si antes no ha leído la sección :doc:`como-utilizar-el-objetivo-100x`.
+
+
+Procedimiento
+-------------
+
+1.  Coloque el microscopio en una superficie firme, plana y estable, sujetándolo con seguridad por el ``brazo`` con una mano y por la ``base`` con la otra.
+
+2.  Retire su cubierta antipolvo, si la tuviere.
+
+3.  Conecte el ``cable de alimentación`` al microscopio y a la toma de corriente.
+
+4.  Encienda el microscopio. La ubicación del ``interruptor`` puede variar según el fabricante y modelo. Suele encontrarse a un costado o detrás del aparato.
+
+5.  Ajuste el nivel de intensidad de luz al mínimo posible con el ``regulador de iluminación``. Si el microscopio fue almacenado con propiedad, deberá encontrarlo ya en el mínimo.
+
+6.  En la ``fuente de iluminación`` hay un ``regulador``, gírelo a fin de abrir el ``diafragma de campo`` y permitir que su luz pase a través del sistema óptico.
+
+7.  Si el microscopio fue guardado correctamente la última vez, usted deberá encontrarlo con el ``objetivo 4x`` en uso. Si no fuera el caso, mueva el ``revólver`` a este ``objetivo``. Para girar el ``revólver`` hágalo siempre desde su ``disco de sujeción``, nunca lo gire utilizando los ``objetivos`` como punto de apoyo (no los toque).
+
+8.  Observe a través de los ``oculares`` y vea que recibe algo de luz. Si no es el caso, revise los puntos anteriores.
+
+9.  Ajuste la ``distancia interpupilar`` ---la separación entre los ``oculares``--- para adecuarlos a la distancia de sus ojos. Algunos ``oculares`` se configuran sujetando la base de los ``oculares`` hacia arriba y abajo, mientras que otros lo hacen hacia fuera o adentro. Sabrá que la distancia es la correcta cuando, al observar a través de los ``oculares``, vea un único círculo.
+
+10. Coloque el ``portaobjetos`` con la muestra de interés en la ``platina`` y asegúrela. Siempre manipule el ``portaobjetos`` con cuidado por sus orillas y nunca lo toque en su superficie. Recuerde que el ``cubreobjetos`` va siempre hacia arriba.
+
+11. Ajuste la posición de la muestra con los controles de la ``platina``, desplazándose en el eje de la X y de la Y según sea necesario. No observe a través de los ``oculares`` todavía, hágalo viendo directamente al ``portaobjetos`` sobre la ``platina``. El haz de luz debe atravesar la muestra de interés.
+
+12. Sin observar a través de los ``oculares`` todavía, utilice el ``tornillo macrométrico`` para desplazar la ``platina`` hacia arriba. Si el microscopio cuenta con un tope de seguridad, hágalo hasta que no pueda subir más la ``platina``. Si no cuenta con ningún mecanismo de seguridad, súbala hasta aproximadamente 3 cm (30 mm) del ``objetivo``. Desde este momento ya no debería utilizar más el ``tornillo macrométrico``.
+
+13. Observe a través de los ``oculares`` y verifique el enfoque. Si la muestra está fuera de foco, enfoque utilizando únicamente el ``tornillo micrométrico``.
+
+14. Una vez logrado el enfoque de la muestra, se procede a refinar la calidad de la imagen, comenzando con la iluminación.
+    
+    1.  Cierre el ``diafragma de campo`` todo lo que pueda.
+    
+    2.  Debajo de la ``platina`` hay un ``tornillo pequeño`` que sube y baja el ``condensador`` ---no visible en la imagen que ilustra las partes del microscopio de este documento, por encontrarse en el lado opuesto---. Suba y baje el ``condensador`` hasta que, a través de los ``oculares``, observe un polígono con los bordes perfectamente definidos.
+
+    3.  Si el polígono no se encuentra en el centro del círculo que ve, utilice los ``controles del condensador`` para llevarlo ahí.
+        Los ``controles del condensador`` tienen la apariencia de tornillos, y son dos. Si el ``condensador`` que está utilizando carece de estos controles, omita este paso.
+
+    4.  Abra el ``diafragma de campo`` hasta que, observando a través de los ``oculares``, vea que todo el campo de visión queda completamente iluminado, pero no más.
+
+15. Ajuste la resolución y contraste de la imagen a su punto óptimo. Esto puede hacerse de dos formas.
+    
+    1.  La primera es hacerlo de forma subjetiva. Para ello, ajuste el ``diafragma de apertura`` con su ``regulador``, de manera tal que su valor sea casi idéntico a la ``apertura numérica`` del ``objetivo`` que está empleando. Hágalo verificando la calidad de imagen a través de los oculares. Si abre demasiado el ``diafragma de apertura`` la imagen quedará con bordes muy difusos; si lo abre muy poco, la imagen tendrá excesivo contraste. Encuentre el equilibrio entre ambos extremos, según la comodidad y las necesidades de la muestra.
+
+    2.  La segunda forma es hacerlo de manera empírica. Retire uno de los ``oculares`` de la ``cabeza`` del microscopio y colóquelo con la óptica mirando hacia arriba en una superficie limpia ---a ser posible dentro de su propio envase---. Vea a través de donde antes estaba el ``ocular`` y mueva el ``diafragma de apertura`` hasta que su abertura se corresponda con el 80% del diámetro del círculo que ve. Una vez que lo consiga, coloque el ``ocular`` en su lugar.
+    
+16. Finalmente perfeccione la cantidad de luz recibida de la ``fuente de iluminación``. Utilice para ello el ``regulador de iluminación``, no el ``diafragma de campo`` ni el ``diafragma de apertura``. Recuerde: el ``diafragma de campo`` es para controlar el área iluminada en el campo de visión y el ``diafragma de apertura`` es para regular la resolución y el contraste. Emplear uno o ambos ``diafragmas`` para ajustar la cantidad de luz es un error frecuente entre principiantes; evítelo.
+
+17. Si ha seguido correctamente todos pasos hasta aquí, deberá tener una imagen perfecta en iluminación, resolución y contraste. A tener en cuenta, por favor, que esto depende mucho de la calidad de las lentes del microscopio. La imagen que usted ve es lo mejor que el microscopio que está usando puede lograr.
+
+18. Haga las observaciones que requiera con ese ``objetivo``. Cuando termine y quiera subir la magnificación, gire el ``revólver`` un paso para llegar al ``objetivo`` inmediato siguiente.
+
+19. Con el nuevo ``objetivo``, ajuste el enfoque con el ``tornillo micrométrico``, jamás con el ``macrométrico``.
+
+20. En caso de ser necesario, mueva la ``platina`` con sus respectivos controles para tener en el centro de la imagen el objeto de interés.
+
+21. Repita los pasos 13 a 16 de este procedimiento para lograr la máxima calidad de imagen posible.
+
+22. Para pasar a los siguientes ``objetivos``, repita los pasos correspondientes al enfoque y refinamiento de la calidad de imagen.
+
+
+Diagrama de flujo
+-----------------
+
+.. image:: images/diag-enfoque.svg

@@ -1,0 +1,30 @@
+:hide-toc:
+
+Proemio
+=======
+
+Este libro es una *guía rápida* nacida de mi práctica y mi conocimiento para el uso del **microscopio compuesto**, así como para una comprensión a grandes rasgos de la *microscopía*. Está dirigido a principiantes y a aquellos que deseen repasar procedimientos de forma rápida y concisa. No pretende ser una guía exhaustiva de estos temas. Para este último caso, sírvase consultar literatura especializada en estos rubros.
+
+Esta obra está protegida bajo licencia **Creative Commons Atribución-CompartirIgual 4.0 Internacional** (`CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/deed.es>`_). 
+
+Sitio web: `<https://lcapitanache.github.io>`_.
+
+.. toctree::
+   :caption: Índice de contenido
+   :numbered:
+   :maxdepth: 3
+   
+   notas-de-la-version
+   dedicatoria
+   tipos-de-microscopio
+   la-luz
+   partes-de-un-microscopio
+   como-enfocar-correctamente
+   como-ajustar-las-dioptrias
+   precauciones-durante-la-observacion
+   como-utilizar-el-objetivo-100x
+   como-guardar-el-microscopio
+   tecnicas-de-iluminacion
+   glosario
+   
+
