@@ -49,6 +49,6 @@ Y al fin, he aquí el libro. Por favor, haga clic en la imagen para poder abrirl
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <a href="/bookdown/cómo-enfocar-correctamente/" target="blank"><img src="/assets/img/cover_title.png" alt="botton" class="img-fluid"/></a>
+        <a href="/books/como-enfocar-correctamente/" target="blank"><img src="/assets/img/cover_title.png" alt="botton" class="img-fluid"/></a>
     </div>
 </div>
