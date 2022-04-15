@@ -17,14 +17,14 @@ Sitio web: `<https://lcapitanache.github.io>`_.
    notas-de-la-version
    dedicatoria
    tipos-de-microscopio
-   la-luz
    partes-de-un-microscopio
+   la-naturaleza-de-la-luz
+   tecnicas-de-iluminacion
    como-enfocar-correctamente
    como-ajustar-las-dioptrias
    precauciones-durante-la-observacion
    como-utilizar-el-objetivo-100x
    como-guardar-el-microscopio
-   tecnicas-de-iluminacion
    glosario
    
 

@@ -124,13 +124,3 @@ Platina
 ```````
 
 Algunos microscopios ---los de gama más baja o los muy antiguos--- no cuentan con los controles de la ``platina``, por lo que para desplazarse a través de la muestra deberá mover manualmente el portaobjetos, asegurándose de que el punto de interés pase por sobre el haz de luz que irradia el ``condensador`` (o la ``fuente de iluminación`` directamente, en caso de que el microscopio no cuente con ``condensador`` alguno).
-
-
-El sistema de iluminación Köhler
-````````````````````````````````
-
-Si observó con detenimiento el esquema de las partes del microscopio, habrá notado que tanto en el ``condensador`` como en la ``fuente de iluminación`` hay ``diafragmas``. La función de éstos últimos es la de regular el paso de luz y de controlar la ``resolución`` y ``contraste`` de la imagen obtenida. 
-
-Este sistema de iluminación se emplea para lograr una iluminación uniforme sobre la muestra, de manera tal que todo quede perfectamente iluminado con la misma intensidad, evitando que haya zonas iluminadas con otras obscuras. Recibe el nombre ``iluminación Köhler`` por el profesor ``August Karl Johann Valentin Köhler``, quien creó este sistema de iluminación y lo dio a conocer en 1893.
-
-Por favor, note que no todos los microscopios cuentan con este tipo de iluminación, especialmente los muy antiguos. Algunos incluso utilizan un sistema óptico basado en espejos que recolectan la luz solar para funcionar. Cualquier microscopio relativamente moderno, contará con este sistema de iluminación.

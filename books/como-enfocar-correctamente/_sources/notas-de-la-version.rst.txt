@@ -1,0 +1,11 @@
+Notas de la versión
+===================
+
+:2022, abr. 14:
+    Desarrollo de algunas :doc:`tecnicas-de-iluminacion`, acompañadas de bellísimas imágenes de la `Nikon's Small World Photomicrography Competition <https://www.nikonsmallworld.com/>`_.
+
+:2022, abr. 12:
+    Migración a `Sphinx <https://www.sphinx-doc.org/en/master/>`_, un generador de documentación técnica, con implementación del tema `Book <https://sphinx-book-theme.readthedocs.io/>`_. El libro ahora luce con una presentación más bella y pulcra.
+
+:2022, mar. 22:
+    Es la primera versión en presentar la modalidad en línea a través de `BookDown <https://bookdown.org/>`_. Tiene, además, una expansión de los temas tratados en la versión original en PDF, ahora divididos en digiribles **subsecciones**, así como nuevas y bellas **imágenes**. También se ha enriquecido la experiencia pedagógica con la adición de concisos y nutridos **diagramas de flujo** para cada procedimiento, esto último gracias a la maravillosa `DiagrammeR <https://rich-iannone.github.io/DiagrammeR/>`_, herramienta que recomiendo ampliamente.
