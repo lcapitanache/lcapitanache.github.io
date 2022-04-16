@@ -11,7 +11,7 @@ Terminados los preámbulos aclaratorios, se describen a continuación los pasos 
 
     Por favor, antes de continuar con las instrucciones tome nota que: 
 
-    1.  Para proseguir usted debe poder identificar las partes de un ``microscopio compuesto`` y conocer su correspondiente uso. Dé un repaso a la sección :doc:`partes-de-un-microscopio` si es necesario.
+    1.  Para proseguir usted debe poder identificar las partes de un ``microscopio compuesto`` y conocer su correspondiente uso. Dé un repaso a la sección :doc:`../el-microscopio/partes-de-un-microscopio` si es necesario.
 
     2.  Usted no debe seguir estas instrucciones para utilizar el ``objetivo 100x`` si antes no ha leído la sección :doc:`como-utilizar-el-objetivo-100x`.
 
@@ -80,4 +80,4 @@ Procedimiento
 Diagrama de flujo
 -----------------
 
-.. image:: images/diag-enfoque.svg
+.. image:: ../images/diag-enfoque.svg

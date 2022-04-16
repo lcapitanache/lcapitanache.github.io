@@ -4,14 +4,14 @@ Técnicas de iluminación
 Introducción
 ------------
 
-Como se vio en la sección :doc:`tipos-de-microscopio`, existen distintos tipos de microscopios, y este documento se centra en aquellos que son los llamados compuestos. Cabe hacer también la aclaración de que existen diferentes técnicas de iluminación para utilizar en un microscopio compuesto. Técnicas tales como el **campo oscuro**, la **iluminación oblicua**, o la **Rheinberg**, por sólo mencionar algunas de las muchas disponibles.
+Como se vio en la sección :doc:`../el-microscopio/tipos-de-microscopio`, existen distintos tipos de microscopios, y este documento se centra en aquellos que son los llamados compuestos. Cabe hacer también la aclaración de que existen diferentes técnicas de iluminación para utilizar en un microscopio compuesto. Técnicas tales como el **campo oscuro**, la **iluminación oblicua**, o la **Rheinberg**, por sólo mencionar algunas de las muchas disponibles.
 
 ¿Por qué tantas técnicas? Porque dependiendo de la muestra es más factible utilizar una técnica de iluminación u otra, y así poder obtener una mayor información de lo que se ve. Por ejemplo, para apreciar mejor a los espermatozoides en una espermatobioscopía, la Organización Mundial de la Salud recomienda el empleo de la técnica de **contraste de fases** en su manual `«WHO Laboratory Manual for the Examination and Processing of Human Semen» <https://www.who.int/publications/i/item/9789240030787>`_, del cual recién ha publicado su sexta edición.
 
 También es importante recalcar aquí la diferencia entre tipos de microscopio y técnicas de iluminación, ya que **no son sinónimos**, y es frecuente que las personas empleen términos como «microscopio de campo oscuro» o «microscopio de contraste de fases» para referirse ---según ellas--- a tipos de microscopios, cuando a lo que en realidad se refieren es a técnicas de iluminación. Si razonamos bien la diferencia, nos daremos cuenta de que esto significa que un microscopio puede ser *adaptado* para emplear una o más técnicas de iluminación. Para hacer uso de dichas técnicas en un microscopio que normalmente utilice campo claro, primero tenemos que informarnos bien en la técnica que querramos utilizar y, posteriormente, llevar a cabo las implementaciones necesarias para efectuarlas. Así pues ---por ejemplo--- veremos que para emplear la técnica de campo oscuro se necesitan condensadores especiales (:numref:`condensadores`).
 
 .. _condensadores:
-.. figure:: images/condensadores.jpg
+.. figure:: ../images/condensadores.jpg
    :figclass: margin-caption
    :alt: Condensadores para la técnica de campo oscuro
 
@@ -27,7 +27,7 @@ Campo claro
 -----------
 
 .. _brightfield:
-.. figure:: images/brightfield-condylostoma.jpg
+.. figure:: ../images/brightfield-condylostoma.jpg
    :figclass: margin-caption
    :alt: Condylostoma sp.
 
@@ -46,7 +46,7 @@ Campo oscuro
 ------------
 
 .. _darkfield:
-.. figure:: images/darkfield-hydra.jpg
+.. figure:: ../images/darkfield-hydra.jpg
    :figclass: margin-caption
    :alt: Hidra capturando una Daphnia.
 
@@ -65,7 +65,7 @@ Contraste de fases
 ------------------
 
 .. _phase:
-.. figure:: images/phase-licmophora.jpg
+.. figure:: ../images/phase-licmophora.jpg
    :figclass: margin-caption
    :alt: Licmophora flabellata.
 
@@ -82,7 +82,7 @@ Contraste de interferencia diferencial (DIC)
 --------------------------------------------
 
 .. _dic:
-.. figure:: images/dic-rotifer.jpg
+.. figure:: ../images/dic-rotifer.jpg
    :figclass: margin-caption
    :alt: Rotífero mostrando la boca y la corona.
 
@@ -100,13 +100,13 @@ Fluorescencia
 -------------
 
 .. _fluor:
-.. figure:: images/fluorescence-soybean-stem.jpg
+.. figure:: ../images/fluorescence-soybean-stem.jpg
    :figclass: margin-caption
    :alt: Sección transversal de un tallo de soja.
 
    Sección transversal de un tallo de soja, teñido con dos fluorocromos para mostrar la distribución de celulosa (azul) y lignina (amarillo). Imagen de Phil Gates para la `1985 Nikon's Small World Photomicrography Competition <https://www.nikonsmallworld.com/galleries/1985-photomicrography-competition/transverse-section-of-soybean-stem-stained-with-two-fluorochromes-to-show-d>`_.
 
-La técnica de **fluorescencia** utiliza iluminación de alta intensidad para excitar *moléculas fluorescentes* presentes en el espécimen. Recordemos ---como ya se vio en :doc:`la-naturaleza-de-la-luz`--- que cuando un electrón absorbe energía éste se excita y salta aun nivel e energía mayor, para luego relajarse y volver a su estado basal. Como resultado de este salto de retorno, el espectro de emisión se desplaza a longitudes de onda más largas. Este es el principio de esta técnica.
+La técnica de **fluorescencia** utiliza iluminación de alta intensidad para excitar *moléculas fluorescentes* presentes en el espécimen. Recordemos ---como ya se vio en :doc:`../algo-de-teoria/la-naturaleza-de-la-luz`--- que cuando un electrón absorbe energía éste se excita y salta aun nivel e energía mayor, para luego relajarse y volver a su estado basal. Como resultado de este salto de retorno, el espectro de emisión se desplaza a longitudes de onda más largas. Este es el principio de esta técnica.
 
 La muestra se irradia con una banda deseada y específica de longitudes de onda y luego se separa la fluorescencia emitida de la luz de excitación. Sólo la luz de emisión alcanza el ojo del observador para que las estructuras fluorescentes resultantes se superpongan con alto contraste sobre un fondo muy oscuro, o negro.
 
@@ -119,7 +119,7 @@ Iluminación Köhler
 ------------------
 
 .. _kohler:
-.. figure:: images/kohler-tissue.jpg
+.. figure:: ../images/kohler-tissue.jpg
    :figclass: margin-caption
    :alt: Tejido de colon con tinción
 
@@ -138,7 +138,7 @@ Iluminación oblicua
 -------------------
 
 .. _oblique:
-.. figure:: images/oblique-salt.jpg
+.. figure:: ../images/oblique-salt.jpg
    :figclass: margin-caption
    :alt: Cristal de sal de mesa
 
@@ -155,7 +155,7 @@ Iluminación Rheinberg
 ---------------------
 
 .. _rheinberg:
-.. figure:: images/rheinberg-feather.jpg
+.. figure:: ../images/rheinberg-feather.jpg
    :figclass: margin-caption
    :alt: Pluma de pájaro cardenal dominicano
 
@@ -170,7 +170,7 @@ Luz polarizada
 --------------
 
 .. _polarized:
-.. figure:: images/polarized-amino.jpg
+.. figure:: ../images/polarized-amino.jpg
    :figclass: margin-caption
    :alt: Aminoácidos cristalizados
 
@@ -187,7 +187,7 @@ Otras técnicas
 --------------
 
 .. _reflected:
-.. figure:: images/reflected-halyzia.jpg
+.. figure:: ../images/reflected-halyzia.jpg
    :figclass: margin-caption
    :alt: Sección de la cabeza de una mariquita naranja
 

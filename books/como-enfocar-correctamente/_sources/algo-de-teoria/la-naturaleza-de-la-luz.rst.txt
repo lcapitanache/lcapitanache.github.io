@@ -7,7 +7,7 @@ Introducción
 En términos sucintos, la **luz** es un tipo de energía denominada **radiación electromagnética**, que a su vez es un **campo electromagnético variable** (:numref:`onda-electromagnetica`); es decir, una combinación de campos eléctricos y magnéticos oscilantes que transportan energía. 
 
 .. _onda-electromagnetica:
-.. figure:: images/onda-electromagnetica.svg
+.. figure:: ../images/onda-electromagnetica.svg
    :figclass: margin-caption
    :alt: Onda electromagnética
 
@@ -19,7 +19,7 @@ La **radiación electromagnética** comprende la radiación gamma, los rayos x, 
 Este espectro de radiaciones puede graficarse en una banda de colores que van desde el violeta ---más energético--- al rojo ---menos energético---, los cuales comprenden la **luz visible** (:numref:`espectro`). Más allá de estos rangos, las radiaciones no son visibles al ojo humano.
 
 .. _espectro:
-.. figure:: images/espectro.svg
+.. figure:: ../images/espectro.svg
    :figclass: margin-caption
    :alt: Espectro de luz visible
 
@@ -38,12 +38,11 @@ El átomo y los niveles de energía
 Los **átomos** están compuestos por un núcleo formado por neutrones y protones, y por una nube de **electrones** que gira a su alrededor (:numref:`atomo`). Estos electrones giran en órbitas ordenadas en **niveles**, unos más alejados de otros. Puesto que el núcleo ejerce una atracción gravitatoria sobre los electrones, éstos últimos necesitan cada vez más **energía** según se alejan del núcleo, por lo que se entiende que los niveles más alejados son más energéticos.
 
 .. _atomo:
-.. figure:: images/atomo.svg
+.. figure:: ../images/atomo.svg
    :figclass: margin-caption
    :alt: Átomo de magnesio
 
    Átomo con tres niveles de energía (órbitas): dos electrones en su primer nivel, ocho en el segundo (de acuerdo al `principio de Aufbau <https://es.wikipedia.org/wiki/Principio_de_Aufbau>`_) y dos en el tercero. La existencia de doce electrones revela que este esquema es el de un átomo de magnesio.
-
 
 
 La emisión de energía
@@ -52,14 +51,14 @@ La emisión de energía
 Cuando un electrón gana energía, se energiza, **se excita**. El electrón entonces se mueve a un estado de energía más alto dentro del propio átomo; es decir, pasa de una órbita a otra más externa, más alejada del núcleo (:numref:`niveles-energia`). El electrón gasta energía en ese salto y en su movimiento en contra de la gravedad del átomo. Cuando la energía se agota, el electrón se relaja y regresa a su estado basal original. Es justamente en ese retorno cuando ocurre una **emisión de energía** en forma de **radiación electromagnética** (:numref:`salto`); en forma de **fotón**. El fotón es la unidad de la **luz**. *El fotón es la luz*.
 
 .. _niveles-energia:
-.. figure:: images/niveles-energia.svg
+.. figure:: ../images/niveles-energia.svg
    :figclass: margin-caption
    :alt: Niveles de energía
 
    Niveles de energía. Posterior a la absorción de energía, un electrón puede saltar de su estado basal a un estado excitado de energía. Entre más energía, mayor será el salto.
 
 .. _salto:
-.. figure:: images/atomo-salto.svg
+.. figure:: ../images/atomo-salto.svg
    :figclass: margin-caption
    :alt: Salto de un electrón
 
@@ -74,7 +73,7 @@ El **fotón** es una partícula *sin masa* y cuyo comportamiento puede correspon
 Imagínese a estas ondas como una línea que avanza hacia una dirección dada y ---conforme lo hace--- sube y baja dibujando crestas, curvas y suaves. A *la distancia que hay entre dos crestas contiguas* se le conoce como **longitud de onda** (:math:`{\lambda}`) (:numref:`onda`), la cual se mide en **nanómetros (nm)**. ¿Cuánto es un nanómetro? Es un concepto difícil de imaginar: tome un metro y divídalo en mil millones de partes iguales. Cada una de esas partes es un nanómetro.
 
 .. _onda:
-.. figure:: images/onda.svg
+.. figure:: ../images/onda.svg
    :figclass: margin-caption
    :alt: Longitud de onda
 
@@ -94,14 +93,14 @@ La frecuencia es importante porque determina **qué tan energética** es una rad
 
 
 .. _baja-energia:
-.. figure:: images/baja-energia.svg
+.. figure:: ../images/baja-energia.svg
    :figclass: margin-caption
    :alt: Onda de baja energía
 
    Onda de baja energía.
 
 .. _alta-energia:
-.. figure:: images/alta-energia.svg
+.. figure:: ../images/alta-energia.svg
    :figclass: margin-caption
    :alt: Onda de alta energía
 
@@ -129,7 +128,7 @@ Dado que existen distintos tipos de átomos y éstos tienen diferentes frecuenci
 El fenómeno de la absorción está directamente relacionado con el del **color**, el cual se aborda más adelante.
 
 .. _absorcion:
-.. figure:: images/absorcion.svg
+.. figure:: ../images/absorcion.svg
    :figclass: margin-caption
    :alt: Absorción de un haz de luz
 
@@ -151,7 +150,7 @@ Ahora bien, si los átomos del medio están muy bien ordenados, dando una estruc
 
 
 .. _reflexion:
-.. figure:: images/reflexion.svg
+.. figure:: ../images/reflexion.svg
    :figclass: margin-caption
    :alt: Reflexión especular de un haz de luz
 
@@ -172,7 +171,7 @@ En el vacio, la luz se desplaza a la sorprendente velocidad de 299 792 458 m * s
 En términos muy simples, cuando las ondas de luz pasan de un medio a otro ---como del aire al agua, o del aire a un lente, por ejemplo---, los fotones se encuentran con otras partículas que obstaculizan su camino, resultando en una **desaceleración**. Esta desaceleración es la responsable de la modificación de la dirección de los fotones, lo que produce el fenómeno de la refracción (:numref:`refraccion`).
 
 .. _refraccion:
-.. figure:: images/refraccion.svg
+.. figure:: ../images/refraccion.svg
    :figclass: margin-caption
    :alt: Refracción de un haz de luz
 

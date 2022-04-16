@@ -42,7 +42,7 @@ Para llevar a cabo una correcta observación con el ``objetivo 100x``, haga lo s
     -   El ``aceite de inmersión``, por sus propiedades físicas, debe ser utilizado directamente sobre el ``portaobjetos`` ---y no sobre el ``cubreobjetos``--- por lo que la muestra deberá ser previamente fijada con técnicas químicas o de calor. Por tanto, se induce que el ``aceite de inmersión`` no ha de emplearse con muestras vivas.
     
 .. _cargille:
-.. figure:: images/cargille.jpg
+.. figure:: ../images/cargille.jpg
    :figclass: margin-caption
    :width: 200 px
    :height: 400 px
@@ -66,5 +66,5 @@ Para llevar a cabo una correcta observación con el ``objetivo 100x``, haga lo s
 Diagrama de flujo
 -----------------
 
-.. image:: images/diag-100x.svg
+.. image:: ../images/diag-100x.svg
 

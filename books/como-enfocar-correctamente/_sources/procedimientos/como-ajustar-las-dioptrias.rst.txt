@@ -28,4 +28,4 @@ Procedimiento
 Diagrama de flujo
 -----------------
 
-.. image:: images/diag-dioptrias.svg
+.. image:: ../images/diag-dioptrias.svg

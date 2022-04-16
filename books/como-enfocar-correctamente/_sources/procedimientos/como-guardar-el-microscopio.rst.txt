@@ -11,7 +11,7 @@ Los ``microscopios compuestos`` son una pieza de ingeniería tan maravillosa com
     Si lo que usted desea es transportar el microscopio de un lugar a otro, siga los pasos descritos en este procedimiento, con la salvedad de que deberá resguardar el instrumento en un medio apropiado para su transporte, como un ``maletín`` (:numref:`case`).
 
 .. _case:
-.. figure:: images/case.jpg
+.. figure:: ../images/case.jpg
    :figclass: margin-caption
    :alt: Maletín para microscopio
 
@@ -46,4 +46,4 @@ Procedimiento
 Diagrama de flujo
 -----------------
     
-.. image:: images/diag-guardar.svg
+.. image:: ../images/diag-guardar.svg

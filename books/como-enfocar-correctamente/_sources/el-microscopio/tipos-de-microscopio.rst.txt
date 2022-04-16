@@ -8,31 +8,31 @@ Los ``microscopios compuestos`` tienen ciertas partes organizadas de una forma c
 Queda pues, aclarado a qué tipo de dispositivos aplica este documento y a cuáles no. 
 
 
-.. figure:: images/estereo.jpg
+.. figure:: ../images/estereo.jpg
    :figclass: margin-caption
    :alt: Microscopio estereoscópico
 
    ``Microscopio estereoscópico``. Obsérvese la ausencia de partes conocidas, como la ``platina``, el ``revólver`` o el ``condensador``.
 
-.. figure:: images/invertido.jpg
+.. figure:: ../images/invertido.jpg
    :figclass: margin-caption
    :alt: Microscopio invertido
 
    ``Microscopio invertido`` con técnica de ``epifluorescencia``. Nótese que el ``revólver`` se encuentra debajo de la ``platina``, que el ``condensador`` se ubica sobre la muestra, y que la ``fuente de iluminación`` se halla encima de éste.
 
-.. figure:: images/metalúrgico.jpg
+.. figure:: ../images/metalúrgico.jpg
    :figclass: margin-caption
    :alt: Microscopio metalúrgico
 
    ``Microscopio metalúrgico``. Las rocas y minerales, al ser opacos, son iluminados por luz reflejada. Preste especial atención en la estructura de la ``platina`` y del ``condensador``.
 
-.. figure:: images/electrones.jpg
+.. figure:: ../images/electrones.jpg
    :figclass: margin-caption
    :alt: Microscopio de electrones
 
    ``Microscopio de electrones``. Voluminoso y de aspecto atípico. Requiere de grandes espacios para acelerar los electrones que impactan en la muestra.
 
-.. figure:: images/compuesto.jpg
+.. figure:: ../images/compuesto.jpg
    :figclass: margin-caption
    :alt: Microscopio compuesto
 

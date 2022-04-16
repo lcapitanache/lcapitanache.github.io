@@ -1,0 +1,17 @@
+Procedimientos
+==============
+
+En esta parte se describe una serie de **procedimientos** para emplear con el *microscopio compuesto*, los cuales son el meollo de este libro.
+
+Cada uno de estos procedimientos está desglosado **paso a paso** y es acompañado por un **diagrama de flujo**, a fin de facilitar y agilizar su consulta y digerimiento.
+
+.. toctree::
+   :caption: Contenido
+   :maxdepth: 1
+   
+   como-enfocar-correctamente
+   como-ajustar-las-dioptrias
+   precauciones-durante-la-observacion
+   como-utilizar-el-objetivo-100x
+   como-guardar-el-microscopio
+   

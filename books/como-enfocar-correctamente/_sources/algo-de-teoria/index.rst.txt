@@ -1,0 +1,12 @@
+Algo de teoría
+==============
+
+A continuación se describe **algo de teoría** relativa a microscopía. Naturalmente, puede saltarse este capítulo; no obstante, es recomendable que no lo haga y que preste especial atención a las siguientes secciones, ya que se explican ---de forma clara y sencilla--- ciertos conceptos que son indispensables para *comprender* lo que se hace.
+
+.. toctree::
+   :caption: Contenido
+   :maxdepth: 1
+   
+   la-naturaleza-de-la-luz
+   tecnicas-de-iluminacion
+   

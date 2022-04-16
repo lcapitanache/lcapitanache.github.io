@@ -1,7 +1,7 @@
 Partes de un microscopio
 ========================
 
-.. image:: images/microscopio.png
+.. image:: ../images/microscopio.png
 
 +-------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
 | Parte                               | Función                                                                                                                   | 
@@ -60,7 +60,7 @@ En este libro se asume el empleo de oculares ``10x``.
 Además de lo anterior, cabe resaltar que algunos modelos de ``oculares`` ofrecen ciertas prestaciones (:numref:`oculares`), como la expansión del ``campo de visión`` y un sistema de enfoque de dioptrías (ver la sección [Cómo ajustar las dioptrías]).
 
 .. _oculares:
-.. figure:: images/oculares.jpg
+.. figure:: ../images/oculares.jpg
    :figclass: margin-caption
    :width: 400 px
    :height: 400 px
@@ -82,7 +82,7 @@ Finalmente cabe mencionar que, para fotografías con propósito de investigació
 
 
 .. _formatos:
-.. figure:: images/formatos.svg
+.. figure:: ../images/formatos.svg
    :figclass: margin-caption
    :alt: Formatos de imagen
 
@@ -102,7 +102,7 @@ Además del aumento, los ``objetivos`` pueden llegar a tener características es
 
 
 .. _objetivos:
-.. figure:: images/objetivos.jpg
+.. figure:: ../images/objetivos.jpg
    :figclass: margin-caption
    :alt: Detalle de los oculares
 
