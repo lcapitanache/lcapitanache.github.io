@@ -23,6 +23,17 @@ En la mayoría de microscopios, el ``objetivo 100x`` es el único con capacidad 
 
     3.  Que tiene al alcance de la mano el material necesario para la limpieza del ``objetivo 100x``. De preferencia los recomendados por el fabricante del ``aceite de inmersión`` que usted posee.
 
+.. danger::
+    Tenga mucho cuidado al manipular el ``aceite de inmersión``, ya que se trata de una **sustancia corrosiva**. Evite a toda costa el contacto con la piel o los ojos.
+
+    Si tiene un accidente, haga lo siguiente:
+
+    - **Ojos**: Lave con abundante agua durante 15 minutos o más.
+
+    - **Piel**: Lave con abundante agua y jabón, preferiblemente líquido.
+
+    Si la apariencia de sus ojos o piel cambia, o si el dolor persiste, solicite inmediatamente atención médica.
+
 
 Procedimiento
 -------------

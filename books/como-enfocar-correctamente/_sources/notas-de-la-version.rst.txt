@@ -1,8 +1,11 @@
 Notas de la versión
 ===================
 
+:2022, abr. 18:
+    Desarrollo de :doc:`el-microscopio/tipos-de-microscopio`. Ahora se tienen breves y concisos conceptos de los distintos tipos de microscopio para aprender a **reconocerlos** fácilmente.
+
 :2022, abr. 15:
-    Reestructuración interna. Los temas ahora se encuentran divididos de forma pulcra dentro de **capítulos**, haciendo al libro más sencillo de consultar.
+    Reestructuración interna. Los temas ahora se encuentran divididos de forma pulcra dentro de **capítulos**, haciendo que el libro sea más sencillo de consultar.
 
 :2022, abr. 14:
     Desarrollo de algunas :doc:`algo-de-teoria/tecnicas-de-iluminacion`, acompañadas de bellísimas imágenes de la `Nikon's Small World Photomicrography Competition <https://www.nikonsmallworld.com/>`_.

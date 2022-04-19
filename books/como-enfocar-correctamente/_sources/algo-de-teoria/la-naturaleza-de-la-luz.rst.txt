@@ -44,6 +44,7 @@ Los **átomos** están compuestos por un núcleo formado por neutrones y protone
 
    Átomo con tres niveles de energía (órbitas): dos electrones en su primer nivel, ocho en el segundo (de acuerdo al `principio de Aufbau <https://es.wikipedia.org/wiki/Principio_de_Aufbau>`_) y dos en el tercero. La existencia de doce electrones revela que este esquema es el de un átomo de magnesio.
 
+.. _la-emision-de-energia:
 
 La emisión de energía
 `````````````````````
@@ -142,7 +143,7 @@ La **reflexión** es el fenómeno en el cual un haz de luz «rebota» cuando inc
 
 Ahora bien, la simple definición anterior tiene algunos detalles. 
 
-Cuando los fotones de las ondas de un haz de luz inciden sobre un medio, excitan a los electrones de dicho medio y luego éstos liberan energía en forma de fotones (véase [La emisión de energía]). 
+Cuando los fotones de las ondas de un haz de luz inciden sobre un medio, excitan a los electrones de dicho medio y luego éstos liberan energía en forma de fotones (véase :ref:`la-emision-de-energia`). 
 
 De lo anterior se deduce algo muy importante. Y es que los fotones que inciden sobre el medio **no son los mismos** que luego son emitidos, sino que se trata de otros diferentes. Por lo tanto, el decir que la reflexión es el «rebote» de la luz es sólo una forma simple de explicar el fenómeno, pero no es lo que en verdad ocurre. No se confunda: los fotones no rebotan porque no tienen masa. Así de simple.
 
