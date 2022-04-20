@@ -54,7 +54,7 @@ Glosario
 
         Suelen ser de forma cuadrada (22 x 22 mm), aunque también existen presentaciones rectángulares y cirulares. Su grosor puede variar, por lo general entre los 0.14 y 0.21 mm. 
         
-        El grosor del cubreobjetos es muy importante, ya que los ``objetivos`` requieren de cierto grosor para garantizar la calidad de la observación. Este valor suele venir grabado en el cuepor del ``objetivo`` y suele ser de *0.17 mm*, que es la medida estandarizada.
+        El grosor del cubreobjetos es muy importante, ya que los ``objetivos`` requieren de cierto grosor para garantizar la calidad de la observación. Este valor suele venir grabado en el cuerpo del ``objetivo`` y suele ser de *0.17 mm*, que es la medida estandarizada.
 
         El acabado del cubreobjetos también es un factor a tener en cuenta en la experiencia de observación, por lo que ---siempre que le sea posible--- trate de utilizar sólo cubreobjetos de excelente calidad.
 
@@ -79,7 +79,7 @@ Glosario
             Retrato de Anton van Leeuwenhoek. Hombre brillante que, sin haber recibido educación científica formal, revolucinó al mundo con sus descubrimientos y observaciones.
 
     analito
-        Todo aquello que sea el objeto de interés o de estudio. Es importante no confundirlo con la *muestra*, ya que esta última es una parte representativa del analito, o aquello que lo contiene.
+        Todo aquello que sea el objeto de interés o de estudio. Es importante no confundirlo con la *muestra*, ya que esta última es una parte representativa del analito, o de aquello que lo contiene.
 
         Por ejemplo, suponga que le extrae sangre a un individuo para luego estudiar sus eritrocitos ---también llamados *hematíes* o *glóbulos rojos*---. En este caso, la muestra sería la sangre, y los eritrocitos, el analito.
 

@@ -5,7 +5,7 @@ Precauciones durante la observación
 
 2.	Si decide bajar de un aumento mayor a uno menor, hágalo siempre de uno en uno, ajustando la muestra al centro con los controles de la ``platina``, para que de esta forma nunca pierda el objeto de interés en la muestra.
 
-3.	Jamás use el ``tornillo macrométrico`` para enfocar la muestra, a menos que sea con el ``objetivo`` de menor aumento. Este tornillo debe emplearse sólo la primera vez, según las instrucciones antes descritas, y en los demás ``objetivos`` debe emplearse siempre el ``tornillo micrométrico``. 
+3.	Jamás use el ``tornillo macrométrico`` para enfocar la muestra, a menos que sea con el ``objetivo`` de menor aumento. Este tornillo debe emplearse sólo la primera vez, según las instrucciones antes descritas. En los demás ``objetivos`` debe emplearse siempre el ``tornillo micrométrico``. 
 
 .. warning::
     Si usted hace caso omiso de este último punto puede romper el portaobjetos, dañar la muestra, o ---peor aún--- dañar permanentemente la lente del ``objetivo``.
