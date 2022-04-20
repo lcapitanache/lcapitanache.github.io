@@ -55,7 +55,7 @@ Para llevar a cabo una correcta observación con el ``objetivo 100x``, haga lo s
 .. _cargille:
 .. figure:: ../images/cargille.jpg
    :figclass: margin-caption
-   :width: 200 px
+   :width: 175 px
    :height: 400 px
    :alt: Aceite de inmersión Cargille
 

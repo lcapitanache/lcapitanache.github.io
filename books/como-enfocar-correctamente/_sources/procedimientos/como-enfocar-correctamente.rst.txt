@@ -37,7 +37,7 @@ Procedimiento
 
 9.  Ajuste la ``distancia interpupilar`` ---la separación entre los ``oculares``--- para adecuarlos a la distancia de sus ojos. Algunos ``oculares`` se configuran sujetando la base de los ``oculares`` hacia arriba y abajo, mientras que otros lo hacen hacia fuera o adentro. Sabrá que la distancia es la correcta cuando, al observar a través de los ``oculares``, vea un único círculo.
 
-10. Coloque el ``portaobjetos`` con la muestra de interés en la ``platina`` y asegúrela. Siempre manipule el ``portaobjetos`` con cuidado por sus orillas y nunca lo toque en su superficie. Recuerde que el ``cubreobjetos`` va siempre hacia arriba.
+10. Coloque el ``portaobjetos`` con la muestra de interés en la ``platina`` y asegúrela. Siempre manipule el ``portaobjetos`` con cuidado por sus orillas y nunca lo toque en su superficie. Recuerde que el :term:`cubreobjetos` va siempre hacia arriba.
 
 11. Ajuste la posición de la muestra con los controles de la ``platina``, desplazándose en el eje de la X y de la Y según sea necesario. No observe a través de los ``oculares`` todavía, hágalo viendo directamente al ``portaobjetos`` sobre la ``platina``. El haz de luz debe atravesar la muestra de interés.
 
