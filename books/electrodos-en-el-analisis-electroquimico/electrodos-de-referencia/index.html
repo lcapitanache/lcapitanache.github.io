@@ -1,0 +1,418 @@
+
+<!DOCTYPE html>
+
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>4. Electrodos de referencia &#8212; Electrodos en el análisis electroquímico</title>
+    
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="../static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="../static/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../static/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../static/fa-brands-400.woff2">
+
+    <link rel="stylesheet" type="text/css" href="../static/pygments.css" />
+    <link rel="stylesheet" href="../static/styles/sphinx-book-theme.css?digest=ab8a7441659eed224aff3a6cd476cdf4722dd7c6" type="text/css" />
+    
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+
+    <script data-url_root="../" id="documentation_options" src="../static/documentation_options.js"></script>
+    <script src="../static/jquery.js"></script>
+    <script src="../static/underscore.js"></script>
+    <script src="../static/doctools.js"></script>
+    <script src="../static/scripts/sphinx-book-theme.js?digest=f31d14ad54b65d19161ba51d4ffff3a77ae00456"></script>
+    <script src="../static/translations.js"></script>
+    <link rel="shortcut icon" href="../static/icon-512.png"/>
+    <link rel="index" title="Índice" href="../genindex.html" />
+    <link rel="search" title="Búsqueda" href="../search.html" />
+    <link rel="next" title="4.4.1. Electrodo de plata/cloruro de plata" href="electrodo-de-plata-cloruro-de-plata.html" />
+    <link rel="prev" title="3. Celda electroquímica" href="../celda-electroquimica.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="es">
+    
+
+    <!-- Google Analytics -->
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="../index.html">
+      
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="../static/logo.png" class="logo" alt="logo">
+      
+      
+    </a>
+    <div class="written">
+      <p>Made with <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="purple" class="bi bi-lightbulb" viewBox="0 0 16 16">
+        <path d="M2 6a6 6 0 1 1 10.174 4.31c-.203.196-.359.4-.453.619l-.762 1.769A.5.5 0 0 1 10.5 13a.5.5 0 0 1 0 1 .5.5 0 0 1 0 1l-.224.447a1 1 0 0 1-.894.553H6.618a1 1 0 0 1-.894-.553L5.5 15a.5.5 0 0 1 0-1 .5.5 0 0 1 0-1 .5.5 0 0 1-.46-.302l-.761-1.77a1.964 1.964 0 0 0-.453-.618A5.984 5.984 0 0 1 2 6zm6-5a5 5 0 0 0-3.479 8.592c.263.254.514.564.676.941L5.83 12h4.342l.632-1.467c.162-.377.413-.687.676-.941A5 5 0 0 0 8 1z"/>
+      </svg></p>
+    </div>
+</div><form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Buscar en el libro ..." aria-label="Search the docs ..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../index.html">
+                    Proemio
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Índice de contenido
+ </span>
+</p>
+<ul class="current nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../notas-de-la-version.html">
+   1. Notas de la versión
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../dedicatoria.html">
+   2. Dedicatoria
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../celda-electroquimica.html">
+   3. Celda electroquímica
+  </a>
+ </li>
+ <li class="toctree-l1 current active has-children">
+  <a class="current reference internal" href="#">
+   4. Electrodos de referencia
+  </a>
+  <input checked="" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="electrodo-de-plata-cloruro-de-plata.html">
+     4.4.1. Electrodo de plata/cloruro de plata
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../electrodo-auxiliar.html">
+   5. Electrodo auxiliar
+  </a>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../electrodos-indicadores/index.html">
+   6. Electrodos indicadores
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../electrodos-indicadores/metalicos.html">
+     6.1. Electrodos indicadores metálicos
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../electrodos-indicadores/de-membrana.html">
+     6.2. Electrodos indicadores de membrana
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../glosario.html">
+   7. Glosario
+  </a>
+ </li>
+</ul>
+
+    </div>
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
+</div>
+
+
+          
+
+
+          
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
+    
+    <div class="header-article row sticky-top noprint">
+        
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Alternar panel"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right"><label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
+    </div>
+</div>
+
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> En esta página
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#proposito-y-usos">
+   4.1. Propósito y usos
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#diseccion-de-un-electrodo-de-referencia">
+   4.2. Disección de un electrodo de referencia
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#consideraciones-para-su-eleccion">
+   4.3. Consideraciones para su elección
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#opciones-disponibles">
+   4.4. Opciones disponibles
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#referencias">
+   4.5. Referencias
+  </a>
+ </li>
+</ul>
+
+    </nav>
+</div>
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Electrodos de referencia</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> En esta página </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#proposito-y-usos">
+   4.1. Propósito y usos
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#diseccion-de-un-electrodo-de-referencia">
+   4.2. Disección de un electrodo de referencia
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#consideraciones-para-su-eleccion">
+   4.3. Consideraciones para su elección
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#opciones-disponibles">
+   4.4. Opciones disponibles
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#referencias">
+   4.5. Referencias
+  </a>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <main id="main-content" role="main">
+                
+              <div>
+                
+  <section id="electrodos-de-referencia">
+<h1><span class="section-number">4. </span>Electrodos de referencia<a class="headerlink" href="#electrodos-de-referencia" title="Enlazar permanentemente con este título">#</a></h1>
+<p>Un <strong>electrodo de referencia</strong> es un <a class="reference internal" href="../glosario.html#term-electrodo"><span class="xref std std-term">electrodo</span></a> que tiene un <a class="reference internal" href="../glosario.html#term-potencial-de-equilibrio"><span class="xref std std-term">potencial de equilibrio</span></a> estable y bien conocido. La alta estabilidad del <a class="reference internal" href="../glosario.html#term-potencial"><span class="xref std std-term">potencial</span></a> del electrodo generalmente se alcanza empleando un sistema redox con concentraciones constantes de cada participante de la <a class="reference internal" href="../glosario.html#term-reaccion-redox"><span class="xref std std-term">reacción redox</span></a><a class="footnote-reference brackets" href="#footcite-2000bard" id="id1">1</a>.</p>
+<section id="proposito-y-usos">
+<h2><span class="section-number">4.1. </span>Propósito y usos<a class="headerlink" href="#proposito-y-usos" title="Enlazar permanentemente con este título">#</a></h2>
+<p>El propósito de un electrodo de referencia es proporcionar un potencial <strong>constante</strong> y <strong>definido</strong>. Este potencial está determinado por el electrolito dentro del electrodo y el elemento de referencia utilizado. La mayoría de los electrodos son electrodos combinados, lo que significa que combinan una referencia estable y una celda de trabajo —media celda— en una sonda. El uso de un electrodo de pH combinado tiene sus ventajas, pero no es práctico para todas las aplicaciones. La razón más común para usar electrodos de detección separados —media celda— y de referencia es si se espera que las diferentes partes del electrodo tengan una vida útil diferente. También hay ciertas aplicaciones en las que es más práctico o incluso necesario utilizar un electrodo de referencia separado<a class="footnote-reference brackets" href="#footcite-2021sentek" id="id2">2</a>.</p>
+</section>
+<section id="diseccion-de-un-electrodo-de-referencia">
+<h2><span class="section-number">4.2. </span>Disección de un electrodo de referencia<a class="headerlink" href="#diseccion-de-un-electrodo-de-referencia" title="Enlazar permanentemente con este título">#</a></h2>
+<figure class="margin-caption align-default" id="id4">
+<span id="ref-electrode"></span><img alt="Electrodo de referencia de plata/ion plata" src="../images/ref-2.png" />
+<figcaption>
+<p><span class="caption-number">Figura 4.1 </span><span class="caption-text"><a class="reference external" href="https://redox.me/collections/reference-electrodes/products/silver-silver-ion-reference-electrode-ag-ag-30-mm">Electrodo de referecia de plata/ion plata</a>, especial para medios no acuosos. Contiene iones de litio como electrolito en su interior.</span><a class="headerlink" href="#id4" title="Enlace permanente a esta imagen">#</a></p>
+</figcaption>
+</figure>
+</section>
+<section id="consideraciones-para-su-eleccion">
+<h2><span class="section-number">4.3. </span>Consideraciones para su elección<a class="headerlink" href="#consideraciones-para-su-eleccion" title="Enlazar permanentemente con este título">#</a></h2>
+<p>Dada la importancia, se deben tener ciertas consideraciones para la elección del electrodo de referencia adecuado. Entre las más importantes destacan las siguientes:</p>
+<ul class="simple">
+<li><p><strong>Compatibilidad</strong> con la muestra que se está midiendo: no debe haber interacciones químicas entre la muestra y el electrolito.</p></li>
+<li><p>Debe proporcionar un <strong>potencial estable</strong> para que se pueda realizar una medición precisa.</p></li>
+<li><p>Con <strong>tiempo</strong> de respuesta rápido para asegurar la eficiencia del proceso analítico.</p></li>
+<li><p><strong>Temperatura</strong>: el rango de temperatura del electrodo de calomel saturados (SCE) está limitado a 50 °C. Si la aplicación requiere el uso a una temperatura más alta, se requiere un electrodo alternativo</p></li>
+<li><p><strong>Composición</strong> química de la muestra: ciertos productos químicos pueden degradar el material del cuerpo. Elija el material correcto para adaptarse a la aplicación, por ejemplo, vidrio, epoxi u otros materiales si es necesario.</p></li>
+</ul>
+</section>
+<section id="opciones-disponibles">
+<h2><span class="section-number">4.4. </span>Opciones disponibles<a class="headerlink" href="#opciones-disponibles" title="Enlazar permanentemente con este título">#</a></h2>
+<p>Hay disponible una amplia gama de electrodos de referencia. Algunos de los sistemas más comunes incluyen los siguientes:</p>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="electrodo-de-plata-cloruro-de-plata.html">4.4.1. Electrodo de plata/cloruro de plata</a></li>
+</ul>
+</div>
+<p>De los anteriores, el de <strong>plata/cloruro de plata</strong> es el tipo de sistema de referencia más común; sin embargo, si la muestra es incompatible con la <code class="docutils literal notranslate"><span class="pre">plata</span></code> o el <code class="docutils literal notranslate"><span class="pre">cloro</span></code>, la segunda opción más común es un <strong>electrodo de calomel saturado</strong>. Los electrodos de calomel son muy estables; no obstante, contienen <code class="docutils literal notranslate"><span class="pre">mercurio</span></code>, lo que los hace inadecuados para su uso en ciertas aplicaciones, como alimentos, bebidas o estudios ambientales. Su eliminación también debe controlarse cuidadosamente debido a las implicaciones ambientales.</p>
+</section>
+<section id="referencias">
+<h2><span class="section-number">4.5. </span>Referencias<a class="headerlink" href="#referencias" title="Enlazar permanentemente con este título">#</a></h2>
+<div class="docutils container" id="id3">
+<dl class="footnote brackets">
+<dt class="label" id="footcite-2000bard"><span class="brackets"><a class="fn-backref" href="#id1">1</a></span></dt>
+<dd><p>Bard, Allen J.; Faulkner, Larry R. <em>Electrochemical Methods: Fundamentals and Applications</em>. Wiley, 2 edition, 2000.</p>
+</dd>
+<dt class="label" id="footcite-2021sentek"><span class="brackets"><a class="fn-backref" href="#id2">2</a></span></dt>
+<dd><p>Measor, Amy. A Guide to Reference Electrodes - Setek. Jul 2021. URL: <a class="reference external" href="https://www.sentek.co.uk/a-guide-to-reference-electrodes/">https://www.sentek.co.uk/a-guide-to-reference-electrodes/</a>.</p>
+</dd>
+</dl>
+</div>
+</section>
+</section>
+
+
+              </div>
+              
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
+    <a class='left-prev' id="prev-link" href="../celda-electroquimica.html" title="anterior página">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">anterior</p>
+            <p class="prev-next-title"><span class="section-number">3. </span>Celda electroquímica</p>
+        </div>
+    </a>
+    <a class='right-next' id="next-link" href="electrodo-de-plata-cloruro-de-plata.html" title="siguiente página">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">siguiente</p>
+        <p class="prev-next-title"><span class="section-number">4.4.1. </span>Electrodo de plata/cloruro de plata</p>
+    </div>
+    <i class="fas fa-angle-right"></i>
+    </a>
+</div>
+            </footer>
+        </div>
+    </div>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    <br/>
+  
+  © 2022 Luis Capitanache &nbsp; | &nbsp; <a href="http://twitter.com/lcapitanache" target="_blank">Twitter</a> &nbsp; <a href="http://instagram.com/luis_capitanache" target="_blank">Instagram</a>
+</p>
+        </footer>
+    </div>
+    
+</div>
+
+
+      </div>
+    </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
+
+  </body>
+</html>

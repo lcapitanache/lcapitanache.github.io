@@ -1,0 +1,9 @@
+Electrodos indicadores metálicos
+================================
+
+*Lorem ipsum*.
+
+Referencias
+-----------
+
+.. footbibliography::

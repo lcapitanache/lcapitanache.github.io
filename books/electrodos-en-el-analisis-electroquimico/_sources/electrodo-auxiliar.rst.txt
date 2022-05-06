@@ -1,0 +1,40 @@
+Electrodo auxiliar
+==================
+
+El **electrodo auxiliar** ---también llamado *contraelectrodo*--- proporciona un medio para aplicar potencial de entrada al electrodo de trabajo. 
+
+Propósito y usos
+----------------
+
+El propósito de estos electrodos es **completar** el circuito y permitir que fluya la carga. En consecuencia, deben fabricarse con material inerte, como el ``carbono`` o el ``platino``, y su tamaño debe ser mucho mayor que el electrodo de trabajo para garantizar que no surjan limitaciones de corriente. 
+
+El término *contraelectrodo* se usa mejor en conexión con experimentos de dos electrodos y el electrodo auxiliar se invierte para experimentos de tres electrodos\ :footcite:p:`2012Honeychurch`.
+
+
+Disección de un electrodo auxiliar
+----------------------------------
+
+.. _aux-electrode:
+.. figure:: /images/aux-0.png
+   :figclass: margin-caption
+   :alt: Electrodo auxiliar
+
+   `Electrodo auxiliar de alambre metálico, 99.9% de platino <https://redox.me/collections/metal-wire-auxiliary-electrodes/products/metal-wire-auxiliary-electrode-50hx15-0-6-250-mm>`_. Se proporciona en la celda electroquímica como sumidero de corriente para desviar el exceso de corriente lejos del electrodo de referencia.
+
+
+Consideraciones para su elección
+--------------------------------
+
+Se deben aplicar varias condiciones al electrodo auxiliar para evitar ensuciamiento y errores en la corriente medida en el electroquímico\ :footcite:p:`2005Westbroek`:
+
+- Su **superficie** debe ser al menos diez veces mayor que la superficie del electrodo de trabajo. El objetivo es estudiar la semirreacción que se produce en el electrodo de trabajo. Esto significa que esta semirreacción debe ser la más lenta, ya que ---de lo contrario--- las propiedades de la semirreacción que se produce en el contraelectrodo determinarán las características de la corriente eléctrica medida. Al usar una superficie mucho más grande este problema se evita porque la velocidad de reacción depende de la superficie del electrodo. Por lo tanto, una media reacción relativamente lenta en este electrodo está ocurriendo mucho más rápido que en el electrodo de trabajo ---ya que se transforman más especies por unidad de tiempo--- debido a la superficie mucho más grande que está disponible para la media reacción en el electrodo auxiliar.
+
+- Debe ser un buen **conductor** eléctrico. Esta condición es clara; si el electrodo no es un buen conductor, significa que una pequeña cantidad de corriente puede pasar su interfaz, lo que determinará la corriente medida de la celda electroquímica. Por lo tanto, la corriente medida proporcionará información sobre las propiedades del electrodo auxiliar y no sobre la semirreacción que ocurre en la superficie del electrodo de trabajo.
+
+- El **posicionamiento** del electrodo contra el electrodo de trabajo es muy importante.
+
+
+Referencias
+-----------
+
+.. footbibliography::
