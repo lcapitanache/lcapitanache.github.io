@@ -3,7 +3,7 @@ layout: page
 permalink: /papers/
 title: Papers
 description: Publicaciones científicas que me parecen interesantes.
-years: [2016, 2000, 1998]
+years: [2016, 2013, 2007, 2000, 1998]
 nav: true
 ---
 
