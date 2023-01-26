@@ -39,17 +39,8 @@
               <span class="sr-only">(current)</span>
               {% endif %}
             </a>
-          </li>
+          </li>          
           {% endif %}
-          <!-- Papers -->
-          <li class="nav-item {% if page.title == 'Papers' %}active{% endif %}">
-            <a class="nav-link" href="{{ '/papers/' | relative_url }}">
-              Papers
-              {% if page.title == "Papers" %}
-              <span class="sr-only">(current)</span>
-              {% endif %}
-            </a>
-          </li>
           <!-- Tiamat -->
           <li class="nav-item {% if page.url contains 'tiamat' %}active{% endif %}">
             <a class="nav-link" href="{{ '/tiamat/' | relative_url }}">
@@ -59,6 +50,15 @@
               {% endif %}
             </a>
           </li>
+          <!-- Papers -->
+          <li class="nav-item {% if page.title == 'Papers' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/papers/' | relative_url }}">
+              Papers
+              {% if page.title == "Papers" %}
+              <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>          
         </ul>
       </div>
     </div>
