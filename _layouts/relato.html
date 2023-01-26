@@ -22,4 +22,8 @@ layout: default
   <p class="relato-author">—Luis Capitanache.</p>
   <p class="relato-author">Licencia: <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es" target="_blank">CC BY-NC-ND 4.0</a></p>
   <div class="content-media">{% include share-buttons.html %}</div>
+
+  {%- if site.giscus.repo and page.giscus_comments -%}
+    {% include giscus.html %}
+  {%- endif -%}
 </div>

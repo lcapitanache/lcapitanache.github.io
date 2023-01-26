@@ -3,6 +3,7 @@ layout: post
 title:  Cómo enfocar correctamente un microscopio
 date:   2022-03-21 14:10:00
 description: Publicación de mi primer booklet.
+tags: ciencia microscopio libro
 ---
 
 <div class="profile float-right">

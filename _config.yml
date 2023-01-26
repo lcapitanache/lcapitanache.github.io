@@ -93,9 +93,22 @@ permalink: /blog/:year/:title/
 pagination:
   enabled: true
 
-# Comments
-#disqus_shortname: al-folio  put your disqus shortname
-# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+# Giscus comments (RECOMMENDED)
+# Follow instructions on https://giscus.app/ to setup for your repo to fill out
+# the information below.
+giscus:
+  repo: lcapitanache/lcapitanache.github.io      # <your-github-user-name>/<your-github-repo-name>
+  repo_id: MDEwOlJlcG9zaXRvcnk0MDc3NDMzNzE=
+  category: Comments             # name of the category under which discussions will be created
+  category_id: DIC_kwDOGE2ri84CTz0h
+  mapping: title                 # identify discussions by post title
+  strict: 1                      # use strict identification mode
+  reactions_enabled: 0           # enable (1) or disable (0) emoji reactions
+  input_position: top         # whether to display input form below (bottom) or above (top) the comments
+  theme: preferred_color_scheme  # name of the color scheme (preferred works well with al-folio light/dark mode)
+  emit_metadata: 0
+  loading: lazy
+  lang: es
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -115,6 +128,17 @@ collections:
     permalink: /tiamat/:year/:title/
 
 news_limit: 10
+
+# -----------------------------------------------------------------------------
+# Jekyll Archives
+# -----------------------------------------------------------------------------
+
+jekyll-archives:
+  enabled: [tags] # enables year, tag and category archives (remove if you need to disable one of them).
+  layouts:    
+    tag: archive-tag    
+  permalinks:    
+    tag: '/tags/:name/'    
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -148,17 +172,41 @@ keep_files:
 
 # Plug-ins
 plugins:
+  - jekyll-archives
+  - jekyll-diagrams
   - jekyll-email-protect
+  # - jekyll-feed
   - jekyll-github-metadata
-# - jekyll-feed
+  - jekyll-imagemagick
+  - jekyll-link-attributes
+  - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll/scholar
-  - jekyll-twitter-plugin
   - jekyll-sitemap
+  - jekyll-twitter-plugin
   - jemoji
 
 # Extras
 github: [metadata]
+
+# -----------------------------------------------------------------------------
+# Jekyll Link Attributes
+# -----------------------------------------------------------------------------
+
+# These are the defaults
+external_links:
+  enabled: true
+  rel: external nofollow noopener
+  target: _blank
+  exclude:
+
+# -----------------------------------------------------------------------------
+# Jekyll Diagrams
+# -----------------------------------------------------------------------------
+
+jekyll-diagrams:
+    # configuration, see https://github.com/zhustec/jekyll-diagrams.
+    # feel free to comment out this section if not using jekyll diagrams.
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

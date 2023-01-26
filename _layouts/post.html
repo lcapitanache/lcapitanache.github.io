@@ -24,4 +24,8 @@ layout: default
     Licencia: <a href="https://creativecommons.org/licenses/by/4.0/deed.es" target="_blank">CC BY 4.0</a>
   </div>
   <div class="content-media">{% include share-buttons.html %}</div>
+
+  {%- if site.giscus.repo and page.giscus_comments -%}
+    {% include giscus.html %}
+  {%- endif -%}
 </div>

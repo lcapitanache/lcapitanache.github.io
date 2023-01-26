@@ -39,6 +39,15 @@ pagination:
         <h3><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
         <p class="post-meta">{{ post.date | date: '%Y.%m.%d' }}</p>
         <p>{{ post.description }}</p>
+
+        <p class="post-tags">
+          {% if tags != "" %}          
+            {% for tag in post.tags %}
+            <a href="{{ tag | slugify | prepend: '/tags/' | prepend: site.baseurl }}">
+              <i class="fas fa-hashtag fa-sm"></i> {{ tag }}</a> &nbsp;
+              {% endfor %}
+          {% endif %}
+        </p>
       </li>
     {% endfor %}
   </ul>
