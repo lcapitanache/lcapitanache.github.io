@@ -3,6 +3,7 @@ layout: relato
 title: Monstruoso
 date: 2021-09-09
 description: Samsa se contempla en el espejo.
+giscus_comments: true
 ---
 
 En la soledad de su habitación, Samsa vio sus manos y notó que temblaban. Conocía las consecuencias de sus actos, y sabía muy bien que ya no había vuelta atrás. Las imágenes de sus acciones se repetían como una película en su mente. 

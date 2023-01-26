@@ -3,6 +3,7 @@ layout: post
 title:  ¿De dónde provienen los fantasmas?
 date:   2022-08-13 14:00
 tags: ciencia explicación
+giscus_comments: true
 ---
 
 <div class="row justify-content-sm-center">

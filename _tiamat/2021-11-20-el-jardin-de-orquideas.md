@@ -3,6 +3,7 @@ layout: relato
 title: El jardín de orquídeas
 date: 2021-11-20
 description: 5 formas de amar a Janice.
+giscus_comments: true
 ---
 
 Despierta, Janice. Sí, eso es... No. Tranquila. No te agites. Te he suministrado una droga que limita tus funciones motoras al mínimo. Agitarte sólo hará que te agotes más rápido. Ven, siéntate conmigo en el jardín, mi jardín de orquídeas. Eso es. Ven, ven y deja que te guíe; deja que te abrace. 
