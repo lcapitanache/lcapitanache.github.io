@@ -16,7 +16,7 @@ Recuerdo especialmente una enciclopedia roja de la editorial Océano. Ah, cómo 
 
 Y mientras mamá dormía luego de un cansado turno nocturo en el hospital, salía al patio y me disponía a experimentar. Considero que todos llevamos un científico dentro, especialmente cuando somos unos niños que exploran el mundo.
 
-Me gustaba fantasear con trabajar en un laboratorio, y con frecuencia hacía experimentos sin saber lo peligrosos que estos eran ---como mezclar sustancias químicas o jugar con mercurio---. Doy gracias al dios `Ann` por sobrevivir entero a mi arriesgada infancia. :sweat_smile:
+Me gustaba fantasear con trabajar en un laboratorio, y con frecuencia hacía experimentos sin saber lo peligrosos que estos eran ---como mezclar sustancias químicas o jugar con mercurio---. Doy gracias al dios `Ann` por sobrevivir entero a mi arriesgada infancia.
 
 Recuerdo un día ---aunque que no con demasiado detalle--- en el que estaba con mamá y una de sus hermanas en uno de los centros comerciales de la ciudad. Íbamos pasando por uno de los amplios y blancos pasillos cuando lo ví por primera vez: Encerrado en una caja negra, con una vista transparente para apreciar su contenido, y apilado junto con otros de sus semejantes, yacía un `microscopío`. Hasta ese momento nunca había visto uno, pero sabía por los libros que había leído para qué se utilizaba y lo que su posesión implicaría para mi joven mente, ávida del conocimiento que da la febril experimentación propia de un niño.
 
