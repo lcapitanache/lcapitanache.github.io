@@ -71,7 +71,7 @@ Para llevar a cabo una correcta observación con el ``objetivo 100x``, haga lo s
 
 7.  A continuación, limpie el ``objetivo 100x`` utilizando el material apropiado. No utilice agua, pues el ``aceite de inmersión`` es insoluble en esa y otras sustancias. En su lugar utilice los líquidos recomendados por el fabricante del aceite de inmersión, de los cuales usted ya verificó su posesión al principio de estas instrucciones.
 
-8.  Terminada la limpieza con el ``objetivo 100x``, puede continuar haciendo observaciones con los otros ``objetivos`` siguiendo las instrucciones correspondientes. Si ya no va a utilizar el microscopio, siga las instrucciones del apartado [Cómo guardar el microscopio].
+8.  Terminada la limpieza con el ``objetivo 100x``, puede continuar haciendo observaciones con los otros ``objetivos`` siguiendo las instrucciones correspondientes. Si ya no va a utilizar el microscopio, siga las instrucciones del apartado :doc:`como-guardar-el-microscopio`.
 
 
 Diagrama de flujo

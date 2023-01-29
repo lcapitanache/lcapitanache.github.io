@@ -19,6 +19,8 @@ Sitio web: `<https://lcapitanache.github.io>`_.
    el-microscopio/index
    algo-de-teoria/index
    procedimientos/index
+   guia-de-compra
+   microscopia-en-redes-sociales
    glosario
    
 

@@ -1,6 +1,11 @@
 Notas de la versión
 ===================
 
+:2023, ene. 28:
+    Añadida una :doc:`guia-de-compra`. Ahora los lectores que buscan **comprar un microscopio** tienen una guía que los ayude en la selección de estos instrumentos, haciendo incapié en los criterios clave a los que debemos prestar atención para hacer una compra inteligente.
+
+    También se ha añadido :doc:`microscopia-en-redes-sociales`. Los curiosos y ávidos de conocimiento, así como de hambre de estética microbiológica, pueden comenzar a saciar su apetito con algunos de los mejores **creadores de contenido** en el mundo de la microscopía.
+
 :2022, abr. 19:
     Desarrollo del :doc:`glosario`. Se han pulido los **términos** y se han añadido bellas imágenes.
 
