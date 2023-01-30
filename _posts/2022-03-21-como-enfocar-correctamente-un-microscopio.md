@@ -14,7 +14,7 @@ Cuando era niño no había Internet, ni tampoco computadoras. Para pasar el tiem
 
 Recuerdo especialmente una enciclopedia roja de la editorial Océano. Ah, cómo me perdía en sus páginas blancas e imágenes en escala de grises. Tenía mis tomos favoritos, aquellos dedicados a las ciencias que consideraba _ciencias_: biología, química, astronomía... ¡Cómo se desgastaron sus lomos de tanto que los asía!
 
-Y mientras mamá dormía luego de un cansado turno nocturo en el hospital, salía al patio y me disponía a experimentar. Considero que todos llevamos un científico dentro, especialmente cuando somos unos niños que exploran el mundo.
+Y mientras mamá dormía luego de un cansado turno nocturno en el hospital, salía al patio y me disponía a experimentar. Considero que todos llevamos un científico dentro, especialmente cuando somos unos niños que exploran el mundo.
 
 Me gustaba fantasear con trabajar en un laboratorio, y con frecuencia hacía experimentos sin saber lo peligrosos que estos eran ---como mezclar sustancias químicas o jugar con mercurio---. Doy gracias al dios `Ann` por sobrevivir entero a mi arriesgada infancia.
 
