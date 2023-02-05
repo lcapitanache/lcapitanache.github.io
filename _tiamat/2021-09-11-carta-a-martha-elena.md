@@ -2,7 +2,8 @@
 layout: relato
 title: Carta a Martha Elena
 date: 2021-09-11
-description: Un joven médico escribe a su amada. Prólogo.
+meta: Prólogo
+description: Un joven médico escribe a su amada.
 giscus_comments: true
 ---
 

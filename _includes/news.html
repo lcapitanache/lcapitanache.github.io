@@ -7,7 +7,27 @@
       {% assign news = site.news | reverse %}
       {% for item in news limit: site.news_limit %}
         <tr>
-          <th scope="row">{{ item.date | date: "%Y.%m.%d" }}</th>
+          <th scope="row">            
+            <code class="language-plaintext highlighter-rouge">
+              {% assign m = item.date | date: "%-m" %}
+              {% case m %}
+                {% when '1' %}Ene
+                {% when '2' %}Feb
+                {% when '3' %}Mar
+                {% when '4' %}Abr
+                {% when '5' %}May
+                {% when '6' %}Jun
+                {% when '7' %}Jul
+                {% when '8' %}Ago
+                {% when '9' %}Sep
+                {% when '10' %}Oct
+                {% when '11' %}Nov
+                {% when '12' %}Dic
+              {% endcase %}
+              {{ item.date | date: "%d" }},
+              {{ item.date | date: "%Y" }}
+            </code>
+          </th>
           <td>
             {% if item.inline %}
               {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
