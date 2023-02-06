@@ -2,7 +2,7 @@
 layout: inicio
 title: Inicio
 permalink: /
-description: <i>Ing. en Sistemas, estudiante de Lic. en Química Clínica, Escritor.</i>
+description: <code class="language-plaintext highlighter-rouge">Químico • Ingeniero • Escritor</code>
 
 profile:
   align: right
