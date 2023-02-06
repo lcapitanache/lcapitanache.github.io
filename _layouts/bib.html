@@ -16,8 +16,8 @@
     {% if entry.type == "thesis" %}
       {{reference}}
     {% else %}
-      <div class="title"><strong>{{entry.title}}.</strong></div>
-      <div class="author">
+      <div class="title spacing"><strong>{{entry.title}}.</strong></div>
+      <div class="author spacing">
         {% for author in entry.author_array %}
           {% assign author_is_self = false %}
           {% if author.last == site.scholar.last_name%}
@@ -67,7 +67,7 @@
         {% endfor %}
       </div>
 
-      <div class="periodical">
+      <div class="periodical spacing">
       {% if entry.type == "article" %}
         <code class="language-plaintext highlighter-rouge">{{entry.journal}}</code>,      
       {% elsif entry.type == "inbook" %}
@@ -79,7 +79,7 @@
       </div>
     {% endif %}
 
-    <div class="links">
+    <div class="links" style="margin-left: -0.3em;">
     {% if entry.abstract %}
       <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
     {% endif %}
