@@ -3,14 +3,13 @@ layout: default
 ---
 
 <div class="post">
-
-  <header class="post-header">
+  <header class="post-header" style="margin-bottom: 2em;">
     <h1 class="post-title">
      {% if site.title != "blank" %}{{ site.first_name }} {{ site.middle_name }} <span class="font-weight-bold">{{ site.last_name }}</span>{% else %}{{ site.title }}{% endif %}
     </h1>
      <p class="desc">{{ page.description }}</p>
   </header>
-</br>
+  </br>
 
   <article>
     {% if page.profile %}
@@ -21,7 +20,7 @@ layout: default
       {% if page.profile.address %}
         <div class="address">
           <!--{{ page.profile.address }}-->
-          <p>&nbsp;</p>
+          <p></p>
         </div>
       {% endif %}
     </div>
@@ -45,7 +44,5 @@ layout: default
     {% if page.selected_papers %}
       {% include selected_papers.html %}
     {% endif %}
-
   </article>
-
 </div>
