@@ -30,6 +30,8 @@ layout: default
       {{ content }}
     </div>
 
+    {% include books.html %}
+
     <div style="margin-bottom: 3em; margin-top: 1em;">
       </br>
       <h2 style="margin-bottom: .7em;">Instagram</h2>
@@ -39,7 +41,7 @@ layout: default
 
     {% if page.news %}
       {% include news.html %}
-    {% endif %}
+    {% endif %}    
 
     {% if page.selected_papers %}
       {% include selected_papers.html %}

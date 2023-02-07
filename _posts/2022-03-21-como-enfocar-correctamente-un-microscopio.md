@@ -6,7 +6,7 @@ tags: ciencia microscopio libro
 giscus_comments: true
 ---
 
-<div class="profile float-right">
+<div class="col-sm-6 mt-3 mt-md-0 float-right">
     <img class="img-fluid img-post z-depth-1 rounded" src="/assets/img/cover-como-enfocar.png">
 </div>
 
