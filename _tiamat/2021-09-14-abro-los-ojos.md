@@ -38,4 +38,4 @@ Oscuridad. Oscuridad y nada más.
 
 El eco de la alarma de mi hermana suena a lo lejos. He dormido apenas una hora. 
 
-Abro los ojos. Hoy me siento triste y vacío de nuevo. La luz del sol penetra opalescente por la ventana de mi habitación...
+Abro los ojos. Hoy me siento triste y vacío de nuevo. La luz del sol penetra opalescente por la ventana de mi habitación... ∎

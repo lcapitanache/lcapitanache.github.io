@@ -27,4 +27,4 @@ El iPhone vibra y la pantalla se enciende, y aparece en ella una notificación a
 Conduzco la camioneta para acercarme y estaciono en la entrada principal, por donde sé que pronto saldrás. Y en efecto, a los pocos segundos apareces con tus padres, feliz, llevando tu precioso bolso nuevo y comiendo todavía el helado de la foto del tuit. El momento de estar para siempre juntos finalmente ha llegado, mi querida Natascha.
 Tomo mi arma. Abro la puerta. Y salgo a tu encuentro...
 
-—Hola, Natascha. Yo soy tu admirador número uno.
+—Hola, Natascha. Yo soy tu admirador número uno. ∎

@@ -123,4 +123,4 @@ Ella se giró y hundió la cara en su pecho.
 
 Afuera la lluvia cesó por completo y se hizo el silencio, y la luz de la luna penetró diáfana a través de la ventana.
 
-Ella cerró los ojos, y pronto quedó sumergida en la suavidad del ensueño. Y cuando lo hizo, el cuerpo de su hermano se desvaneció en la noche... y ella quedó sola en la habitación.
+Ella cerró los ojos, y pronto quedó sumergida en la suavidad del ensueño. Y cuando lo hizo, el cuerpo de su hermano se desvaneció en la noche... y ella quedó sola en la habitación. ∎

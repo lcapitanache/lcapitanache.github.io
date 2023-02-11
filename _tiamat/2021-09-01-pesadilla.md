@@ -24,4 +24,4 @@ Confundida, Anika observó la tranquilidad de la noche. Todo estaba bien. Había
 
 Inhaló y exhaló el aire para tranquilizarse, pero apenas lo hubo conseguido cuando notó algo extraño: una humedad tibia y viscosa bañaba sus muslos. Entornó los ojos en la penumbra y estiró la mano para palpar la cama con ella. Su corazón dio un vuelco cuando hizo contacto. 
 
-Consciente de una horrible certeza, de un movimiento apartó la sábana que la cubría. Y Anika gritó entonces como ningún ser humano lo había hecho jamás... El monstruo de la pesadilla había devorado sus piernas. 
+Consciente de una horrible certeza, de un movimiento apartó la sábana que la cubría. Y Anika gritó entonces como ningún ser humano lo había hecho jamás... El monstruo de la pesadilla había devorado sus piernas. ∎

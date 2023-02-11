@@ -46,7 +46,7 @@ Pienso expandir esta obra constantemente, añadiendo temas y nutriendo cada vez 
 
 El texto está protegido bajo licencia **Creative Commons Atribución-CompartirIgual 4.0 Internacional** (<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="blank">CC BY-SA 4.0</a>).
 
-Y al fin, he aquí el libro. Por favor, haga clic en la imagen para poder abrirlo:
+Y al fin, he aquí el libro. Por favor, haga clic en la imagen para poder abrirlo. ∎
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">

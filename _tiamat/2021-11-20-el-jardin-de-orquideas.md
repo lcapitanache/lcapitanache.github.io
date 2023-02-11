@@ -25,4 +25,4 @@ Querida Janice, una vez que hayas muerto sepultaré aquí tus restos, y sobre tu
 
 Ahora duerme, duerme para siempre…
 
-Oh, Janice. Mujer de tez clara, cabello obscuro y labios rojos... No sabes cómo deseo volver a encontrarte. 
+Oh, Janice. Mujer de tez clara, cabello obscuro y labios rojos... No sabes cómo deseo volver a encontrarte. ∎

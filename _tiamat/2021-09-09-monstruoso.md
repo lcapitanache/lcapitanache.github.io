@@ -22,4 +22,4 @@ La puerta entonces se abrió de golpe y una mujer joven asomó a la habitación.
 
 —Sí, voy ahora mismo.
 
-Y mientras la chica se iba, Samsa se miró al espejo y ajustó su corbata. Un hombre respetable y apuesto le devolvía la mirada.
+Y mientras la chica se iba, Samsa se miró al espejo y ajustó su corbata. Un hombre respetable y apuesto le devolvía la mirada. ∎

@@ -27,4 +27,4 @@ Como era de esperarse, mi querido tío al principio se ha resistido al plan, per
 
 Ah, mi querida Martha Elena, no sabes cómo ansío terminar ya con esta tarea y tenerte por fin entre mis brazos.
 
-Hasta que volvamos a vernos, tu siempre amado, el Dr. Jonathan P. Lovecraft. 
+Hasta que volvamos a vernos, tu siempre amado, el Dr. Jonathan P. Lovecraft. ∎
