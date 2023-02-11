@@ -2,7 +2,7 @@
 layout: post
 title:  Cómo enfocar correctamente un microscopio
 date:   2022-03-21 14:10:00
-tags: ciencia microscopio libro
+tags: ciencia libro microscopio
 giscus_comments: true
 ---
 

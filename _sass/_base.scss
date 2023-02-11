@@ -642,7 +642,7 @@ html.transition *:after {
     margin-right: 3em;
   }
 
-  .relato-content {
+  .relato-content {    
     margin: 3em;
   }
 
@@ -659,7 +659,7 @@ html.transition *:after {
   }
 
   .post-content {
-    line-height: 1.5em;
+    line-height: 2em;
   }
 
   .relato-author {
@@ -667,11 +667,23 @@ html.transition *:after {
   }
 
   .relato-content {
-    line-height: 1.5em;
+    line-height: 2em;
+    margin-top: 3em;
+    margin-bottom: 2em;
   }
 
   .post-author {
     margin-top: 2em;
     text-align: right;
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  .publications h2 {
+    margin-bottom: -0.75em;
+  }
+
+  .publications ol.bibliography li {
+    margin-bottom: -1.5em;
   }
 }
