@@ -13,20 +13,14 @@ giscus_comments: true
     Creer en la vida después de la muerte es frecuente en diversas culturas. Fotografía de <a href="https://unsplash.com/@_circadian_rhythm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ryan Gagnon</a> en <a href="https://unsplash.com/es/fotos/QshV5JhsB6U?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
 </div>
 
-El fenómeno de los fantasmas tiene su explicación en los **infrasonidos**.
-
-El sonido es una variación en la presión del aire que nos rodea, y se representa mediante una **onda**.
-
-A la _cantidad de ondas (ciclos)_ que pasan en un segundo por un punto determinado, se le denomina **frecuencia**, la cual se mide en **hercios (Hz)**. Así, por ejemplo, si por un mismo punto pasaran 8 ondas de sonido en un segundo, diríamos que dicho sonido tiene una frecuencia de 8 Hz. Si únicamente pasaran 4, entonces serían 4 Hz.
+<p class="first">El fenómeno de los fantasmas tiene su explicación en los <strong>infrasonidos</strong>. El sonido es una variación en la presión del aire que nos rodea, y se representa mediante una <strong>onda</strong>. A la <em>cantidad de ondas (ciclos)</em> que pasan en un segundo por un punto determinado, se le denomina <strong>frecuencia</strong>, la cual se mide en <strong>hercios (Hz)</strong>. Así, por ejemplo, si por un mismo punto pasaran 8 ondas de sonido en un segundo, diríamos que dicho sonido tiene una frecuencia de 8 Hz. Si únicamente pasaran 4, entonces serían 4 Hz.</p>
 
 <div class="row justify-content-sm-center">
     <img class="img-fluid img-post rounded" src="/assets/img/2208131/kristie-koski-ucd-chem-110a-physical-chemistry-i.png">
 </div>
 <div class="caption">Longitud de onda, amplitud y frecuencia. Gráfica de Kristie Koski, para <a href="https://chem.libretexts.org/Courses/University_of_California_Davis/UCD_Chem_107B%3A_Physical_Chemistry_for_Life_Scientists/Chapters/4%3A_Quantum_Theory/4.01%3A_The_Wave_Theory_of_Light">UCD Chem 110A: Physical Chemistry I</a>.</div>
 
-Ahora bien, del amplio rango de frecuencias, los seres humanos sólo podemos escuchar una parte.
-
-Aquellos sonidos que tienen una frecuencia muy alta reciben el nombre de **ultrasonidos**. Y los que tienen una muy baja, **infrasonidos**. Los oídos humanos no pueden escuchar ninguno de los dos.
+Ahora bien, del amplio rango de frecuencias, los seres humanos sólo podemos escuchar una parte. Aquellos sonidos que tienen una frecuencia muy alta reciben el nombre de **ultrasonidos**. Y los que tienen una muy baja, **infrasonidos**. Los oídos humanos no pueden escuchar ninguno de los dos.
 
 A partir de aquí comienza lo interesante, pues cuando las ondas de sonido tienen una frecuencia igual o semejante a aquello con lo que impactan, se produce un fenómeno llamado **resonancia**.
 

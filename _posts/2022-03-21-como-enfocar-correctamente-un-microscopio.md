@@ -10,7 +10,7 @@ giscus_comments: true
     <img class="img-fluid img-post z-depth-1 rounded" src="/assets/img/cover-como-enfocar.png">
 </div>
 
-Cuando era niño no había Internet, ni tampoco computadoras. Para pasar el tiempo veía a las <a href="https://es.wikipedia.org/wiki/Tortugas_Ninja" target="blank">Tortugas Ninja</a> en la televisión y leía las enciclopedias que mamá compraba, para el enriquecimiento intelectual de mi hermana y el mío.
+<p class="first">Cuando era niño no había Internet, ni tampoco computadoras. Para pasar el tiempo veía a las <a href="https://es.wikipedia.org/wiki/Tortugas_Ninja" target="blank">Tortugas Ninja</a> en la televisión y leía las enciclopedias que mamá compraba, para el enriquecimiento intelectual de mi hermana y el mío.</p>
 
 Recuerdo especialmente una enciclopedia roja de la editorial Océano. Ah, cómo me perdía en sus páginas blancas e imágenes en escala de grises. Tenía mis tomos favoritos, aquellos dedicados a las ciencias que consideraba _ciencias_: biología, química, astronomía... ¡Cómo se desgastaron sus lomos de tanto que los asía!
 
