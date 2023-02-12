@@ -7,7 +7,7 @@ description: 5 formas de amar a Janice.
 giscus_comments: true
 ---
 
-Despierta, Janice. Sí, eso es... No. Tranquila. No te agites. Te he suministrado una droga que limita tus funciones motoras al mínimo. Agitarte sólo hará que te agotes más rápido. Ven, siéntate conmigo en el jardín, mi jardín de orquídeas. Eso es. Ven, ven y deja que te guíe. Deja que te abrace. 
+<p class="first">Despierta, Janice. Sí, eso es... No. Tranquila. No te agites. Te he suministrado una droga que limita tus funciones motoras al mínimo. Agitarte sólo hará que te agotes más rápido. Ven, siéntate conmigo en el jardín, mi jardín de orquídeas. Eso es. Ven, ven y deja que te guíe. Deja que te abrace.</p>
 
 Ah, mira nada más qué bellas lucen las estrellas esta noche. Su luz ha salido hace miles e incluso millones de años, y hoy ha llegado hasta aquí, viajando a través de la soledad insondable del espacio. ¿No te parece extraordinario? Es casi como si las estrellas te saludaran, Janice. 
 

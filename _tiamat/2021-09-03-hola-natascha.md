@@ -6,7 +6,7 @@ description: El mayor admirador, el más grande fan.
 giscus_comments: true
 ---
 
-Facebook, Twitter, Instagram, YouTube y Snapchat. Te sigo a través de todos tus perfiles en las redes sociales. Soy tu mayor admirador, tu más grande fan.
+<p class="first">Facebook, Twitter, Instagram, YouTube y Snapchat. Te sigo a través de todos tus perfiles en las redes sociales. Soy tu mayor admirador, tu más grande fan.</p>
 
 Apago la camioneta en el estacionamiento y a lo lejos te veo bajar del sedán negro junto con tus padres. Noto que llevas el vestido rosa, del que publicaste un video en YouTube el pasado 14 de marzo, y los zapatos blancos de tacón alto que adquiriste por Amazon. Tomas por el brazo a tu padre y, junto con tu madre, entras al centro comercial _El Zigurat Escarlata_.
 

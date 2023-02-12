@@ -6,7 +6,7 @@ description: Samsa se contempla en el espejo.
 giscus_comments: true
 ---
 
-En la soledad de su habitación, Samsa vio sus manos y notó que temblaban. Conocía las consecuencias de sus actos, y sabía muy bien que ya no había vuelta atrás. Las imágenes de sus acciones se repetían como una película en su mente. 
+<p class="first">En la soledad de su habitación, Samsa vio sus manos y notó que temblaban. Conocía las consecuencias de sus actos, y sabía muy bien que ya no había vuelta atrás. Las imágenes de sus acciones se repetían como una película en su mente.</p>
 
 La cabeza le dolía. Era como si su mente, razgada y latiente, hubiera comenzado a dilatarse, y el espacio conferido entre ella y sus huesos ya no fuese suficiente para contenerla. En un momento algo se rompió. Y Samsa supo entonces que su cráneo había cedido a la presión. La piel de su rostro también se razgó.
 

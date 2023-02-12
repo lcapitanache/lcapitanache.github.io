@@ -7,11 +7,11 @@ description: Un joven médico escribe a su amada.
 giscus_comments: true
 ---
 
-7 de octubre de 1814. 
+<p style="text-align: right;">7 de octubre de 1814.</p>
 
-Querida Martha Elena:
+<p class="first">Querida Martha Elena:</p>
 
-Temo con todo el corazón empezar esta carta con malas noticias. Mi amado tío y protector, el Dr. Celso de Padua Lovecraft, ha caído en cama gravemente enfermo de los nervios a causa de la repentina muerte de su amada Leonora. Su pérdida ha sido un duro golpe para él, tal y como lo sería para cualquier buen amante y esposo. 
+Temo con todo el corazón empezar esta carta con malas noticias. Mi amado tío y protector, el Dr. Celso de Padua Lovecraft, ha caído en cama gravemente enfermo de los nervios a causa de la repentina muerte de su amada Leonora. Su pérdida ha sido un duro golpe para él, tal y como lo sería para cualquier buen amante y esposo.
 
 Esta terrible tragedia ha venido a ocurrir a tan sólo dos días de que el patesi, Asur III, le pidiera a mi tío que atendiera personalmente al príncipe heredero Sargón IV, el cual actualmente se encuentra en _Isla Eridú_, aquejado de una severa neumonía. Y mi tío, ah, mi amado y orgulloso tío, aun hallándose en tan precaria situación, ha decidido realizar el viaje de siete días en barco a _Isla Eridú_ para cumplir cabalmente con sus obligaciones de galeno. Sobra decir que no he podido permitirlo; se lo he impedido tajantemente. Pues a juzgar por su estado de salud, temo que no sobreviva a semejante travesía. Para poder recuperarse, mi tío ha de quedarse en casa.
 

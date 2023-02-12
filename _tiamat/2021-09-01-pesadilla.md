@@ -6,7 +6,7 @@ description: Una niña tiene una pesadilla peculiar.
 giscus_comments: true
 ---
 
-Anika observó fijamente a la criatura que permanecía arrodillada en la oscuridad al pie de su cama. Hórrida, obesa, oscura, monstruosa y amenazadora. 
+<p class="first">Anika observó fijamente a la criatura que permanecía arrodillada en la oscuridad al pie de su cama. Hórrida, obesa, oscura, monstruosa y amenazadora.</p>
 
 La niña permanecía petrificada mientras aquella criatura sarnosa se metía a la boca babeante sus pequeños pies descalzos, moviendo sus largos y anormales dedos como lo hiciera un gran chef probando un manjar.
 

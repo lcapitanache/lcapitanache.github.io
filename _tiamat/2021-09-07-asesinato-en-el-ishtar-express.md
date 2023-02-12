@@ -6,7 +6,7 @@ description: El testigo de un crimen huye por su vida.
 giscus_comments: true
 ---
 
-Con la finalidad de realizar una investigación para mi tesis, me desplacé a la ciudad-estado de Ur, en donde me hospedé en el prestigioso _Ishtar Express_. Luego de haberme instalado, bajé al suntuoso comedor, donde me agasajaron con los más deliciosos manjares. He de decir que, aunque en la mayoría de los hoteles la comida que ahí se sirve se ha ganado a fuerza la fama de insulsa, esto no ocurre en el _Ishtar Express_, donde la comida es siempre espléndida, el epítome de la exquisitez.
+<p class="first">Con la finalidad de realizar una investigación para mi tesis, me desplacé a la ciudad-estado de Ur, en donde me hospedé en el prestigioso <em>Ishtar Express</em>. Luego de haberme instalado, bajé al suntuoso comedor, donde me agasajaron con los más deliciosos manjares. He de decir que, aunque en la mayoría de los hoteles la comida que ahí se sirve se ha ganado a fuerza la fama de insulsa, esto no ocurre en el <em>Ishtar Express</em>, donde la comida es siempre espléndida, el epítome de la exquisitez.</p>
 
 Una vez terminé con aquellos manjares dignos de los dioses, retorné a mis aposentos para tomar un baño revitalizador y posteriormente disfrutar de un breve descanso, y así después iniciar mis pesquisas a primera hora de la tarde.
 

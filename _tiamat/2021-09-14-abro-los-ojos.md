@@ -6,7 +6,7 @@ description: Los días son siempre iguales.
 giscus_comments: true
 ---
 
-Abro los ojos. Hoy me siento triste y vacío de nuevo. La luz del sol penetra opalescente por la ventana de mi habitación. No quiero levantarme. Suspiro. Mi mirada se pierde en las formas sutiles que hay en el techo. Quiero permanecer dormido, sumergido en la oscura profundidad de la quietud del sueño... a ser posible, para siempre. 
+<p class="first">Abro los ojos. Hoy me siento triste y vacío de nuevo. La luz del sol penetra opalescente por la ventana de mi habitación. No quiero levantarme. Suspiro. Mi mirada se pierde en las formas sutiles que hay en el techo. Quiero permanecer dormido, sumergido en la oscura profundidad de la quietud del sueño... a ser posible, para siempre.</p>
 
 Pero mamá me llama, y los sonidos vivos de la casa regresan. La regadera, el lavamanos. Los pasos apresurados, contundentes, de los pies descalzos de mi hermana pequeña al correr por el pasillo... El canto de las aves, los sonidos de la calle...
 
