@@ -60,4 +60,4 @@ Para terminar, tal vez en alguna ocasión haya visto a un gatito mirando fijamen
 
 > Evite caer en la vulgaridad del pensamiento mágico o sobrenatural. Use el conocimiento. Use la razón.
 
-El felino simplemente está escuchando otro animal aún más pequeño que se encuentra dentro o del otro lado de la pared. Él lo puede escuchar y tú no. Así de simple. Nada más. ∎
+El felino simplemente está escuchando otro animal aún más pequeño que se encuentra dentro o del otro lado de la pared. Él lo puede escuchar y usted no. Así de simple. Nada más. ∎

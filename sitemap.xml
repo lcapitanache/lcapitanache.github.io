@@ -21,8 +21,8 @@ layout:
        </url>
   {% endfor %}
   {% for collection in site.collections %}
-      {% assign name = collection.label %}
-      {% for page in site.[name] %}
+      {% assign collection_name = collection.label %}
+      {% for page in site[collection_name] %}
         <url>
           <loc>{{ site.url }}{{ page.url | replace: 'index.html', '' }}</loc>
           <changefreq>daily</changefreq>
