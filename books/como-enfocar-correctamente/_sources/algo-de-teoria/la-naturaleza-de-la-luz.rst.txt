@@ -32,6 +32,8 @@ En las siguientes secciones se expone el origen de la luz, así como sus propied
 El origen de la luz
 -------------------
 
+.. _el-atomo-y-los-niveles-de-energia:
+
 El átomo y los niveles de energía
 `````````````````````````````````
 
@@ -118,7 +120,7 @@ Absorción
 
 La **absorción** es el fenómeno en el cual las longitudes de onda de un haz luz son absorbidas, total o parcialmente, por el medio en el que inciden.
 
-A pesar de la concepción común, los electrones no giran en órbitas perfectamente circulares o elípticas alrededor del núcleo, sino que **vibran** mientras lo hacen. Y la intensidad ---la frecuencia--- de esa vibración depende de la cantidad de energía contenida en el electrón en cuestión. Si leímos con atención la sección [El átomo y los niveles de energía] podemos inducir que los electrones que están en las órbitas más externas del núcleo ---las más energéticas--- vibran con mayor intensidad que aquellos que están en los niveles u órbitas más internas.
+A pesar de la concepción común, los electrones no giran en órbitas perfectamente circulares o elípticas alrededor del núcleo, sino que **vibran** mientras lo hacen. Y la intensidad ---la frecuencia--- de esa vibración depende de la cantidad de energía contenida en el electrón en cuestión. Si leímos con atención la sección :ref:`el-atomo-y-los-niveles-de-energia` podemos inducir que los electrones que están en las órbitas más externas del núcleo ---las más energéticas--- vibran con mayor intensidad que aquellos que están en los niveles u órbitas más internas.
 
 En la absorción, la frecuencia de la luz es igual o muy próxima a la de los electrones del medio en que incide. Entonces, para que haya absorción, es indispensable que ambas frecuencias **sean iguales o semejantes**. 
 
