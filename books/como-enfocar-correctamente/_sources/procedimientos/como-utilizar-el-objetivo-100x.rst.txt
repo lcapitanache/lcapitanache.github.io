@@ -63,7 +63,7 @@ Para llevar a cabo una correcta observación con el ``objetivo 100x``, haga lo s
 
 3.  Una vez colocada la gota de ``aceite de inmersión``, termine de mover el ``revólver`` hasta que el ``objetivo 100x`` esté completamente en uso.
 
-4.  A continuación, proceda a enfocar y pulir la calidad de la imagen siguiendo las instrucciones de la sección [Cómo enfocar correctamente], puntos 13 a 16.
+4.  A continuación, proceda a enfocar y pulir la calidad de la imagen siguiendo las instrucciones de la sección :doc:`como-enfocar-correctamente`, puntos 13 a 16.
 
 5.  Una vez haya terminado sus observaciones, mueva el ``revólver`` entre el ``100x`` y el ``4x`` y retire el ``portaobjetos`` con la gota de ``aceite de inmersión``.
 

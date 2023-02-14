@@ -33,7 +33,7 @@ Los microscopios **monoculares** son todos de gama baja, por lo general dedicado
 
 Los **binoculares** permiten la observación empleando los dos ojos. Son mucho más cómodos y naturales de utilizar, y ésta debería ser su principal opción de compra.
 
-El modelo **trinocular** está pensado para utiliza los dos ojos y ---además--- una tercer salida de imagen, como una cámara fotográfica. Por favor, tome nota aquí de que el modelo binocular ---e incluso el monocular--- le permite también el uso de una cámara fotográfica. La diferencia es que el cabezal trinocular está pensado para que usted pueda fotografíar o grabar video *al mismo tiempo* que usted observa por el microscopio.
+El modelo **trinocular** está pensado para utilizar los dos ojos y ---además--- una tercer salida de imagen, como una cámara fotográfica. Por favor, tome nota aquí de que el modelo binocular ---e incluso el monocular--- le permite también el uso de una cámara fotográfica. La diferencia es que el cabezal trinocular está pensado para que usted pueda fotografíar o grabar video *al mismo tiempo* que usted observa por el microscopio.
 
 Si su prioridad no es la fotografía, prescinda de los modelos trinoculares y quédese directamente con los binoculares. Esto le supondrá un ahorro considerable sobre el precio final del microscopio.
 
@@ -54,6 +54,8 @@ Ahora bien, si usted tiene problemas de visión y presenta distinto desgaste en 
 Opcionalmente ---y sólo si usted *realmente* lo requiere---, puede considerar adquirir un microscopio con oculares con retícula, si es que desea realizar mediciones de sus observaciones. Este es un uso muy específico del microscopio, por lo que deberá tomarlo en cuenta únicamente si hará uso de dicha prestación, ya que esto elevará el precio final del producto.
 
 Por lo general, un microscopio con oculares 10x y con ajuste de dioptrías ---si presenta distinto desgaste en ambos ojos--- es la opción segura para su compra. 
+
+Si su presupuesto lo permite, adquiera oculares de óptica plana y de campo amplio extremo (*extreme widefield*), y ---si usted así lo requiere--- con retícula y ajuste de dioptrías.
 
 
 La configuración del revólver
@@ -76,6 +78,8 @@ Los objetivos
 Los objetivos son la pieza más importante, tanto que puede decirse sin temor a equivocarse que «los objetivos *son* el microscopio».
 
 Adquiera el microscopio que cuente con los objetivos de la mayor calidad posible que su presupuesto le permita. Mínimamente, adquiera uno con objetivos DIN con estandar 160 mm: esto le permitirá acceder a futuras actualizaciones asegurando su compatibilidad.
+
+Si se puede permitir el lujo, adquiera objetivos planos y con tantas correcciones como le sea posible.
 
 
 El condensador
