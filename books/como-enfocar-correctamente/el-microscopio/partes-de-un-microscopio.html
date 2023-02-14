@@ -14,11 +14,11 @@
 
     
   <link rel="stylesheet"
-    href="../static/all.min.css">
+    href="../static/vendor/fontawesome/5.13.0/css/all.min.css">
   <link rel="preload" as="font" type="font/woff2" crossorigin
-    href="../static/fa-solid-900.woff2">
+    href="../static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
   <link rel="preload" as="font" type="font/woff2" crossorigin
-    href="../static/fa-brands-400.woff2">
+    href="../static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
     <link rel="stylesheet" type="text/css" href="../static/pygments.css" />
     <link rel="stylesheet" href="../static/styles/sphinx-book-theme.css?digest=aff298d9a1f6446011b523cdaf7cd0c2bb3675d1" type="text/css" />
@@ -366,52 +366,89 @@ title="Toggle navigation"
 <img alt="../images/microscopio.png" src="../images/microscopio.png" />
 <table class="table">
 <colgroup>
-<col style="width: 22%" />
-<col style="width: 78%" />
+<col style="width: 23%" />
+<col style="width: 77%" />
 </colgroup>
-<thead>
-<tr class="row-odd"><th class="head"><p>Parte</p></th>
-<th class="head"><p>Función</p></th>
-</tr>
-</thead>
 <tbody>
-<tr class="row-even"><td><p><code class="docutils literal notranslate"><span class="pre">Brazo</span></code></p></td>
+<tr class="row-odd"><td><p>Parte</p></td>
+<td><p>Función</p></td>
+</tr>
+<tr class="row-even"><td><ol class="arabic simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">Brazo</span></code></p></li>
+</ol>
+</td>
 <td><p>Da estructura y soporte al microscopio, además de proporcionar un medio de sujeción cuando se transporta.</p></td>
 </tr>
-<tr class="row-odd"><td><p><code class="docutils literal notranslate"><span class="pre">Cabeza</span></code></p></td>
+<tr class="row-odd"><td><ol class="arabic simple" start="2">
+<li><p><code class="docutils literal notranslate"><span class="pre">Cabezal</span></code></p></li>
+</ol>
+</td>
 <td><p>Contiene los <code class="docutils literal notranslate"><span class="pre">oculares</span></code> y la <code class="docutils literal notranslate"><span class="pre">cámara</span> <span class="pre">fotográfica</span></code>, además de un sistema de óptica interna.</p></td>
 </tr>
-<tr class="row-even"><td><p><code class="docutils literal notranslate"><span class="pre">Cámara</span> <span class="pre">fotográfica</span></code></p></td>
+<tr class="row-even"><td><ol class="arabic simple" start="3">
+<li><p><code class="docutils literal notranslate"><span class="pre">Cámara</span> <span class="pre">fotográfica</span></code></p></li>
+</ol>
+</td>
 <td><p>Toma fotografías de la muestra. No todos los microscopios cuentan con ella.</p></td>
 </tr>
-<tr class="row-odd"><td><p><code class="docutils literal notranslate"><span class="pre">Condensador</span></code></p></td>
+<tr class="row-odd"><td><ol class="arabic simple" start="4">
+<li><p><code class="docutils literal notranslate"><span class="pre">Condensador</span></code></p></li>
+</ol>
+</td>
 <td><p>Recolecta la luz emitida por la <code class="docutils literal notranslate"><span class="pre">fuente</span> <span class="pre">de</span> <span class="pre">iluminación</span></code> y la lleva a los <code class="docutils literal notranslate"><span class="pre">objetivos</span></code>, pasando a través de la muestra.</p></td>
 </tr>
-<tr class="row-even"><td><p><code class="docutils literal notranslate"><span class="pre">Control</span> <span class="pre">de</span> <span class="pre">la</span> <span class="pre">platina</span></code></p></td>
+<tr class="row-even"><td><ol class="arabic simple" start="5">
+<li><p><code class="docutils literal notranslate"><span class="pre">Control</span> <span class="pre">de</span> <span class="pre">la</span> <span class="pre">platina</span></code></p></li>
+</ol>
+</td>
 <td><p>Mueve la <code class="docutils literal notranslate"><span class="pre">platina</span></code> en los ejes de la X y la Y para desplazar la observación a lo largo y ancho de la muestra.</p></td>
 </tr>
-<tr class="row-odd"><td><p><code class="docutils literal notranslate"><span class="pre">Fuente</span> <span class="pre">de</span> <span class="pre">iluminación</span></code></p></td>
+<tr class="row-odd"><td><ol class="arabic simple" start="6">
+<li><p><code class="docutils literal notranslate"><span class="pre">Fuente</span> <span class="pre">de</span> <span class="pre">iluminación</span></code></p></li>
+</ol>
+</td>
 <td><p>Proporciona la <code class="docutils literal notranslate"><span class="pre">fuente</span> <span class="pre">de</span> <span class="pre">luz</span></code> del microscopio, esencial para poder realizar la observación.</p></td>
 </tr>
-<tr class="row-even"><td><p><code class="docutils literal notranslate"><span class="pre">Interruptor</span></code></p></td>
+<tr class="row-even"><td><ol class="arabic simple" start="7">
+<li><p><code class="docutils literal notranslate"><span class="pre">Interruptor</span></code></p></li>
+</ol>
+</td>
 <td><p>Enciende y apaga el microscopio.</p></td>
 </tr>
-<tr class="row-odd"><td><p><code class="docutils literal notranslate"><span class="pre">Objetivos</span></code></p></td>
+<tr class="row-odd"><td><ol class="arabic simple" start="8">
+<li><p><code class="docutils literal notranslate"><span class="pre">Objetivos</span></code></p></li>
+</ol>
+</td>
 <td><p>Aumentan la imagen directamente de la muestra.</p></td>
 </tr>
-<tr class="row-even"><td><p><code class="docutils literal notranslate"><span class="pre">Oculares</span></code></p></td>
+<tr class="row-even"><td><ol class="arabic simple" start="9">
+<li><p><code class="docutils literal notranslate"><span class="pre">Oculares</span></code></p></li>
+</ol>
+</td>
 <td><p>Aumentan la imagen y permiten observar la muestra a través del microscopio.</p></td>
 </tr>
-<tr class="row-odd"><td><p><code class="docutils literal notranslate"><span class="pre">Platina</span></code></p></td>
+<tr class="row-odd"><td><ol class="arabic simple" start="10">
+<li><p><code class="docutils literal notranslate"><span class="pre">Platina</span></code></p></li>
+</ol>
+</td>
 <td><p>Sirve de soporte para el <a class="reference internal" href="../glosario.html#term-portaobjetos"><span class="xref std std-term">portaobjetos</span></a>, que a su vez soporta a la muestra.</p></td>
 </tr>
-<tr class="row-even"><td><p><code class="docutils literal notranslate"><span class="pre">Regulador</span> <span class="pre">de</span> <span class="pre">iluminación</span></code></p></td>
+<tr class="row-even"><td><ol class="arabic simple" start="11">
+<li><p><code class="docutils literal notranslate"><span class="pre">Regulador</span> <span class="pre">de</span> <span class="pre">iluminación</span></code></p></li>
+</ol>
+</td>
 <td><p>Regula la intensidad de la luz que es emitida por la <code class="docutils literal notranslate"><span class="pre">fuente</span> <span class="pre">de</span> <span class="pre">iluminación</span></code>, aumentándola o disminuyéndola.</p></td>
 </tr>
-<tr class="row-odd"><td><p><code class="docutils literal notranslate"><span class="pre">Revólver</span></code></p></td>
+<tr class="row-odd"><td><ol class="arabic simple" start="12">
+<li><p><code class="docutils literal notranslate"><span class="pre">Revólver</span></code></p></li>
+</ol>
+</td>
 <td><p>Sostiene los <code class="docutils literal notranslate"><span class="pre">objetivos</span></code> y permite cambiar entre ellos.</p></td>
 </tr>
-<tr class="row-even"><td><p><code class="docutils literal notranslate"><span class="pre">Tornillos</span> <span class="pre">macro</span> <span class="pre">y</span> <span class="pre">micrométrico</span></code></p></td>
+<tr class="row-even"><td><ol class="arabic simple" start="13">
+<li><p><code class="docutils literal notranslate"><span class="pre">Tornillos</span> <span class="pre">macro</span> <span class="pre">y</span> <span class="pre">micrométrico</span></code></p></li>
+</ol>
+</td>
 <td><p>Mueven la <code class="docutils literal notranslate"><span class="pre">platina</span></code> arriba y abajo. El <code class="docutils literal notranslate"><span class="pre">macrométrico</span></code> a grandes pasos y <code class="docutils literal notranslate"><span class="pre">milimétrico</span></code> poco a poco.</p></td>
 </tr>
 </tbody>
