@@ -6,7 +6,7 @@ description: Una chica recibe a su hermano a las tres de la madrugada.
 giscus_comments: true
 ---
 
-<p class="first">Un sonido la despertó. Miró la hora en su despertador rosa. Eran las tres de la madrugada. Somnolienta se sentó en su cama y prestó atención: había un sonido constante, como el agua de una regadera golpeando a la ventana. Estaba lloviendo. Llovía desde hace más de doce horas. Pero ese no era el sonido que la había despertado. El ruido más bien fue un...</p>
+<p class="first">Un sonido la despertó. Miró la hora en su despertador analógico rosa. Eran las tres de la madrugada. Somnolienta se sentó en su cama y prestó atención. Había un sonido constante, como el de las uñas de unos dedos golpeando la ventana. Estaba lloviendo. Llovía desde hace más de doce horas. Pero ese no era el sonido que la había despertado. El ruido más bien había sido como un...</p>
 
 «Toc, toc». ¡Ajá! Ahí estaba de nuevo el sonido. Alguien llamaba a la puerta a las tres de la madrugada. 
 
@@ -28,7 +28,7 @@ Una familiar risa masculina se hizo notar al otro lado de la puerta.
 
 —Soy yo, Guisantito. Ábreme. Hace mucho frío aquí afuera.
 
-«Guisantito», ¿eh? ¡Pero qué irritante! Era él, su hermano mayor, que siempre le llamaba como aquel «personaje» del cuento _La princesa y el guisante_: 
+«Guisantito», ¿eh? ¡Pero qué irritante! Era él, su hermano mayor, que siempre le llamaba como aquel «personaje» del cuento _La princesa y el guisante_.
 
 «¡Claro que es un personaje!», le había dicho él alguna vez. «Y es el más importante del cuento, sino mira nada más los problemas que causa». Se había reído. «Y tú eres como él, ¿sabes? Porque eres igual de pequeña y fastidiosa».
 
@@ -113,14 +113,12 @@ Silencio.
 
 —Te quiero mucho, Guisantito —dijo él en un susurro.
 
-El olor a aceite automotriz regresó de nuevo e inundó la habitación, y los ojos de ella comenzaron a llorar. Un dolor sordo, como dormido en su consciencia, se despertó en su corazón agotado y su memoria se aclaró: Sí, su hermano había tenido un accidente, pero había ocurrido por la mañana, y las personas lo habían encontrado dormido en ese sueño del que uno ya no se despierta nunca más.
+El olor a aceite automotriz regresó de nuevo e inundó la habitación, y los ojos de ella comenzaron a llorar. Un dolor sordo, como dormido en su consciencia, se despertó en su corazón agotado y su memoria se aclaró: Sí, su hermano había tenido un accidente, pero éste había ocurrido por la mañana, y las personas lo habían encontrado dormido en ese sueño del que uno ya no se despierta nunca más.
 
 La realidad golpeó su pecho y la descubrió triste, pero tranquila y sin miedo.
 
-—También te quiero mucho, hermanito —le respondió en un sollozo—. Qué bueno que hayas regresado a casa.
+—También te quiero mucho, hermanito —le respondió ella en un sollozo—. Qué bueno que hayas regresado a casa.
 
 Ella se giró y hundió la cara en su pecho. 
 
-Afuera la lluvia cesó por completo y se hizo el silencio, y la luz de la luna penetró diáfana a través de la ventana.
-
-Ella cerró los ojos, y pronto quedó sumergida en la suavidad del ensueño. Y cuando lo hizo, el cuerpo de su hermano se desvaneció en la noche... y ella quedó sola en la habitación. ∎
+Fuera, la lluvia cesó por completo y se hizo el silencio. La luz de la luna penetró diáfana a través de las cortinas blancas. Ella cerró los ojos y su hermano le besó el cabello. Pronto quedó sumergida en la suavidad del ensueño. Y cuando lo hizo, el reloj del estante dió las tres con uno de la madrugada. Fue entonces que el cuerpo de su hermano se desvaneció en la noche... y ella quedó sola en la habitación. ∎
