@@ -121,4 +121,4 @@ La realidad golpeó su pecho y la descubrió triste, pero tranquila y sin miedo.
 
 Ella se giró y hundió la cara en su pecho. 
 
-Fuera, la lluvia cesó por completo y se hizo el silencio. La luz de la luna penetró diáfana a través de las cortinas blancas. Ella cerró los ojos y su hermano le besó el cabello. Pronto quedó sumergida en la suavidad del ensueño. Y cuando lo hizo, el reloj del estante dió las tres con uno de la madrugada. Fue entonces que el cuerpo de su hermano se desvaneció en la noche... y ella quedó sola en la habitación. ∎
+Fuera, la lluvia cesó por completo y se hizo el silencio. La luz de la luna penetró diáfana a través de las cortinas blancas. Ella cerró los ojos y su hermano le besó el cabello. Pronto quedó sumergida en la suavidad del ensueño. Y cuando lo hizo, el reloj del estante dio las tres con uno de la madrugada. Entonces, el cuerpo de su hermano se desvaneció en la noche... y ella quedó sola en la habitación. ∎
