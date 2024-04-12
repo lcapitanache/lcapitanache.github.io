@@ -1,9 +1,0 @@
-Electrodos indicadores de membrana
-==================================
-
-*Lorem ipsum*.
-
-Referencias
------------
-
-.. footbibliography::

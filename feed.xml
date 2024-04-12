@@ -1,42 +1,804 @@
----
-layout: null
----
-
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>{{ site.url }}{{ site.baseurl }}/</id>
-    <title>{{ site.title }}</title>
-    <link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" />
-    <link href="{{ site.url }}{{ site.baseurl }}/" />
-    <updated>{{ site.time | date_to_xmlschema }}</updated>
-    <author><name>{{ site.author }}</name></author>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
+    <id>https://lcapitanache.github.io/</id>
+    <title>Luis Capitanache</title>
+    <link href="https://lcapitanache.github.io/feed.xml" rel="self" />
+    <link href="https://lcapitanache.github.io/" />
+    <updated>2024-04-12T04:54:33+00:00</updated>
+    <author><name>Luis Capitanache</name></author>
+    <generator>Jekyll v4.3.3</generator>
 
-    {% for post in site.tiamat %}
+    
         <entry>
-            <title>{{ post.title }}</title>
-            <author><name>{{ site.author }}</name></author>
+            <title>Pesadilla</title>
+            <author><name>Luis Capitanache</name></author>
             <rights>2021 Luis Capitanache - CC BY-NC-ND 4.0</rights>
-            <summary>{{ post.description }}</summary>
-            <published>{{ post.date | date_to_xmlschema }}</published>
-            <updated>{{ post.date | date_to_xmlschema }}</updated>
-            <link rel="alternate" type="text/html" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" />
-            <id>{{ post.url | prepend: site.baseurl | prepend: site.url }}</id>
-            <content type="html" xml:base="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.content | xml_escape }}</content>
-        </entry>
-    {% endfor %}
+            <summary>Una niña tiene una pesadilla peculiar.</summary>
+            <published>2021-09-01T00:00:00+00:00</published>
+            <updated>2021-09-01T00:00:00+00:00</updated>
+            <link rel="alternate" type="text/html" href="https://lcapitanache.github.io/tiamat/2021/pesadilla/" />
+            <id>https://lcapitanache.github.io/tiamat/2021/pesadilla/</id>
+            <content type="html" xml:base="https://lcapitanache.github.io/tiamat/2021/pesadilla/">&lt;p class=&quot;first&quot;&gt;Anika observó fijamente a la criatura que permanecía arrodillada en la oscuridad al pie de su cama. Hórrida, obesa, oscura, monstruosa y amenazadora.&lt;/p&gt;
 
-     {% for post in site.posts %}
-        <entry>
-            <title>{{ post.title }}</title>
-            <author><name>{{ site.author }}</name></author>
-            <rights>2021 Luis Capitanache - CC BY-NC-ND 4.0</rights>
-            <summary>{{ post.description }}</summary>
-            <published>{{ post.date | date_to_xmlschema }}</published>
-            <updated>{{ post.date | date_to_xmlschema }}</updated>
-            <link href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" />
-            <id>{{ post.url | prepend: site.baseurl | prepend: site.url }}</id>
-            <content type="html">{{ post.content | xml_escape }}</content>
+&lt;p&gt;La niña permanecía petrificada mientras aquella criatura sarnosa se metía a la boca babeante sus pequeños pies descalzos, moviendo sus largos y anormales dedos como lo hiciera un gran chef probando un manjar.&lt;/p&gt;
+
+&lt;p&gt;Punzadas húmedas y ardientes la hirieron, y un escalofrío de terror electrocutó todo su cuerpo.&lt;/p&gt;
+
+&lt;p&gt;Anika cerró los ojos, impotente e inexplicablemente muda. Luchaba. Trataba de librarse de aquellas manos invisibles que la retenían con una fuerza imposible sometida en la cama; pero todos sus esfuerzos resultaban en vano. Sentía cómo la bestia halaba una y otra vez, para después escuchar un crujir y rechinar de dientes.&lt;/p&gt;
+
+&lt;p&gt;Lloraba aterrorizada, inmovilizada, desesperada en forzado silencio; cubierta por una angustia densa y oprimente que se incrementaba con el paso de cada segundo.&lt;/p&gt;
+
+&lt;p&gt;Y cuando la desesperación dio un paso más allá de su límite, fue como si un globo se reventara, como si algo se destapara en algún lugar e hiciera una especie de «pop» sordo. Anika entonces quedó libre.&lt;/p&gt;
+
+&lt;p&gt;Se irguió de un impulso, y gritó y vació todo el aire de sus pulmones; pero no obstante a su reacción se encontró a sí misma sola en su habitación, con su respiración agitada, y el sudor y las lágrimas resbalando por sus mejillas.&lt;/p&gt;
+
+&lt;p&gt;Confundida, Anika observó la tranquilidad de la noche. Todo estaba bien. Había sido una pesadilla.&lt;/p&gt;
+
+&lt;p&gt;Inhaló y exhaló el aire para tranquilizarse, pero apenas lo hubo conseguido cuando notó algo extraño: una humedad tibia y viscosa bañaba sus muslos. Entornó los ojos en la penumbra y estiró la mano para palpar la cama con ella. Su corazón dio un vuelco cuando hizo contacto.&lt;/p&gt;
+
+&lt;p&gt;Consciente de una horrible certeza, de un movimiento apartó la sábana que la cubría. Y Anika gritó entonces como ningún ser humano lo había hecho jamás… El monstruo de la pesadilla había devorado sus piernas. ∎&lt;/p&gt;
+</content>
         </entry>
-    {% endfor %}
+    
+        <entry>
+            <title>Bullied</title>
+            <author><name>Luis Capitanache</name></author>
+            <rights>2021 Luis Capitanache - CC BY-NC-ND 4.0</rights>
+            <summary>Un chico es acosado hasta que se cansa de ello.</summary>
+            <published>2021-09-02T00:00:00+00:00</published>
+            <updated>2021-09-02T00:00:00+00:00</updated>
+            <link rel="alternate" type="text/html" href="https://lcapitanache.github.io/tiamat/2021/bullied/" />
+            <id>https://lcapitanache.github.io/tiamat/2021/bullied/</id>
+            <content type="html" xml:base="https://lcapitanache.github.io/tiamat/2021/bullied/">&lt;h2 class=&quot;relato-header&quot;&gt;1&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p class=&quot;first&quot;&gt;Pablo abrió los ojos y escupió la tierra que le había quedado entre los dientes. Se levantó del suelo y sacudió su uniforme de escuela secundaria. Le acababan de dar una golpiza, «la golpiza del día». Recogió sus gafas grandes y gruesas del suelo y las limpió con su camisa antes de volver a colocárselas. El mundo recobró su nitidez.&lt;/p&gt;
+
+&lt;p&gt;Buscó la caja Petri que estaba utilizando para recolectar una muestra de algas cuando había sido interrumpido y golpeado hasta la saciedad. El objeto había sido un obsequio de su padre fallecido y le guardaba especial cariño. Pero cuando al fin encontró la caja, la halló hecha pedazos.&lt;/p&gt;
+
+&lt;p&gt;Se puso en cuclillas para recoger uno a uno los fragmentos del envase, y mientras lo hacía, una sensación fuerte y sorda opacó por completo el dolor de los golpes que le habían propinado. Era la sangre, que viajaba rápida y furiosa a través de su sistema circulatorio, y que bañaba con intensidad los pliegues de su cerebro. Era el nacimiento de una determinación.&lt;/p&gt;
+
+&lt;h2 class=&quot;relato-chapter&quot;&gt;2&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p class=&quot;first&quot;&gt;En la biblioteca de la secundaria, Pablo cerró un ejemplar del «Código Penal de la ciudad-estado de Tiamat» y lo colocó junto con otros que ya había consultado.&lt;/p&gt;
+
+&lt;p&gt;Se quitó por un momento sus gruesas gafas y las limpió con su camisa escolar mientras pensaba: Sin importar la naturaleza ni la gravedad de sus crímenes, en la ciudad-estado de Tiamat no se juzgaba a los menores de edad; sino que, a lo sumo, se les canalizaba a centros especializados, en donde recibían tratamiento y orientación por parte de trabajadores sociales, psicólogos y otros expertos.&lt;/p&gt;
+
+&lt;p&gt;Como pudo leer, en el pasado se habían dado casos de naturaleza y gravedad variable, desde simples robos y asaltos a mano armada, hasta agresiones físicas y violaciones, e incluso secuestros y homicidios. Pero pese a todo esto, y a las sendas quejas y demandas de las víctimas y familiares de éstas, los códigos penales nunca habían sido reformados para castigar con la severidad adecuada a los infractores por debajo de la mayoría de edad. Sentenciar con cárcel a un menor de edad era simplemente anticonstitucional y suponía un agravio a las regulaciones internacionales de derecho.&lt;/p&gt;
+
+&lt;p&gt;Al entender el alcance de todo esto, Pablo se colocó y ajustó sus gafas y sonrió para sus adentros.&lt;/p&gt;
+
+&lt;h2 class=&quot;relato-chapter&quot;&gt;3&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p class=&quot;first&quot;&gt;Pablo retrocedió unos pasos y observó al muñeco a tamaño natural que había construido. Había utilizado distintos materiales y, previa búsqueda de los valores adecuados, había calculado y construido un modelo humano con las medidas y densidades óseas y musculares adecuadas.&lt;/p&gt;
+
+&lt;p&gt;Se sentía orgulloso y satisfecho de su trabajo.&lt;/p&gt;
+
+&lt;p&gt;Tomó un tubo de metal, de forma y dimensiones también calculadas, y con éste en manos comenzó a caminar haciendo círculos alrededor del muñeco.&lt;/p&gt;
+
+&lt;p&gt;«No es cuestión de fuerza, sino de física», le había dicho una vez su padre. Y con estas palabras repitiéndose una y otra vez, bailando, reverberando, dando vueltas en su cabeza, Pablo se dispuso a practicar lo que él llamaba «retribución y justicia».&lt;/p&gt;
+
+&lt;h2 class=&quot;relato-chapter&quot;&gt;4&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p class=&quot;first&quot;&gt;Un puñetazo en la mejilla izquierda lo hizo ver las estrellas. La cabeza le daba vueltas y Pablo cayó de rodillas. A su mente vino la imagen angustiada y preocupada de su madre, que le decía que no peleara, que no se rebajara a su nivel; que resistir era de verdaderos hombres y que siempre había otros medios para resolver los conflictos. «Tú eres moralmente superior», le dijo su madre en la alucinación.&lt;/p&gt;
+
+&lt;p&gt;Un golpe en el estómago lo dobló y la bilis se le subió a la garganta. Con una mano se abrazó el abdomen y con la otra se sujetó a la tierra para no caer.&lt;/p&gt;
+
+&lt;p&gt;«No», escuchó una voz masculina dentro de su cabeza. Era su padre fallecido que le hablaba desde algún lugar oscuro. «Ninguna oveja se siente moralmente superior mientras es devorada por los lobos. Permítelo y las bestias te harán pedazos… Tienes que defenderte para hacerte valer y ganarte el respeto. Pero no te precipites, espera tu momento».&lt;/p&gt;
+
+&lt;p&gt;Un nuevo golpe a la cabeza lo derribó. Pablo perdió todas las fuerzas en un instante, y entonces una negra oscuridad lo abrazó y un silencio quedo lo besó.&lt;/p&gt;
+
+&lt;h2 class=&quot;relato-chapter&quot;&gt;5&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p class=&quot;first&quot;&gt;El director de la secundaria observaba a la mamá de Pablo llorar desconsolada mientras el chico permanecía impertérrito. Otra vez la misma escena en el mismo lugar.&lt;/p&gt;
+
+&lt;p&gt;Negaciones. Súplicas. Lágrimas. Una promesa. Todo siempre igual.&lt;/p&gt;
+
+&lt;p&gt;Y al final, la misma resolución de siempre: la mamá no podía permitirse el lujo de pagar una escuela privada y esta secundaria era la única que estaba a su alcance. Pablo tendría que ser fuerte y resistir por un año y medio más.&lt;/p&gt;
+
+&lt;h2 class=&quot;relato-chapter&quot;&gt;6&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p class=&quot;first&quot;&gt;Pablo estaba tenso en la clase de Matemáticas, aunque no creía que alguien se diera cuenta de lo que estaba sucediendo. En su laptop, vieja y de segunda mano, abrió una consola de comandos y seleccionó de una lista la señal de su objetivo. Ejecutó el programa adecuado y después observó cómo un porcentaje se incrementaba a un ritmo que le parecía interminable.&lt;/p&gt;
+
+&lt;p&gt;En la mañana del día anterior, durante una clase libre, Pablo había prestado atención al teléfono celular de su acosador. Reconoció el dispositivo en uno que le había visto antes a un compañero del club de ciencias, y acercándose a éste durante la reunión del día, supo que se trataba de un terminal Sony Xperia XZ. Después, en la tarde de aquel mismo día, buscó en Internet los detalles técnicos del dispositivo, y con esta información se dio a la tarea de encontrar un exploit que hiciera el trabajo sucio.&lt;/p&gt;
+
+&lt;p&gt;Y ahora el programa informático cumplía su cometido: se saltaba los mecanismos de protección y le daba el acceso total a la información en el dispositivo, mientras un segundo programa realizaba en la laptop de Pablo una copia exacta de su contenido. Todo sin que el infame usuario del terminal se percatara de nada.&lt;/p&gt;
+
+&lt;p&gt;Cuando el contador de progreso llegó al cien por ciento, Pablo cerró todos los programas y apagó su equipo.&lt;/p&gt;
+
+&lt;h2 class=&quot;relato-chapter&quot;&gt;7&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p class=&quot;first&quot;&gt;Durante la noche, en la oscura privacidad de su habitación, Pablo revisó los archivos copiados del Xperia a su computadora. No estaba seguro de encontrar algo que pudiera utilizar, pero era bien sabido que los jóvenes siempre almacenaban contenido comprometedor en sus dispositivos.&lt;/p&gt;
+
+&lt;p&gt;El reflejo pálido y azulado del monitor se proyectaba en las lentes de Pablo mientras abría y cerraba uno a uno los archivos copiados. Entonces reprodujo cierto video y en el reflejo de sus gafas comenzaron a moverse rítmicamente dos siluetas color carne. Supo entonces que había encontrado algo importante.&lt;/p&gt;
+
+&lt;h2 class=&quot;relato-chapter&quot;&gt;8&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;«Los &lt;em&gt;Homo sapiens&lt;/em&gt; somos todos animales, hijo. Y más aún, somos animales de patrones y costumbres»&lt;/p&gt;
+
+&lt;p class=&quot;first&quot;&gt;Pablo lo estaba esperando. Consultó su reloj y vio que faltaban menos de cinco minutos. Lo acechaba, oculto entre las sombras, así como la pantera caza a su presa incauta.&lt;/p&gt;
+
+&lt;p&gt;Luego de seguirlo por algunos días, Pablo se había dado cuenta de que el cavernícola, como buen animal, tenía sus patrones y costumbres. Siempre pasaba solo por ese lugar para ir a reunirse con sus amigos en una vieja casa abandonada, en donde invariablemente quedaban para drogarse.&lt;/p&gt;
+
+&lt;p&gt;El momento de la retribución y justicia finalmente había llegado. Todas las piezas encajaban perfectamente en su lugar. Incluso se había puesto de acuerdo con algunos compañeros de clase, todos ellos inteligentes y buenos alumnos como él —y por tanto creíbles y respetables—, de que estaría con ellos en otro lugar en ese mismo momento, y que así se lo harían constar a quien fuera necesario, aunque nada de todo aquello fuera cierto.&lt;/p&gt;
+
+&lt;p&gt;Entonces se escuchó un ruido, el sonido característico de los pasos de su blanco. Pablo se puso alerta. Acarició el tubo metálico, el de medidas y proporciones adecuadas para su propósito, y esperó a que pasara a su lado. El idiota era más grande, así que tenía la ventaja si lo sorprendía por la espalda.&lt;/p&gt;
+
+&lt;p&gt;Aguardó, y en pocos segundos el objetivo pasó a su lado.&lt;/p&gt;
+
+&lt;p&gt;Pablo se colocó a su espalda y con el tubo le propinó un golpe entre el cuello y el hombro derecho que lo inmovilizó al instante. Después golpeó de manera contundente el reverso de sus rodillas y el animal cayó al suelo rebuznando de dolor.&lt;/p&gt;
+
+&lt;p&gt;La bestia estaba ahora sometida y podía tomarse su tiempo rompiendo sus huesos. Bajo el cobijo de la soledad de la noche, nadie acudiría a prestarle su auxilio.&lt;/p&gt;
+
+&lt;p&gt;Entre lamentos, súplicas y gritos, Pablo fue implacable. Y pese a la naturaleza de su actividad, Pablo se mantenía sereno, tranquilo; con la respiración adecuadamente modulada para hacerlo todo rápida y eficientemente. Había practicado para el momento, y su desempeño académico en las clases de Matemáticas y Física, así como sus lecturas extracurriculares de Anatomía, rendían al fin sus buenos frutos.&lt;/p&gt;
+
+&lt;p&gt;Le sujetó uno de los brazos y, haciendo una palanca con el tubo y sin apenas esfuerzo, reventó sus huesos. «No es cuestión de fuerza, sino de física»: Sí, cuánta razón tenía.&lt;/p&gt;
+
+&lt;p&gt;Tras una buena cantidad de músculos molidos y huesos rotos, Pablo se detuvo. Sabía que para un idiota como ese no bastaba con golpear sus músculos y quebrar sus huesos, ya que podría luego volver todavía más furioso y fuerte que antes. No. A este insecto había que hacerle algo más, había que romperle y destrozarle el espíritu, dinamitar y volar en pedazos toda su voluntad.&lt;/p&gt;
+
+&lt;p&gt;De un golpe violento Pablo insertó el tubo en la tierra, se sacó su teléfono del bolsillo, y en el explorador de archivos buscó un video y lo reprodujo. Nuevamente en sus gafas de niño miope se reflejaron aquellas siluetas color carne que se movían rítmicamente. Le mostró el video a su opresor y le susurró al oído palabras terribles antes ensayadas. Y justo en ese momento algo se rompió; era el espíritu del otrora agresor, que había quedado hecho pedazos.&lt;/p&gt;
+
+&lt;p&gt;Pablo se levantó. Extrajo de su bolsillo un objeto cruel y grotesco y se lo arrojó al otro en la cara. Activó el modo grabación en la cámara de su smartphone y, sujetando el tubo como si fuera la lanza tribal de un Anciano Terrible, le dirigió solemne y contundente un par de palabras:&lt;/p&gt;
+
+&lt;p&gt;—Estoy esperando.&lt;/p&gt;
+
+&lt;h2 class=&quot;relato-chapter&quot;&gt;9&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p class=&quot;first&quot;&gt;En la clase de Ciencias Sociales los alumnos discutían con el profesor la novedad del día. Alguien se había enterado de que a uno de sus compañeros le había ocurrido algo terrible.&lt;/p&gt;
+
+&lt;p&gt;—Lo han ingresado de emergencia en el &lt;em&gt;Sanatorio del Santo Suplicio&lt;/em&gt; —dijo el más cercano a él—. Está irreconocible. No sólo porque tiene el cuerpo hecho pedazos, sino también porque hay algo que es diferente en él… Es… Es casi como si lo hubieran cambiado por otra persona.&lt;/p&gt;
+
+&lt;p&gt;»No sé si algún día podrá recuperarse.&lt;/p&gt;
+
+&lt;p&gt;Entonces alguien se detuvo en la puerta. Era el chico nerd al que casi nadie notaba ni le dirigía la palabra, pero esta vez todos se dieron cuenta que tenía algo que lo hacía ver diferente. Lo vieron en una postura naturalmente recta y con la mandíbula, fuerte y segura, proyectada hacia el frente. Habló, y al hacerlo todos callaron y escucharon su voz, que sonó grave, poderosa y quieta.&lt;/p&gt;
+
+&lt;p&gt;—Sí, adelante. Puede pasar —respondió el profesor.&lt;/p&gt;
+
+&lt;p&gt;Entró, y aun las más hermosas entre las adolescentes notaron en su mirada y en su andar los pasos seguros de alguien que siempre sabe adónde va. ¿Había crecido algunos centímetros en las últimas horas? No pudieron saberlo. Pero lo que sí, fue que ya nunca nadie iba a dejar de notar que él estaba ahí. ∎&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Hola, Natascha</title>
+            <author><name>Luis Capitanache</name></author>
+            <rights>2021 Luis Capitanache - CC BY-NC-ND 4.0</rights>
+            <summary>El mayor admirador, el más grande fan.</summary>
+            <published>2021-09-03T00:00:00+00:00</published>
+            <updated>2021-09-03T00:00:00+00:00</updated>
+            <link rel="alternate" type="text/html" href="https://lcapitanache.github.io/tiamat/2021/hola-natascha/" />
+            <id>https://lcapitanache.github.io/tiamat/2021/hola-natascha/</id>
+            <content type="html" xml:base="https://lcapitanache.github.io/tiamat/2021/hola-natascha/">&lt;p class=&quot;first&quot;&gt;Facebook, Twitter, Instagram, YouTube y Snapchat. Te sigo a través de todos tus perfiles en las redes sociales. Soy tu mayor admirador, tu más grande fan.&lt;/p&gt;
+
+&lt;p&gt;Apago la camioneta en el estacionamiento y a lo lejos te veo bajar del sedán negro junto con tus padres. Noto que llevas el vestido rosa, del que publicaste un video en YouTube el pasado 14 de marzo, y los zapatos blancos de tacón alto que adquiriste por Amazon. Tomas por el brazo a tu padre y, junto con tu madre, entras al centro comercial &lt;em&gt;El Zigurat Escarlata&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;¿Sabes? Me noto a mí mismo un poco ansioso y entiendo que el tiempo me pasará muy lento. Pero no me molesta esperar. Estoy cómodo dentro de la camioneta, y tú tardarás sólo un momento ahí dentro, lo sé. Sólo viniste a comprar un bolso y a comer un helado, tal y como lo publicaste previamente en las redes sociales. Ah, porque tú eres diferente, mi chiquilla consentida. Te gusta ver en línea qué comprarás y revisar sus existencias antes de salir a comprar, porque no te agrada perder el tiempo buscando o viendo a ver qué hay. Mi Natascha; tan diferente de las demás mujeres.&lt;/p&gt;
+
+&lt;p&gt;Mientras espero a tu salida, del bolsillo de mi chaqueta extraigo mi iPhone —que tiene como fondo de pantalla una imagen tuya, por supuesto— y accedo a la galería de imágenes. Miles y miles de fotografías. Todas tuyas. Y de entre todas ellas, pulso sobre mi favorita; esa que publicaste en Instagram hace dos meses, en la que apoyas tu rostro sobre el anverso de tus manos y lo presentas al objetivo de la cámara, y tu semblante y el fulgor de tu sonrisa llenan el encuadre de la fotografía.&lt;/p&gt;
+
+&lt;p&gt;Ah, mira nada más cuán hermosa eres. ¿Cómo no enamorarse de tu cabello, largo y castaño; de tus expresivos ojos cafés, grandes y limpios; y de tus sensuales y bien formados labios carnosos, de los cuales el superior es el más grueso? Eres tan hermosa y sensual. Natascha… Incluso tu nombre transpira sensualidad: Na-tas-cha. Con la última sílaba como perdiéndose en un suspiro.&lt;/p&gt;
+
+&lt;p&gt;¿Tendré el valor de confesarte que tengo la fantasía de que cada foto que te tomas es sólo para mí?, ¿que me miras a mí, y sólo a mí, a través del obturador de la cámara, sin importar el momento ni las distancias que nos separan? ¿Podré decirte que fantaseo con cada pose de tu cuerpo que muestras en tus fotografías hasta quedar siempre exhausto? Y, ¿tendré el valor de mostrarte aquella fotografía, en la que me he añadido digitalmente a tu lado utilizando Photoshop?&lt;/p&gt;
+
+&lt;p&gt;Ah, benditas sean las redes sociales, que me han permitido conocerte y enamorarme de ti. Tanto tiempo pensando y soñando en una vida contigo, pero después de tanta planeación al fin estoy aquí, ¡listo para dar el siguiente paso y llevarte conmigo! Porque, mi querida Natascha, no lo sabes aún, pero a partir de hoy no habrá distancia que pueda separarme de ti. A partir de hoy, estarás para siempre a mi lado.&lt;/p&gt;
+
+&lt;p&gt;Me dejo el iPhone a un costado, y reviso y recargo la pistola automática con la que me encargaré de tus padres. Ellos nunca lo entenderán, lo sé. Y por supuesto, tú tampoco lo harás. Pero descuida, que será sólo al principio. Es perfectamente comprensible que esta situación te sorprenda; a un hombre tan profundamente enamorado de ti no lo conoces todos los días. Ah, pero con el tiempo… con el tiempo sé que entenderás cuánto te amo, y aprenderás a amarme con la misma devoción que yo te amo a ti. Sabrás perdonarme por haber usado el arma en contra de tus padres. Sí, sólo será cuestión de tiempo…&lt;/p&gt;
+
+&lt;p&gt;El iPhone vibra y la pantalla se enciende, y aparece en ella una notificación acompañada de un sonido. Eres tú. Acabas de publicar en Twitter una selfie tuya comiendo un delicioso helado. Apenas le doy un like a tu publicación cuando llega el aviso de un segundo tuit. En este último dices que irás al cine que está al otro lado de la ciudad; hoy estrenan &lt;em&gt;Cuentos de Tiamat&lt;/em&gt; y no puedes perdértela. Es el momento, estás por salir.&lt;/p&gt;
+
+&lt;p&gt;Conduzco la camioneta para acercarme y estaciono en la entrada principal, por donde sé que pronto saldrás. Y en efecto, a los pocos segundos apareces con tus padres, feliz, llevando tu precioso bolso nuevo y comiendo todavía el helado de la foto del tuit. El momento de estar para siempre juntos finalmente ha llegado, mi querida Natascha.
+Tomo mi arma. Abro la puerta. Y salgo a tu encuentro…&lt;/p&gt;
+
+&lt;p&gt;—Hola, Natascha. Yo soy tu admirador número uno. ∎&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>A las tres de la madrugada</title>
+            <author><name>Luis Capitanache</name></author>
+            <rights>2021 Luis Capitanache - CC BY-NC-ND 4.0</rights>
+            <summary>Una chica recibe a su hermano a las tres de la madrugada.</summary>
+            <published>2021-09-04T00:00:00+00:00</published>
+            <updated>2021-09-04T00:00:00+00:00</updated>
+            <link rel="alternate" type="text/html" href="https://lcapitanache.github.io/tiamat/2021/a-las-tres-de-la-madrugada/" />
+            <id>https://lcapitanache.github.io/tiamat/2021/a-las-tres-de-la-madrugada/</id>
+            <content type="html" xml:base="https://lcapitanache.github.io/tiamat/2021/a-las-tres-de-la-madrugada/">&lt;p class=&quot;first&quot;&gt;Un sonido la despertó. Miró la hora en su despertador analógico rosa. Eran las tres de la madrugada. Somnolienta se sentó en su cama y prestó atención. Había un sonido constante, como el de las uñas de unos dedos golpeando la ventana. Estaba lloviendo. Llovía desde hace más de doce horas. Pero ese no era el sonido que la había despertado. El ruido más bien había sido como un...&lt;/p&gt;
+
+&lt;p&gt;«Toc, toc». ¡Ajá! Ahí estaba de nuevo el sonido. Alguien llamaba a la puerta a las tres de la madrugada.&lt;/p&gt;
+
+&lt;p&gt;Bostezó. Los ojos le escocían. Se sentía demasiado triste y cansada, aunque por más que lo pensaba no podía determinar el por qué. Tal vez un sueño…&lt;/p&gt;
+
+&lt;p&gt;«Toc, toc».&lt;/p&gt;
+
+&lt;p&gt;Se levantó, y cuando lo hizo reparó en que llevaba su mejor vestido, el negro de tirantes y falda corta, el cual le habían obsequiado por su cumpleaños. Se extrañó mucho, pero por más que se esforzó no pudo recordar cuándo se lo vistió ni para qué. ¿Para una fiesta tal vez? No. Sí. Espera… Sí, eso es. El vago recuerdo de sus padres con sus ropas más elegantes vino a su memoria. Tuvo que ser alguna fiesta o un evento social de alguna clase. ¿Pero cuál? ¿Y en dónde? ¿Y por qué? Preguntas, preguntas, y cada vez más y más preguntas. Pero no podía pensar en posibles respuestas, se sentía demasiado triste y agotada.&lt;/p&gt;
+
+&lt;p&gt;«¡Toc, toc!». De nuevo alguien llamaba a la puerta.&lt;/p&gt;
+
+&lt;p&gt;Accionó el interruptor de las luces, pero éstas no encendieron. ¿Una falla por la lluvia? Podría ser.&lt;/p&gt;
+
+&lt;p&gt;«¡Toc, toc!». ¡Ugh! ¡Pero cuánta insistencia!
+A tientas salió de su habitación y bajó uno a uno cada peldaño de las escaleras. Y cuando se acercó a la puerta lo suficiente, guardó silencio por un momento para escuchar del otro lado; pero sólo pudo escuchar el sonido de la lluvia al caer…&lt;/p&gt;
+
+&lt;p&gt;—¡Hey, tú! ¡Ábreme! —dijo un susurro que le hizo dar un respingo. 
+Una familiar risa masculina se hizo notar al otro lado de la puerta.&lt;/p&gt;
+
+&lt;p&gt;—Soy yo, Guisantito. Ábreme. Hace mucho frío aquí afuera.&lt;/p&gt;
+
+&lt;p&gt;«Guisantito», ¿eh? ¡Pero qué irritante! Era él, su hermano mayor, que siempre le llamaba como aquel «personaje» del cuento &lt;em&gt;La princesa y el guisante&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;«¡Claro que es un personaje!», le había dicho él alguna vez. «Y es el más importante del cuento, sino mira nada más los problemas que causa». Se había reído. «Y tú eres como él, ¿sabes? Porque eres igual de pequeña y fastidiosa».&lt;/p&gt;
+
+&lt;p&gt;«Ja, ja. Muy gracioso», había respondido ella con un mohín. Y ahora el gracioso otra vez llegaba tarde a casa.&lt;/p&gt;
+
+&lt;p&gt;Abrió la puerta, y al hacerlo, un rayo cayó en la lejanía. El trueno reverberó por las ventanas de toda la casa. Su hermano, con la cara manchada de aceite y empapada por la lluvia, le miró y le sonrió.&lt;/p&gt;
+
+&lt;p&gt;—¡Ah, pero qué alegría estar de nuevo en casa! —dijo él mientras entraba.&lt;/p&gt;
+
+&lt;p&gt;—¿Qué fue lo que te pasó en la cara? —preguntó ella.&lt;/p&gt;
+
+&lt;p&gt;—Tuve un pequeño incidente con el automóvil. Y sabes que no soy bueno con la mecánica.&lt;/p&gt;
+
+&lt;p&gt;—Nada bueno —dijo ella recordando el día en que él había reparado su coche eléctrico de juguete. Había modificado el motor con tanta potencia que, cuando ella pisó el pedal, el cochecito se volcó hacia atrás junto con ella, como si fuera un caballo embravecido—. Das penita como mecánico.&lt;/p&gt;
+
+&lt;p&gt;—Lo sé —dijo entre risas—. ¿En dónde están mamá y papá?&lt;/p&gt;
+
+&lt;p&gt;—Supongo que arriba, dormidos en su recámara. Llegas demasiado tarde, ¿lo sabías? Tienes suerte de que no estén despiertos.&lt;/p&gt;
+
+&lt;p&gt;—Sí… Oye, ¿y por qué está todo tan oscuro? —dijo él mirando alrededor.&lt;/p&gt;
+
+&lt;p&gt;—No hay corriente eléctrica. Seguramente por el mal clima.&lt;/p&gt;
+
+&lt;p&gt;—Ah.&lt;/p&gt;
+
+&lt;p&gt;—Ven. Deja que te guíe a tu habitación —dijo ella tomándolo de la mano—. Mis ojos ya se han acostumbrado a la oscuridad.&lt;/p&gt;
+
+&lt;p&gt;Mientras subían juntos las escaleras, el tacto de su mano, masculina y fuerte, le trajo aquel recuerdo en que ella resbaló y cayó en el parque. En aquel momento los niños la vieron caerse y se burlaron de ella; pero entonces apareció su hermano mayor de la nada y le tendió aquella misma mano, cálida y firme, y la había sacado de ahí con su dignidad de niña intacta. Casi como el héroe de una película.&lt;/p&gt;
+
+&lt;p&gt;Suspiró. Y al sentir la alfombra de los escalones bajo sus pies descalzos, recordó brevemente la ocasión en que ella se golpeó la cabeza jugando en la sala. Su hermano la había llevado a su habitación, cargada en brazos por esas mismas escaleras…&lt;/p&gt;
+
+&lt;p&gt;¿Por qué estaba recordando todo eso?, se preguntó.&lt;/p&gt;
+
+&lt;p&gt;En la penumbra del pasillo, miró hacia atrás y vislumbró el rostro de su hermano, mojado y sucio. 
+Se detuvo.&lt;/p&gt;
+
+&lt;p&gt;—¿Qué pasa? —dijo él.&lt;/p&gt;
+
+&lt;p&gt;—Ve al lavabo y límpiate la cara. Pareces el mecánico que no eres.&lt;/p&gt;
+
+&lt;p&gt;—Pero está muy oscuro —dijo él—. Ni siquiera veo mi rostro en el espejo.&lt;/p&gt;
+
+&lt;p&gt;Ella suspiró.&lt;/p&gt;
+
+&lt;p&gt;—Ven.&lt;/p&gt;
+
+&lt;p&gt;Él se inclinó un poco y ella se puso de puntillas para alcanzar su rostro. Olía a aceite automotriz. Lavó su cara con agua y jabón hasta que las manchas y el olor del aceite desaparecieron. Después secó su rostro con una toalla limpia de algodón. Le gustaba cuidar de su hermano después de todo lo que él había hecho por ella.&lt;/p&gt;
+
+&lt;p&gt;—Hey —susurró él—. ¿Duermes conmigo?&lt;/p&gt;
+
+&lt;p&gt;—¿Le tienes miedo a la oscuridad, grandote? —le dijo con una sonrisa.&lt;/p&gt;
+
+&lt;p&gt;Él se rió, y qué bonita le había parecido siempre su risa. Tan varonil, tan de hermano, tan de él.&lt;/p&gt;
+
+&lt;p&gt;—No. Sólo quisiera dormir contigo esta noche, como cuando éramos niños.&lt;/p&gt;
+
+&lt;p&gt;—Está bien —dijo ella—. Pero no te acostumbres.&lt;/p&gt;
+
+&lt;p&gt;Pasaron por una ventana, y al hacerlo ella notó que la lluvia había perdido su fuerza. Apenas era un suave susurro.&lt;/p&gt;
+
+&lt;p&gt;Entraron en la habitación. Ella se acostó en la cama sobre un costado y su hermano la abrazó por detrás.&lt;/p&gt;
+
+&lt;p&gt;—Estoy demasiado cansado —dijo él suspirando.&lt;/p&gt;
+
+&lt;p&gt;—¿Sí? Yo también.&lt;/p&gt;
+
+&lt;p&gt;—Hey, ¿por qué andas tan elegante con ese vestido negro? ¿Fuiste a alguna parte?&lt;/p&gt;
+
+&lt;p&gt;—No lo sé —respondió ella—. ¿Puedes creerlo? No puedo acordarme…&lt;/p&gt;
+
+&lt;p&gt;—Sí, te creo. Con lo traviesa que eres… De seguro te fumaste algo.&lt;/p&gt;
+
+&lt;p&gt;—Osh.&lt;/p&gt;
+
+&lt;p&gt;Rieron los dos.&lt;/p&gt;
+
+&lt;p&gt;Y juntos permanecieron en silencio por un momento, permitiendo que la quietud de la noche los envolviera y el suave murmullo de la lluvia los arrullara.&lt;/p&gt;
+
+&lt;p&gt;—Tuve miedo, ¿sabes? —dijo él después de un rato—. El automóvil se hizo difícil de controlar en la carretera con esta lluvia… Por una fracción de segundo pensé que no volvería.&lt;/p&gt;
+
+&lt;p&gt;Silencio.&lt;/p&gt;
+
+&lt;p&gt;—Te quiero mucho, Guisantito —dijo él en un susurro.&lt;/p&gt;
+
+&lt;p&gt;El olor a aceite automotriz regresó de nuevo e inundó la habitación, y los ojos de ella comenzaron a llorar. Un dolor sordo, como dormido en su consciencia, se despertó en su corazón agotado y su memoria se aclaró: Sí, su hermano había tenido un accidente, pero éste había ocurrido por la mañana, y las personas lo habían encontrado dormido en ese sueño del que uno ya no se despierta nunca más.&lt;/p&gt;
+
+&lt;p&gt;La realidad golpeó su pecho y la descubrió triste, pero tranquila y sin miedo.&lt;/p&gt;
+
+&lt;p&gt;—También te quiero mucho, hermanito —le respondió ella en un sollozo—. Qué bueno que hayas regresado a casa.&lt;/p&gt;
+
+&lt;p&gt;Ella se giró y hundió la cara en su pecho.&lt;/p&gt;
+
+&lt;p&gt;Fuera, la lluvia cesó por completo y se hizo el silencio. La luz de la luna penetró diáfana a través de las cortinas blancas. Ella cerró los ojos y su hermano le besó en el cabello. Pronto quedó sumergida en la suavidad del ensueño. Y cuando lo hizo, el reloj del estante dio las tres con uno de la madrugada. Entonces, el cuerpo de su hermano se desvaneció en la noche… y ella quedó sola en la habitación. ∎&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Asesinato en el Ishtar Express</title>
+            <author><name>Luis Capitanache</name></author>
+            <rights>2021 Luis Capitanache - CC BY-NC-ND 4.0</rights>
+            <summary>El testigo de un crimen huye por su vida.</summary>
+            <published>2021-09-07T00:00:00+00:00</published>
+            <updated>2021-09-07T00:00:00+00:00</updated>
+            <link rel="alternate" type="text/html" href="https://lcapitanache.github.io/tiamat/2021/asesinato-en-el-ishtar-express/" />
+            <id>https://lcapitanache.github.io/tiamat/2021/asesinato-en-el-ishtar-express/</id>
+            <content type="html" xml:base="https://lcapitanache.github.io/tiamat/2021/asesinato-en-el-ishtar-express/">&lt;p class=&quot;first&quot;&gt;Con la finalidad de realizar una investigación para mi tesis, me desplacé a la ciudad-estado de Ur, en donde me hospedé en el prestigioso &lt;em&gt;Ishtar Express&lt;/em&gt;. Luego de haberme instalado, bajé al suntuoso comedor, donde me agasajaron con los más deliciosos manjares. He de decir que, aunque en la mayoría de los hoteles la comida que ahí se sirve se ha ganado a fuerza la fama de insulsa, esto no ocurre en el &lt;em&gt;Ishtar Express&lt;/em&gt;, donde la comida es siempre espléndida, el epítome de la exquisitez.&lt;/p&gt;
+
+&lt;p&gt;Una vez terminé con aquellos manjares dignos de los dioses, retorné a mis aposentos para tomar un baño revitalizador y posteriormente disfrutar de un breve descanso, y así después iniciar mis pesquisas a primera hora de la tarde.&lt;/p&gt;
+
+&lt;p&gt;El cuarto de baño se presentó no menos galante que el otrora magnífico comedor, haciendo de manifiesto un gusto culto con fragancias y perfumes de lo más sensibles y seductores. Con un éxtasis casi orgásmico, ingresé a la bañera dispuesto a agasajarme como es debido.&lt;/p&gt;
+
+&lt;p&gt;Más tarde, habiendo tomado el mejor baño de mi vida, sequé y perfumé mi cuerpo, y cubrí mi desnudez con una elegante y finísima toalla de algodón de la más alta calidad, cuyo tacto recordaba a la suavidad de la piel de un bebé.&lt;/p&gt;
+
+&lt;p&gt;Abrí la puerta de mi dormitorio y para mi total trastorno me encontré en él a la mucama, que permanecía de espaldas a mí, extendiendo y levantando con destreza volutas de polvo invisible de diversas superficies. ¡Pero qué atrevimiento! ¿Ingresar a las habitaciones de un caballero en semejante situación y sin previo llamamiento? ¡No es correcto! La sorpresa y la indignación me congelaron, y cuando hube resuelto dirigirle unas palabras de reprimenda, vi con asombro cómo se acercaba sigilosa a mi lecho, para luego levantar su mano con un objeto en ella y después propinar vigorosos y repetidos impactos a la que fuera mi cama. Nada me preparó para ver cómo una gota roja de sangre escurría en el instrumento de muerte que sujetaba con firmeza.&lt;/p&gt;
+
+&lt;p&gt;Víctima del más profundo terror, salí con premura de mis habitaciones, así, tal y como me encontraba, desnudo y cubierto únicamente con la suave e impoluta toalla de lana. Sin duda alguna, aquella mucama asesina se creía sola con su víctima en aquellas habitaciones, no imaginando siquiera mi presencia. Y ahora que había presenciado el horror de su crimen, me veía obligado a huir con celeridad para salvar la vida, no sin antes pensar que, dada la patente gravedad de estas condiciones, la sociedad sabrá dispensar la falta de decoro de mi deplorable aspecto.&lt;/p&gt;
+
+&lt;p&gt;Huí presurosamente. Y al no encontrar a nadie que me prestara auxilio —como si todo el personal del hotel estuviese confabulado con el infame crimen—, resolví salir a la calle y pedir la tan necesaria ayuda en estas situaciones desesperadas. Pero oh, qué terrible decepción. Las damas y caballeros que encontraba a mi atropellado y urgido paso no hacían otra cosa que huir de mi persona en lugar de prestarme su oído; incluso algunos olvidaban las buenas maneras y no obtenía otra cosa que no fueran burlas obscenas y grotescas. ¡Ay de mí! ¿Pero qué es lo que les pasa a estas gentes? ¡Animales! ¡Bestias! ¡Incultos salvajes en una selva de concreto!&lt;/p&gt;
+
+&lt;p&gt;Temeroso de la persecución de la asesina, así como falto de toda ayuda y comprensión, y hallándome precariamente en los límites de mis fuerzas, llegué finalmente al &lt;em&gt;Sanatorio del Santo Suplicio&lt;/em&gt;, en donde me ofrecieron protección y asilo. Es en este lugar santo, generoso y piadoso, en donde me encuentro actualmente, resguardado de los inminentes peligros e infames agravios de los que pudiera llegar a ser víctima, en una habitación blanca de paredes suaves y acolchadas —E incluso han cubierto la vergüenza de mi desnudez con atavíos también blancos, aunque he de decir que las mangas quedan un poco largas—. Pero no obstante a toda la misericordiosa hospitalidad y protección de estas nobles gentes, no puedo apartar de mi mente lo sucedido. Las imágenes me asaltan y reverberan implacables en mi mente, y comprendo que nunca más seré salvo de aquel horror; del ominoso instante en que vi a la mucama del hotel levantar su mano con aquel terrible objeto, y asesinar —sin asomo de ninguna duda o arrepentimiento— ¡a aquella inocente mosca! ∎&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Aula n.° 20</title>
+            <author><name>Luis Capitanache</name></author>
+            <rights>2021 Luis Capitanache - CC BY-NC-ND 4.0</rights>
+            <summary>A una estudiante le ocurre algo extraño. Prólogo.</summary>
+            <published>2021-09-08T00:00:00+00:00</published>
+            <updated>2021-09-08T00:00:00+00:00</updated>
+            <link rel="alternate" type="text/html" href="https://lcapitanache.github.io/tiamat/2021/aula-20/" />
+            <id>https://lcapitanache.github.io/tiamat/2021/aula-20/</id>
+            <content type="html" xml:base="https://lcapitanache.github.io/tiamat/2021/aula-20/">&lt;p style=&quot;text-align: center;&quot;&gt;Instituto William Garrett.&lt;/p&gt;
+&lt;p style=&quot;margin-top: -1em; margin-bottom: 1.7em; text-align: center;&quot;&gt;&lt;em&gt;Viernes, 21 de marzo de 2098. 23:57 horas.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p class=&quot;first&quot;&gt;Entre jadeos y el principio de un llanto desesperado, Aola Lander tropezó y cayó en medio del Aula n.° 20. Trataba de escapar del lugar tan pronto como le fuera posible.&lt;/p&gt;
+
+&lt;p&gt;—¡Por favor! —suplicó la estudiante arrastrándose hacia la salida—. ¡Fue un error, perdóname!&lt;/p&gt;
+
+&lt;p&gt;Pero en la soledad del aula y de todo el instituto nadie contestó a sus súplicas. Todo estaba cubierto por un manto de silencio. Sólo el enorme y pesado ventilador de techo hacía un sonido, constante y monótono, cuando sus gigantescas aspas cortaban el aire como si fueran sables: «¡FUUUUHH! ¡FUUUUHH! ¡FUUUUHH!».&lt;/p&gt;
+
+&lt;p&gt;Una figura baja y delgada apareció en la visión periférica de Aola al tiempo que las luces comenzaron a fallar. Difusa, como una mancha gris, la figura se movió sigilosa junto a la estudiante; apareciendo y desapareciendo, primero de un lado y luego del otro, acercándose cada vez más con cada encender y apagar de las luces. Con desesperación y torpeza, la estudiante palpó sobre los bolsillos de su falda y, al sentir lo que buscaba, sustrajo de uno de ellos una navaja automática tipo italiana. Con el chasquido metálico del resorte, la hoja de la navaja saltó del mango, plateada y resplandeciente.&lt;/p&gt;
+
+&lt;p&gt;—¡Ya! ¡Déjame en paz, por favor! —dijo girándose y esgrimiendo el arma sin dejar de arrastrarse hacia la única salida—. ¡Que alguien me ayude!&lt;/p&gt;
+
+&lt;p&gt;Al chocar su espalda contra la puerta, levantó temblorosa la mano, y giró y tiró desesperada de la perilla, pero la puerta no se abrió —¡Te lo suplico!—. Las luces se apagaron para no volver a encenderse más, y justo entonces un dedo rígido y frío recorrió de arriba a abajo toda su espalda.&lt;/p&gt;
+
+&lt;p&gt;—¡¡NOOOO!!&lt;/p&gt;
+
+&lt;p&gt;Un sonido crudo, como el de una hoja de metal atravesando una y otra vez un pedazo de carne, ahogó lentamente sus gritos. Y después de unos instantes, sólo quedó el sonido del ventilador de techo, que se detenía perezoso con cada giro de sus enormes aspas, hasta que al final todo fue oscuridad y silencio, y nada más. ∎&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Monstruoso</title>
+            <author><name>Luis Capitanache</name></author>
+            <rights>2021 Luis Capitanache - CC BY-NC-ND 4.0</rights>
+            <summary>Samsa se contempla en el espejo.</summary>
+            <published>2021-09-09T00:00:00+00:00</published>
+            <updated>2021-09-09T00:00:00+00:00</updated>
+            <link rel="alternate" type="text/html" href="https://lcapitanache.github.io/tiamat/2021/monstruoso/" />
+            <id>https://lcapitanache.github.io/tiamat/2021/monstruoso/</id>
+            <content type="html" xml:base="https://lcapitanache.github.io/tiamat/2021/monstruoso/">&lt;p class=&quot;first&quot;&gt;En la soledad de su habitación, Samsa vio sus manos y notó que temblaban. Conocía las consecuencias de sus actos, y sabía muy bien que ya no había vuelta atrás. Las imágenes de sus acciones se repetían como una película en su mente.&lt;/p&gt;
+
+&lt;p&gt;La cabeza le dolía. Era como si su mente, razgada y latiente, hubiera comenzado a dilatarse, y el espacio conferido entre ella y sus huesos ya no fuese suficiente para contenerla. En un momento algo se rompió. Y Samsa supo entonces que su cráneo había cedido a la presión. La piel de su rostro también se razgó.&lt;/p&gt;
+
+&lt;p&gt;Era el final, lo sabía. Habiendo cumplido su terrible misión, el disfraz de persona comenzaba a caerse. La piel humana abandonaba su cara a grandes pedazos.&lt;/p&gt;
+
+&lt;p&gt;Una cabeza oscura y deforme apareció bajo la máscara humana. Sus ojos rojos, enormes y compuestos como los de una mosca, surgieron como serpientes. Largos y gruesos tentáculos de pulpo brotaron de su boca, negra y babeante.&lt;/p&gt;
+
+&lt;p&gt;Samsa se contempló sí mismo largo rato en el espejo. Aquella criatura horrenda era su verdadero yo. Y ahora que se había despojado de su disfraz era que hallaba al fin la paz…&lt;/p&gt;
+
+&lt;p&gt;La puerta entonces se abrió de golpe y una mujer joven asomó a la habitación.&lt;/p&gt;
+
+&lt;p&gt;—Hey, Samsa —le dijo sonriendo—. ¿Qué tanto haces aquí dentro? Ven, te estamos esperando.&lt;/p&gt;
+
+&lt;p&gt;—Sí, voy ahora mismo.&lt;/p&gt;
+
+&lt;p&gt;Y mientras la chica se iba, Samsa se miró al espejo y ajustó su corbata. Un hombre respetable y apuesto le devolvía la mirada. ∎&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Carta a Martha Elena</title>
+            <author><name>Luis Capitanache</name></author>
+            <rights>2021 Luis Capitanache - CC BY-NC-ND 4.0</rights>
+            <summary>Un joven médico escribe a su amada.</summary>
+            <published>2021-09-11T00:00:00+00:00</published>
+            <updated>2021-09-11T00:00:00+00:00</updated>
+            <link rel="alternate" type="text/html" href="https://lcapitanache.github.io/tiamat/2021/carta-a-martha-elena/" />
+            <id>https://lcapitanache.github.io/tiamat/2021/carta-a-martha-elena/</id>
+            <content type="html" xml:base="https://lcapitanache.github.io/tiamat/2021/carta-a-martha-elena/">&lt;p style=&quot;text-align: right;&quot;&gt;7 de octubre de 1814.&lt;/p&gt;
+
+&lt;p class=&quot;first&quot;&gt;Querida Martha Elena:&lt;/p&gt;
+
+&lt;p&gt;Temo con todo el corazón empezar esta carta con malas noticias. Mi amado tío y protector, el Dr. Celso de Padua Lovecraft, ha caído en cama gravemente enfermo de los nervios a causa de la repentina muerte de su amada Leonora. Su pérdida ha sido un duro golpe para él, tal y como lo sería para cualquier buen amante y esposo.&lt;/p&gt;
+
+&lt;p&gt;Esta terrible tragedia ha venido a ocurrir a tan sólo dos días de que el patesi, Asur III, le pidiera a mi tío que atendiera personalmente al príncipe heredero Sargón IV, el cual actualmente se encuentra en &lt;em&gt;Isla Eridú&lt;/em&gt;, aquejado de una severa neumonía. Y mi tío, ah, mi amado y orgulloso tío, aun hallándose en tan precaria situación, ha decidido realizar el viaje de siete días en barco a &lt;em&gt;Isla Eridú&lt;/em&gt; para cumplir cabalmente con sus obligaciones de galeno. Sobra decir que no he podido permitirlo; se lo he impedido tajantemente. Pues a juzgar por su estado de salud, temo que no sobreviva a semejante travesía. Para poder recuperarse, mi tío ha de quedarse en casa.&lt;/p&gt;
+
+&lt;p&gt;Como ya es de tu conocimiento, amada mía, después de la muerte de mis padres, mi espléndido tío me acogió como su protegido, por lo que todo lo que soy ahora se lo debo a él. No puedo consentir que viaje para cumplir con su noble tarea, pero tampoco puedo permitir que su honor intachable se vea mancillado de ninguna manera, por lo que me he ofrecido a ir a &lt;em&gt;Isla Eridú&lt;/em&gt; en su lugar.&lt;/p&gt;
+
+&lt;p&gt;El gran patesi, conocedor de mi destreza médica y de la actual condición de mi tío, ha accedido a que lo sustituya y sea yo quien se ocupe de la salud del noble príncipe.&lt;/p&gt;
+
+&lt;p&gt;Por tanto, mi querida bienamada, he de informarte que me veo en la necesidad de aplazar nuestro reencuentro hasta mi retorno, que espero sea en un plazo no mayor a treinta días. Sé que sabrás comprender y que me apoyarás en el cumplimiento de mis obligaciones.&lt;/p&gt;
+
+&lt;p&gt;El criado Joseph me ha puesto en contacto con el capitán Mikel Ángel Merkel, quien capitanea al Óculus Rhiest, la nave que se presume es la más fuerte y rápida de toda la ciudad-estado de Tiamat, y puede que incluso de toda Sumer. Nos encontraremos en la &lt;em&gt;Posada de la Sirena&lt;/em&gt;, al oeste de &lt;em&gt;Cabo Escarlata&lt;/em&gt;, en punto de las diecisiete horas del día de hoy, para conducirme personalmente a su glorioso barco. Llevaré conmigo la hermosa bitácora de piel que me has obsequiado, y registraré en ella los sucesos del día a día, para que a mi retorno sepas, con lujo de detalle, los pormenores acontecidos durante mi viaje.&lt;/p&gt;
+
+&lt;p&gt;Como era de esperarse, mi querido tío al principio se ha resistido al plan, pero ya ha tomado consciencia de la situación y me ha dado sus bendiciones. Se quedará al cuidado de su colega y buen amigo, el Dr. Víctor Hugo Frantz, y su maravillosa enfermera, la señorita María Dolores Miller. Tengo completa fe en su pronta recuperación.&lt;/p&gt;
+
+&lt;p&gt;Ah, mi querida Martha Elena, no sabes cómo ansío terminar ya con esta tarea y tenerte por fin entre mis brazos.&lt;/p&gt;
+
+&lt;p&gt;Hasta que volvamos a vernos, tu siempre amado, el Dr. Jonathan P. Lovecraft. ∎&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>La cosecha (1)</title>
+            <author><name>Luis Capitanache</name></author>
+            <rights>2021 Luis Capitanache - CC BY-NC-ND 4.0</rights>
+            <summary>Mil ojos desorbitados.</summary>
+            <published>2021-09-12T00:00:00+00:00</published>
+            <updated>2021-09-12T00:00:00+00:00</updated>
+            <link rel="alternate" type="text/html" href="https://lcapitanache.github.io/tiamat/2021/fragmento-1/" />
+            <id>https://lcapitanache.github.io/tiamat/2021/fragmento-1/</id>
+            <content type="html" xml:base="https://lcapitanache.github.io/tiamat/2021/fragmento-1/">&lt;p class=&quot;first&quot;&gt;Entonces entró ella. Y con aire despreocupado, propio de las chicas de su edad, fue a sentarse en el alféizar de la ventana. Y con sus manos, sus deliciosas manos color miel, abrió su libro en una página marcada y se dispuso a leer.&lt;/p&gt;
+
+&lt;p&gt;Ah, pero qué grácil era ella; con la sedosidad de su piel, el olor a almizcle de su adolescencia, y sus manos, sus deliciosas manos mágicas revoloteando sobre las páginas, y uno de sus pies desnudos acariciando el aire etéreo de mi obscuro deleite.&lt;/p&gt;
+
+&lt;p&gt;No obstante mis palabras, es de esperar que ninguno de ustedes lo entienda. Pues únicamente un artista, un loco, un &lt;em&gt;fetishman&lt;/em&gt; —una mente de voluptuosidad infinita y perversa— puede llegar a comprender, en su total magnitud, la sensualidad que encierran esas dos únicas palabras.&lt;/p&gt;
+
+&lt;p&gt;Y así era como permanecía ella: posada, recostada. Con una de sus piernas desnudas balanceándose en el alféizar de la ventana, delante de los mil ojos desorbitados de mi alma. Yacía completamente extraviada en la fantasía de sus libros, ignorante de su fantástico poder. ∎&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Abro los ojos</title>
+            <author><name>Luis Capitanache</name></author>
+            <rights>2021 Luis Capitanache - CC BY-NC-ND 4.0</rights>
+            <summary>Los días son siempre iguales.</summary>
+            <published>2021-09-14T00:00:00+00:00</published>
+            <updated>2021-09-14T00:00:00+00:00</updated>
+            <link rel="alternate" type="text/html" href="https://lcapitanache.github.io/tiamat/2021/abro-los-ojos/" />
+            <id>https://lcapitanache.github.io/tiamat/2021/abro-los-ojos/</id>
+            <content type="html" xml:base="https://lcapitanache.github.io/tiamat/2021/abro-los-ojos/">&lt;p class=&quot;first&quot;&gt;Abro los ojos. Hoy me siento triste y vacío de nuevo. La luz del sol penetra opalescente por la ventana de mi habitación. No quiero levantarme. Suspiro. Mi mirada se pierde en las formas sutiles que hay en el techo. Quiero permanecer dormido, sumergido en la oscura profundidad de la quietud del sueño... a ser posible, para siempre.&lt;/p&gt;
+
+&lt;p&gt;Pero mamá me llama, y los sonidos vivos de la casa regresan. La regadera, el lavamanos. Los pasos apresurados, contundentes, de los pies descalzos de mi hermana pequeña al correr por el pasillo… El canto de las aves, los sonidos de la calle…&lt;/p&gt;
+
+&lt;p&gt;Suspiro. Reúno apenas fuerza para levantarme. Los objetos de mi habitación, coloridos, me parecen todos grises.&lt;/p&gt;
+
+&lt;p&gt;Bajo las escaleras y me siento a la mesa. El desayuno está servido. Es mi comida favorita.&lt;/p&gt;
+
+&lt;p&gt;Observo mi plato mientras mamá pregunta cómo dormí. Suspiro. Aquí viene de nuevo.&lt;/p&gt;
+
+&lt;p&gt;—Bien —le contesto. Y estiro los músculos de mi cara para formar una afable sonrisa.&lt;/p&gt;
+
+&lt;p&gt;Le hablo, y mis palabras parecen etéreas, como pronunciadas por alguien más; y reverberan, casi como en un suave murmullo.&lt;/p&gt;
+
+&lt;p&gt;Apenas como algo. No tengo apetito, y el olor que despide el alimento me asquea. Pero disimulo, disimulo como hice ayer y antes de ayer. Como, pero tan solo un poco; apenas lo suficiente para seguir con vida.&lt;/p&gt;
+
+&lt;p&gt;Estoy en modo automático otra vez. Es como si mi alma toda se retrajera al centro de mi pecho y dormitara ahí, encerrándose en la calidez y seguridad de un capullo. Como si un doble, extraño pero idéntico a mí —como el reflejo inverso de un espejo—, ocupara mi lugar en el sistema nervioso y pilotara mi cuerpo.&lt;/p&gt;
+
+&lt;p&gt;Mis amigos han venido a verme. No quiero salir otra vez, pero ellos insisten. No tengo ánimos para discutir, así que cedo.&lt;/p&gt;
+
+&lt;p&gt;Me llevan a lugares divertidos, pero hoy todos me resultan aburridos. Mis amistades preguntan cómo estoy y contesto que bien; pero mi yo que se encuentra encerrado en el capullo, en lo más profundo dentro de mí, les dice a gritos que no y que necesito de su ayuda con desesperación… pero nadie me escucha y eso me frustra.&lt;/p&gt;
+
+&lt;p&gt;Llega la tarde y luego la noche. Se han sucedido la una a la otra y yo no me he dado cuenta de nuevo. Todos los días parecen iguales. Todo el tiempo parece el mismo momento.&lt;/p&gt;
+
+&lt;p&gt;Parpadeo y estoy otra vez solo, acostado en mi habitación.&lt;/p&gt;
+
+&lt;p&gt;Siento que estoy apagado, aunque sé que aún estoy vivo. Cierro los ojos, y el vacío de la oscuridad me abraza. Lloro, y entre el mar de mis lágrimas logro apenas conciliar el sueño.&lt;/p&gt;
+
+&lt;p&gt;Oscuridad. Oscuridad y nada más.&lt;/p&gt;
+
+&lt;p&gt;El eco de la alarma de mi hermana suena a lo lejos. He dormido apenas una hora.&lt;/p&gt;
+
+&lt;p&gt;Abro los ojos. Hoy me siento triste y vacío de nuevo. La luz del sol penetra opalescente por la ventana de mi habitación… ∎&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>El jardín de orquídeas</title>
+            <author><name>Luis Capitanache</name></author>
+            <rights>2021 Luis Capitanache - CC BY-NC-ND 4.0</rights>
+            <summary>5 formas de amar a Janice.</summary>
+            <published>2021-11-20T00:00:00+00:00</published>
+            <updated>2021-11-20T00:00:00+00:00</updated>
+            <link rel="alternate" type="text/html" href="https://lcapitanache.github.io/tiamat/2021/el-jardin-de-orquideas/" />
+            <id>https://lcapitanache.github.io/tiamat/2021/el-jardin-de-orquideas/</id>
+            <content type="html" xml:base="https://lcapitanache.github.io/tiamat/2021/el-jardin-de-orquideas/">&lt;p class=&quot;first&quot;&gt;Despierta, Janice. Sí, eso es... No. Tranquila. No te agites. Te he suministrado una droga que limita tus funciones motoras al mínimo. Agitarte sólo hará que te agotes más rápido. Ven, siéntate conmigo en el jardín, mi jardín de orquídeas. Eso es. Ven, ven y deja que te guíe. Deja que te abrace.&lt;/p&gt;
+
+&lt;p&gt;Ah, mira nada más qué bellas lucen las estrellas esta noche. Su luz ha salido hace miles e incluso millones de años, y hoy ha llegado hasta aquí, viajando a través de la soledad insondable del espacio. ¿No te parece extraordinario? Es casi como si las estrellas te saludaran, Janice.&lt;/p&gt;
+
+&lt;p&gt;Mira esto. Tengo algo muy especial que quiero mostrarte… Observa atentamente. ¿Te gusta? Esta daga de plata ha permanecido a mi familia durante generaciones. Mi padre me la entregó en mi décimo tercer cumpleaños, en un soleado día de octubre frente al mar.&lt;/p&gt;
+
+&lt;p&gt;Mira nada más cómo brilla su hoja de plata. Aún hoy paso noches enteras admirándola, absorto en la sutil elegancia de sus líneas blancas… Es como tener un trozo de estrella en las manos. ¿No te parece maravillosa… Janice?&lt;/p&gt;
+
+&lt;p&gt;Ah, pero ya he divagado lo suficiente. Ya no te haré esperar más. Ha llegado el momento. Ven, cierra los ojos. Todo terminará pronto: Hundiré mi daga dentro de tu generoso y níveo pecho. No, no te resistas. Tranquila. Relájate. Permite que el narcótico que te di siga haciendo su piadoso efecto. Es inútil oponer resistencia. Y ahora, ahora deja que la daga penetre tu pecho, hasta lo más profundo de tu trémula existencia. Y descuida, que pronto quedarás inmersa en un sueño, en un suave y eterno sueño… Así… Eso es…&lt;/p&gt;
+
+&lt;p&gt;Ah, Janice. Déjame besar las lágrimas de tu tibia desesperación. Puedo sentir en mi mano los latidos de tu corazón, que resuenan acelerados a través de esta daga de plata. No existe nada más íntimo que esto, ¿sabes? &lt;em&gt;Es una penetración directa a tu pecho…&lt;/em&gt; Te amo. Te amo, Janice. Te amo tanto que te he asesinado en este mismo jardín de orquídeas incontables veces. Pues antes de ti han habido muchas; encarnaciones inmaturas de tu esencia, si así lo prefieres; copias imperfectas. Y debajo de todas estas orquídeas blancas yacen sus bellos cadáveres marchitos; yertos en la descomposición del olvido.&lt;/p&gt;
+
+&lt;p&gt;Porque no hay nada más sublime en el mundo que verte morir; sentir cómo tu corazón se detiene, y admirar a la luz diáfana de la Luna el brillo de tus lágrimas, y besar la comisura de tus labios rojos mientras exhalas tu último aliento. Soy adicto a tu muerte, eso tengo que admitirlo…&lt;/p&gt;
+
+&lt;p&gt;Querida Janice, una vez que hayas muerto sepultaré aquí tus restos, y sobre tu precioso cadaver cultivaré aún más orquídeas, así como hice con todas aquellas antes de ti. ¿Pero sabes? No me cabe la menor duda de que tus orquídeas serán las más hermosas, las más radiantes…&lt;/p&gt;
+
+&lt;p&gt;Ahora duerme, duerme para siempre…&lt;/p&gt;
+
+&lt;p&gt;Oh, Janice. Mujer de tez clara, cabello obscuro y labios rojos… No sabes cómo deseo volver a encontrarte. ∎&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>La idea (1)</title>
+            <author><name>Luis Capitanache</name></author>
+            <rights>2021 Luis Capitanache - CC BY-NC-ND 4.0</rights>
+            <summary>Insondable.</summary>
+            <published>2022-07-29T00:00:00+00:00</published>
+            <updated>2022-07-29T00:00:00+00:00</updated>
+            <link rel="alternate" type="text/html" href="https://lcapitanache.github.io/tiamat/2022/la-idea-1/" />
+            <id>https://lcapitanache.github.io/tiamat/2022/la-idea-1/</id>
+            <content type="html" xml:base="https://lcapitanache.github.io/tiamat/2022/la-idea-1/">&lt;p class=&quot;first&quot;&gt;Ahí se quedó largo rato, atónito, solo y sólo contemplando al vacío. Absorto. Como inmerso en un pensamiento tan vasto como profundo.&lt;/p&gt;
+
+&lt;p&gt;Y entonces… saltó. ∎&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>La idea (2)</title>
+            <author><name>Luis Capitanache</name></author>
+            <rights>2021 Luis Capitanache - CC BY-NC-ND 4.0</rights>
+            <summary>La belleza del fuego.</summary>
+            <published>2022-08-01T00:00:00+00:00</published>
+            <updated>2022-08-01T00:00:00+00:00</updated>
+            <link rel="alternate" type="text/html" href="https://lcapitanache.github.io/tiamat/2022/la-idea-2/" />
+            <id>https://lcapitanache.github.io/tiamat/2022/la-idea-2/</id>
+            <content type="html" xml:base="https://lcapitanache.github.io/tiamat/2022/la-idea-2/">&lt;p class=&quot;first&quot;&gt;Había una belleza indecible en el fuego, y en las cenizas y en los escombros; en el paisaje desolado, arrasado por el calor de las llamas... Había belleza en las lágrimas y en las voces quebradas, en los gritos y en la desesperación del dolor.&lt;/p&gt;
+
+&lt;p&gt;Había encontrado belleza en la desesperación del terror. ∎&lt;/p&gt;
+</content>
+        </entry>
+    
+
+     
+        <entry>
+            <title>Autopsia de una pesadilla</title>
+            <author><name>Luis Capitanache</name></author>
+            <rights>2021 Luis Capitanache - CC BY-NC-ND 4.0</rights>
+            <summary></summary>
+            <published>2023-02-12T14:29:00+00:00</published>
+            <updated>2023-02-12T14:29:00+00:00</updated>
+            <link href="https://lcapitanache.github.io/blog/2023/autopsia-de-una-pesadilla/" />
+            <id>https://lcapitanache.github.io/blog/2023/autopsia-de-una-pesadilla/</id>
+            <content type="html">&lt;div class=&quot;row justify-content-sm-center&quot;&gt;
+    &lt;img class=&quot;img-fluid img-post z-depth-1 rounded&quot; src=&quot;/assets/img/2302121/jr-korpa-5EnSN65bnxg-unsplash.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;caption&quot;&gt;Fotografía de &lt;a href=&quot;https://unsplash.com/@jrkorpa?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Jr Korpa&lt;/a&gt; en &lt;a href=&quot;https://unsplash.com/es/fotos/5EnSN65bnxg?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;.&lt;/div&gt;
+
+&lt;p class=&quot;first&quot;&gt;El relato corto &lt;a href=&quot;/tiamat/2021/pesadilla&quot; target=&quot;_blank&quot;&gt;Pesadilla&lt;/a&gt; supuso el inicio de &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Tiamat: Relatos &amp;amp; fragmentos de/mentes&lt;/code&gt;, el cual sigue estando en desarrollo, a paso lento pero seguro. Ha sido un experimento interesante escuchar la interpretación que algunas personas hacen de este relato. Naturalmente, cada quien es libre de interpretar lo que guste de cualquier manifestación artística que consuma. No obstante, me ha dado curiosidad y he pensado que sería buena idea exponer la &lt;strong&gt;concepción&lt;/strong&gt; y el &lt;strong&gt;proceso creativo&lt;/strong&gt; de algunos relatos, especialmente para otros que también gustan de escribir y van comenzando. No pienso llevar ningún orden en particular. Sin embargo, por ser &lt;a href=&quot;/tiamat/2021/pesadilla&quot; target=&quot;_blank&quot;&gt;Pesadilla&lt;/a&gt; el primero, he decidido comenzar con él.&lt;/p&gt;
+
+&lt;div class=&quot;col-sm-6 mt-3 mt-md-0 float-right&quot;&gt;
+    &lt;img class=&quot;img-fluid img-post z-depth-1 rounded&quot; src=&quot;/assets/img/2302121/sen-to-chihiro-no-kamikakushi_poster.jpg&quot; /&gt;
+    &lt;div class=&quot;caption&quot;&gt;Póster japonés original de &lt;a href=&quot;https://www.imdb.com/title/tt0245429/&quot;&gt;Sen to Chihiro no kamikakushi&lt;/a&gt;  (2001).&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Hace muchos años vi &lt;a href=&quot;https://www.imdb.com/title/tt0245429/&quot;&gt;Sen to Chihiro no kamikakushi&lt;/a&gt; (2001) y quedé fascinado por su ambientación onírica. A muy grandes rasgos, la película nos cuenta la historia de &lt;strong&gt;Chihiro&lt;/strong&gt;, una niña que se muda junto con sus padres a otra ciudad, la cual queda atrapada en un mundo onírico luego de que sus padres extraviaran el camino al decidir tomar un atajo.&lt;/p&gt;
+
+&lt;p&gt;Las peripecias de la pequeña Chihiro la llevan a terminar en una suerte de balneario público para espíritus o &lt;a href=&quot;https://es.wikipedia.org/wiki/Y%C5%8Dkai&quot;&gt;yōkai&lt;/a&gt; el cual es regentado por la bruja &lt;strong&gt;Yubaba&lt;/strong&gt;. Y es precisamente este último personaje quien disparó la vena creativa que daría el génesis a &lt;a href=&quot;/tiamat/2021/pesadilla&quot; target=&quot;_blank&quot;&gt;Pesadilla&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Yubaba es una vieja &lt;strong&gt;bruja&lt;/strong&gt; de edad desconocida. Tiene una hermana gemela y un hijo que —a pesar de ser un bebé— es mucho más grande ella misma. Es la antagonista principal de la historia; de carácter estricto, posesivo y dominante. Destacan en su fisionomía una cabeza desproporcionada, unos ojos desorbitados, una gran nariz y una gran boca.&lt;/p&gt;
+
+&lt;div class=&quot;row justify-content-sm-center&quot;&gt;
+    &lt;img class=&quot;img-fluid img-post z-depth-1 rounded&quot; src=&quot;/assets/img/2302121/sen-to-chihiro-no-kamikakushi_yubaba.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;caption&quot;&gt;Fotograma de la bruja Yobaba, de la película &lt;a href=&quot;https://www.imdb.com/title/tt0245429/&quot;&gt;Sen to Chihiro no kamikakushi&lt;/a&gt; (2001). © &lt;a href=&quot;https://www.ghibli.jp/&quot;&gt;Studio Ghibli&lt;/a&gt;.&lt;/div&gt;
+
+&lt;p&gt;La apariencia de esta bruja me hizo volar las ideas. Me surgió entonces la idea de un relato corto protagonizado por una niña, y me propuse que dicho relato fuera muy breve pero que produjera un gran impacto. Para la creación de este relato me hice a mí mismo múltiples preguntas: &lt;strong&gt;¿En qué situación o contexto sería más terrible el encuentro? ¿Qué aspecto debería tener la bruja? ¿Cómo sería la interacción entre la niña y la creatura?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;En el primer borrador en mi mente, la niña se encontraría sola en un bosque. Sin embargo, abandoné la idea tan pronto como la produje, pues quería que el lector —en especial el lector menor de edad— se viera inmediatamente identificado con la situación del personaje principal. Y no tendría suficiente tiempo para desarrollar una atmósfera dada la autoimpuesta brevedad del relato. Entonces razoné que lo que de verdad daría miedo sería ser atacado en el mismo lugar en que un niño se siente más seguro: &lt;strong&gt;su propia habitación&lt;/strong&gt;. Relatar el encuentro en la habitación de la menor daría una especie de &lt;em&gt;plus&lt;/em&gt; de terror psicológico, pues inconscientemente daría el mensaje de que no hay lugar seguro al cual escapar. Y para acentuar el terror y la fatalidad de la soledad, la niña habría de encontrarse sola en su habitación, en la obscuridad de la noche.&lt;/p&gt;
+
+&lt;p&gt;En un principio, pensé en describir a la creatura como una bruja semejante a la que atormenta a la pequeña Chihiro. Consideré, en primera instancia, exagerar los rasgos y describirla como una especie de &lt;em&gt;mujer-bruja-sapo-gigante&lt;/em&gt;. Sin embargo, recordé las palabras del maestro &lt;a href=&quot;https://es.wikipedia.org/wiki/H._P._Lovecraft&quot;&gt;H. P. Lovecraft&lt;/a&gt; sobre el miedo a lo desconocido, y cómo es que lograba sensaciones de terror con escasa descripción de sus creaturas, dejando a la imaginación del lector los pormenores de sus brutales aspectos.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;«La emoción más antigua y fuerte de la humanidad es el miedo, y el más antiguo y fuerte de todos los miedos es el miedo a lo desconocido».&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;row justify-content-sm-center&quot;&gt;
+    &lt;img class=&quot;img-fluid img-post z-depth-1 rounded&quot; src=&quot;/assets/img/2302121/ulrike-langner-MP8IUi1LfPg-unsplash.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;caption&quot;&gt;En un principio pensé en describir a la bruja con aspecto de sapo. Fotografía de &lt;a href=&quot;https://unsplash.com/@u_langner?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Ulrike Langner&lt;/a&gt; en &lt;a href=&quot;https://unsplash.com/es/fotos/MP8IUi1LfPg?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;.&lt;/div&gt;
+
+&lt;p&gt;Así, pues, resolví describir a la creatura con escuetas palabras —incluso omitiendo que en realidad se trataba de una bruja—, permitiendo que el lector imaginara el aspecto y naturaleza del antagonista.&lt;/p&gt;
+
+&lt;p&gt;Habiendo quedado listo el lugar del encuentro y el aspecto de la creatura, quedaba la descripción de la interacción entre ambos personajes.&lt;/p&gt;
+
+&lt;p&gt;En la historia de la humanidad —y siempre en relación a las pesadillas y el sueño—, no hay nada que dé más terror que la &lt;strong&gt;parálisis del sueño&lt;/strong&gt;. Ese fenómeno en principio inexplicable en el cual una persona se despierta sin poder moverse, y descubre —con horror— que se encuentra asediada por una creatura de pesadilla. En la cultura popular, son incontables los testimonios de aquellos que han experimentado tan desagradable y terrorífico suceso.&lt;/p&gt;
+
+&lt;p&gt;En realidad, la parálisis del sueño tiene su explicación: El sueño se encuentra divido en varias fases. El más importante es el &lt;a href=&quot;https://es.wikipedia.org/wiki/Sue%C3%B1o_de_movimientos_oculares_r%C3%A1pidos&quot;&gt;sueño REM&lt;/a&gt; (&lt;em&gt;Rapid Eye Movement&lt;/em&gt;, o de Movimientos Oculares Rápidos), ya que es cuando comenzamos a soñar. Aunque no lo recordamos en la mayoría de las ocasiones, los seres humanos soñamos todos los días y varias veces durante el sueño, en especial poco antes de acostarnos y poco antes de levantarnos. Pues bien, poco antes de dormir y comenzar a soñar, el cerebro &lt;strong&gt;desactiva temporalmente la movilidad de nuestro cuerpo&lt;/strong&gt;, a fin de que no reproducir los movimientos del sueño y sufrir daños en consecuencia. Y cuando estamos por despertar, el cerebro activa nuevamente la movilidad. Sin embargo, algunas personas han despertado antes de que su cerebro salga por completo del sueño REM y reactive su movilidad, por lo que se encuentran en una especie de punto medio entre el sueño y la vigilia. La sensación de desconcierto en esta inusual experiencia produce desasosiego y desesperación. La falta de movimiento voluntario junto con la agitación causa una &lt;strong&gt;hipoxia&lt;/strong&gt; (falta de oxígeno), la cual —a su vez— desencadena &lt;strong&gt;alucinaciones&lt;/strong&gt;. De ahí que algunas de estas personas «sienten que se les sube el muerto»; es decir, experimentan una sensación de opresión en el pecho y alucinan creaturas sentadas en él. Al respecto de tales experiencias hay incluso múltiples ejemplos en el arte.&lt;/p&gt;
+
+&lt;div class=&quot;row justify-content-sm-center&quot;&gt;
+    &lt;img class=&quot;img-fluid img-post z-depth-1 rounded&quot; src=&quot;/assets/img/2302121/john-henry-fuseli-the-nightmare.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;caption&quot;&gt;Ejemplo de la parálisis del sueño en el arte. &lt;em&gt;La Pesadilla&lt;/em&gt; (1781), de &lt;a href=&quot;https://es.wikipedia.org/wiki/Johann_Heinrich_F%C3%BCssli&quot;&gt;Johann Heinrich Füssli&lt;/a&gt;.&lt;/div&gt;
+
+&lt;p&gt;Dado el miedo y terror inherente que produciría tal sensación, decidí emplearla en el relato. Y así es como Anika, mi pequeña protagonista, permanece involuntariamente quieta mientras la creatura la acosa al pie de su cama.&lt;/p&gt;
+
+&lt;p&gt;En la cultura popular, las brujas secuestran a los infantes —en especial a los neonatos— para ofrecerlos en sacrificio a Satanás. No obstante, a consecuencia directa de mi ateísmo, en el relato quería obviar la parte religiosa. Por lo que decidí que &lt;strong&gt;la bruja se comería a la niña&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Llegado a este punto surgió la pregunta de cómo se la comería. Por cuestión de &lt;em&gt;descarte metodológico&lt;/em&gt; decidí que comenzaría por los pies: Iniciar por la cabeza o el tórax haría que Anika no sobreviviera —me reservo al personaje para otro relato—, y hacerlo por las extremidades superiores no supondría ningún terror extra, pues una mano o un brazo es entendido inconscientemente como un arma o herramienta. Así pues, decidí que lo haría por las piernas, y tendría que dejar claro que la bruja disfruta devorar seres humanos.&lt;/p&gt;
+
+&lt;p&gt;Para el final, determiné que el relato terminaría con una &lt;strong&gt;fuerte impresión&lt;/strong&gt;. Para esto recurrí a una película que vi en mi infancia. Se llama &lt;a href=&quot;https://www.imdb.com/title/tt0185778/&quot;&gt;Ya nunca más&lt;/a&gt;, de 1984. En ella, el joven protagonista pierde una pierna a raíz de un accidente y de una enfermedad. Aun para mi joven mente quedó claro que una pérdida de esta naturaleza supone un gran terror. Así que, para terminar el relato, resolví que todo fuese un mal sueño, una pesadilla. Pero al poco rato Anika se daría cuenta de que el encuentro había sido real, y ella se descubriría a sí misma &lt;strong&gt;sin piernas&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Como puede leerse, la concepción y el proceso creativo —aun los de un relato tan corto que no llega a las 350 palabras— suponen su cuota de trabajo. Sin embargo, lo cierto es que las ideas para escribir siempre están ahí, como flotando en el aire y a la espera de ser tomadas. Sólo es cuestión de echar a andar la imaginación. ∎&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>¿De dónde provienen los fantasmas?</title>
+            <author><name>Luis Capitanache</name></author>
+            <rights>2021 Luis Capitanache - CC BY-NC-ND 4.0</rights>
+            <summary></summary>
+            <published>2022-08-13T14:00:00+00:00</published>
+            <updated>2022-08-13T14:00:00+00:00</updated>
+            <link href="https://lcapitanache.github.io/blog/2022/de-donde-provienen-los-fantasmas/" />
+            <id>https://lcapitanache.github.io/blog/2022/de-donde-provienen-los-fantasmas/</id>
+            <content type="html">&lt;div class=&quot;row justify-content-sm-center&quot;&gt;
+    &lt;img class=&quot;img-fluid img-post z-depth-1 rounded&quot; src=&quot;/assets/img/2208131/ryan-gagnon-QshV5JhsB6U-unsplash.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;caption&quot;&gt;
+    Creer en la vida después de la muerte es frecuente en diversas culturas. Fotografía de &lt;a href=&quot;https://unsplash.com/@_circadian_rhythm?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Ryan Gagnon&lt;/a&gt; en &lt;a href=&quot;https://unsplash.com/es/fotos/QshV5JhsB6U?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;.
+&lt;/div&gt;
+
+&lt;p class=&quot;first&quot;&gt;El fenómeno de los fantasmas tiene su explicación en los &lt;strong&gt;infrasonidos&lt;/strong&gt;. El sonido es una variación en la presión del aire que nos rodea, y se representa mediante una &lt;strong&gt;onda&lt;/strong&gt;. A la &lt;em&gt;cantidad de ondas (ciclos)&lt;/em&gt; que pasan en un segundo por un punto determinado, se le denomina &lt;strong&gt;frecuencia&lt;/strong&gt;, la cual se mide en &lt;strong&gt;hercios (Hz)&lt;/strong&gt;. Así, por ejemplo, si por un mismo punto pasaran 8 ondas de sonido en un segundo, diríamos que dicho sonido tiene una frecuencia de 8 Hz. Si únicamente pasaran 4, entonces serían 4 Hz.&lt;/p&gt;
+
+&lt;div class=&quot;row justify-content-sm-center&quot;&gt;
+    &lt;img class=&quot;img-fluid img-post rounded&quot; src=&quot;/assets/img/2208131/kristie-koski-ucd-chem-110a-physical-chemistry-i.png&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;caption&quot;&gt;Longitud de onda, amplitud y frecuencia. Gráfica de Kristie Koski, para &lt;a href=&quot;https://chem.libretexts.org/Courses/University_of_California_Davis/UCD_Chem_107B%3A_Physical_Chemistry_for_Life_Scientists/Chapters/4%3A_Quantum_Theory/4.01%3A_The_Wave_Theory_of_Light&quot;&gt;UCD Chem 110A: Physical Chemistry I&lt;/a&gt;.&lt;/div&gt;
+
+&lt;p&gt;Ahora bien, del amplio rango de frecuencias, los seres humanos sólo podemos escuchar una parte. Aquellos sonidos que tienen una frecuencia muy alta reciben el nombre de &lt;strong&gt;ultrasonidos&lt;/strong&gt;. Y los que tienen una muy baja, &lt;strong&gt;infrasonidos&lt;/strong&gt;. Los oídos humanos no pueden escuchar ninguno de los dos.&lt;/p&gt;
+
+&lt;p&gt;A partir de aquí comienza lo interesante, pues cuando las ondas de sonido tienen una frecuencia igual o semejante a aquello con lo que impactan, se produce un fenómeno llamado &lt;strong&gt;resonancia&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;La resonancia se manifiesta en forma de &lt;strong&gt;vibración&lt;/strong&gt;, de movimiento. Cuando usted va a un concierto o una fiesta, el suelo vibra al ritmo de la música porque la frecuencia del sonido entra en resonancia con la del suelo.&lt;/p&gt;
+
+&lt;div class=&quot;row justify-content-sm-center&quot;&gt;
+    &lt;img class=&quot;img-fluid img-post z-depth-1 rounded&quot; src=&quot;/assets/img/2208131/greyson-joralemon-nEX8iFBPPko-unsplash.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;caption&quot;&gt;
+    Cuando la frecuencia de un sonido entra en resonancia con la del suelo, este último vibra. Fotografía de &lt;a href=&quot;https://unsplash.com/@greysonjoralemon?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Greyson Joralemon&lt;/a&gt; en &lt;a href=&quot;https://unsplash.com/es/fotos/nEX8iFBPPko?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;.
+&lt;/div&gt;
+
+&lt;p&gt;¿Y todo esto qué tiene que ver con los fantasmas? Pues que &lt;strong&gt;se ha comprobado&lt;/strong&gt; que los infrasonidos iguales o cercanos a los &lt;strong&gt;18.98 Hz&lt;/strong&gt; tienen efecto sobre el cuerpo humano:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Afectan al sistema nervioso&lt;/strong&gt;, produciendo miedo, tristeza, ansiedad, desasosiego, sensaciones de estar siendo perseguido o de ser observado. En algunos casos, incluso eriza los vellos del cuello.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Producen vibración ocular&lt;/strong&gt;, imperceptible, pero suficiente para causar &lt;strong&gt;aberraciones ópticas&lt;/strong&gt; en el ojo humano.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Una aberración óptica es una imperfección que produce imágenes defectuosas, como cuando tomas una fotografía y aparecen orbes de luz indeseables. En el ojo, aparecen &lt;strong&gt;manchas grises en la visión periférica&lt;/strong&gt;, las cuales desaparecen al girarse y/o mover los ojos.&lt;/p&gt;
+
+&lt;p&gt;¿Ya sabemos por dónde va esto?&lt;/p&gt;
+
+&lt;div class=&quot;row justify-content-sm-center&quot;&gt;
+    &lt;img class=&quot;img-fluid img-post z-depth-1 rounded&quot; src=&quot;/assets/img/2208131/robbie-down-3IRIerl16nk-unsplash.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;caption&quot;&gt;
+    Lugares amplios y/o abandonados son fuente de infrasonidos. Fotografía de &lt;a href=&quot;https://unsplash.com/fr/@robbiedown?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Robbie Down&lt;/a&gt; en &lt;a href=&quot;https://unsplash.com/es/fotos/3IRIerl16nk?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;.
+&lt;/div&gt;
+
+&lt;p&gt;Imagine que se halla en &lt;strong&gt;una casa grande y vieja&lt;/strong&gt; que requiera mantenimiento. Súmele el &lt;strong&gt;contexto&lt;/strong&gt; de que en ese lugar una o más personas hayan fallecido. Piense que va ahí de &lt;strong&gt;noche&lt;/strong&gt;, cuando hay silencio, y que —sin saberlo— &lt;strong&gt;se expone a infrasonidos&lt;/strong&gt; con una frecuencia igual o semejante a los &lt;strong&gt;18.98 Hz&lt;/strong&gt;, los cuales son causados por el viento, pequeños animales, o por la vieja estructura del propio edificio. ¿Qué pensaría si estos infrasonidos producen en usted &lt;strong&gt;un profundo desasosiego&lt;/strong&gt;?, ¿si le dan &lt;strong&gt;la sensación de estar siendo perseguido y/o de ser observado&lt;/strong&gt;?, ¿si le hacen &lt;strong&gt;ver siluetas incoloras y silentes por el rabillo del ojo&lt;/strong&gt;, que se mueven sin hacer ruido y que luego desaparecen cuando usted se gira?, ¿si le hacen &lt;strong&gt;erizar el vello del cuello&lt;/strong&gt;? ¿Qué es lo que pensaría? Claro, se creería que en el lugar hay fantasmas, que está embrujado.&lt;/p&gt;
+
+&lt;p&gt;No obstante nada de eso es real. Es sólo el efecto del infrasonido, de la sugestión promovida por un contexto sobrenatural, así como sus instintos de autopreservación previniéndole de un peligro que no está ahí, que no existe. Todos ellos, en conjunto, son los que hacen que pase por una experiencia sobrenatural que no es tal. &lt;strong&gt;Es mera física, biología y psicología. Nada más&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Los fantasmas no provienen de ninguna parte. No son reales. No importa lo que le hayan contado, lo que haya leído ni lo que usted mismo haya experimentado. No existen. Así de contundente.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;row justify-content-sm-center&quot;&gt;
+    &lt;img class=&quot;img-fluid img-post z-depth-1 rounded&quot; src=&quot;/assets/img/2208131/gijs-coolen-gQd7cvO_SMI-unsplash.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;caption&quot;&gt;
+    Animales como los gatos (&lt;em&gt;Felis silvestris catus&lt;/em&gt;) poseen un oído más refinado que el de los humanos. Fotografía de &lt;a href=&quot;https://unsplash.com/ja/@gijsparadijs?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Gijs Coolen&lt;/a&gt; en &lt;a href=&quot;https://unsplash.com/es/fotos/gQd7cvO_SMI?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;.
+&lt;/div&gt;
+
+&lt;p&gt;Para terminar, tal vez en alguna ocasión haya visto a un gatito mirando fijamente a una pared —o quizá a un perrito ladrándole a la nada, en medio de la más profunda oscuridad—. Da igual lo que le hayan contado familiares o vecinos, aquí no ocurre nada sobrenatural. No es que tengan alguna especie de «sexto sentido», que puedan ver a los muertos, o que sean capaces de ver o escuchar espíritus malignos provenientes del Más Allá. Por supuesto que no. Lo que pasa aquí es que su sistema auditivo &lt;strong&gt;ha evolucionado distinto&lt;/strong&gt; al de los humanos. Ellos tienen un &lt;strong&gt;rango auditivo&lt;/strong&gt; más amplio, por lo que pueden escuchar sonidos que nosotros no.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Evite caer en la vulgaridad del pensamiento mágico o sobrenatural. Use el conocimiento. Use la razón.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;El felino simplemente está escuchando otro animal aún más pequeño que se encuentra dentro o del otro lado de la pared. Él lo puede escuchar y usted no. Así de simple. Nada más. ∎&lt;/p&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Cómo enfocar correctamente un microscopio</title>
+            <author><name>Luis Capitanache</name></author>
+            <rights>2021 Luis Capitanache - CC BY-NC-ND 4.0</rights>
+            <summary></summary>
+            <published>2022-03-21T14:10:00+00:00</published>
+            <updated>2022-03-21T14:10:00+00:00</updated>
+            <link href="https://lcapitanache.github.io/blog/2022/como-enfocar-correctamente-un-microscopio/" />
+            <id>https://lcapitanache.github.io/blog/2022/como-enfocar-correctamente-un-microscopio/</id>
+            <content type="html">&lt;div class=&quot;col-sm-6 mt-3 mt-md-0 float-right&quot;&gt;
+    &lt;img class=&quot;img-fluid img-post z-depth-1 rounded&quot; src=&quot;/assets/img/cover-como-enfocar.png&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;first&quot;&gt;Cuando era niño no había Internet, ni tampoco computadoras. Para pasar el tiempo veía a las &lt;a href=&quot;https://es.wikipedia.org/wiki/Tortugas_Ninja&quot; target=&quot;blank&quot;&gt;Tortugas Ninja&lt;/a&gt; en la televisión y leía las enciclopedias que mamá compraba, para el enriquecimiento intelectual de mi hermana y el mío.&lt;/p&gt;
+
+&lt;p&gt;Recuerdo especialmente una enciclopedia roja de la editorial Océano. Ah, cómo me perdía en sus páginas blancas e imágenes en escala de grises. Tenía mis tomos favoritos, aquellos dedicados a las ciencias que consideraba &lt;em&gt;ciencias&lt;/em&gt;: biología, química, astronomía… ¡Cómo se desgastaron sus lomos de tanto que los asía!&lt;/p&gt;
+
+&lt;p&gt;Y mientras mamá dormía luego de un cansado turno nocturno en el hospital, salía al patio y me disponía a experimentar. Considero que todos llevamos un científico dentro, especialmente cuando somos unos niños que exploran el mundo.&lt;/p&gt;
+
+&lt;p&gt;Me gustaba fantasear con trabajar en un laboratorio, y con frecuencia hacía experimentos sin saber lo peligrosos que estos eran —como mezclar sustancias químicas o jugar con mercurio—. Doy gracias al dios &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Ann&lt;/code&gt; por sobrevivir entero a mi arriesgada infancia.&lt;/p&gt;
+
+&lt;p&gt;Recuerdo un día —aunque que no con demasiado detalle— en el que estaba con mamá y una de sus hermanas en uno de los centros comerciales de la ciudad. Íbamos pasando por uno de los amplios y blancos pasillos cuando lo ví por primera vez: Encerrado en una caja negra, con una vista transparente para apreciar su contenido, y apilado junto con otros de sus semejantes, yacía un &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;microscopío&lt;/code&gt;. Hasta ese momento nunca había visto uno, pero sabía por los libros que había leído para qué se utilizaba y lo que su posesión implicaría para mi joven mente, ávida del conocimiento que da la febril experimentación propia de un niño.&lt;/p&gt;
+
+&lt;p&gt;No tengo memoría de la interacción que tuve con mamá en ese entonces; pero me salí con la mía y abandoné el centro comercial aquel día con el preciado objeto entre mis brazos.&lt;/p&gt;
+
+&lt;p&gt;Como es natural, en cuanto llegué a casa lo abrí. Tengo la remembranza de deslizar fuera de la caja negra al unicel blanco en que el microscopío yacía inserto, descansando con el resto de sus aditamentos: unas pinzas, una lupa, tubos para muestras, y unos cuantos portaobjetos plásticos con muestras previamente ya preparadas. Olía a plástico nuevo.&lt;/p&gt;
+
+&lt;p&gt;Extraje el aparato como con devoción religiosa, leí cuidadosamente las instrucciones —las de la caja y las del folleto—, coloqué un portaobjetos plástico y asomé mis ojos por primera vez a través de los oculares de un microscopio. Ah, qué mágica experiencia la de apreciar con detalle los rasgos más diminutos de un objeto apenas perceptible a simple vista.&lt;/p&gt;
+
+&lt;p&gt;Cuántas horas habré pasado explorando en el patio, buscando muestras para observar al microscopio y desvelar sus mínimos secretos. Y de todas aquellas muestras, las hormigas eran mis favoritas. &lt;a href=&quot;https://es.wikipedia.org/wiki/Hymenoptera&quot; target=&quot;blank&quot;&gt;Himenópteros&lt;/a&gt; fascinantes, con la apariencia como de seres de otro planeta…&lt;/p&gt;
+
+&lt;p&gt;No tengo recuerdo de qué ha ocurrido a ese microscopio. Sólo tengo la certeza de que se ha extraviado en el transcurrir el tiempo.&lt;/p&gt;
+
+&lt;p&gt;Ahora, pasados los años y encontrándome a mí mismo en &lt;em&gt;la mitad de mi vida&lt;/em&gt; —según Dante Alighieri—, he aquí que me he hecho con un nuevo microscopio. Uno de nivel clínico, profesional; superior incluso a los de mi nueva universidad y a los de algunos laboratorios de la ciudad.&lt;/p&gt;
+
+&lt;p&gt;Abrir el pesado paquete en el que venía, y descubrirlo con sus partes metálicas y plásticas —brillantes y de alta calidad—, me ha devuelto a aquellos años en los que me sentía como un gran científico, luego de ver a &lt;a href=&quot;https://es.wikipedia.org/wiki/El_mundo_de_Beakman&quot; target=&quot;blank&quot;&gt;El mundo de Beackman&lt;/a&gt; por televisión.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;¡Ah, pero qué bello y maravilloso es el obsequiarse sueños prístinos a sí mismo!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Sobra decir que, el sólo hecho de pasar la mano sobre mi nuevo instrumento científico, me supuso una gran cuota de felicidad, pero también de respeto. Pues incluso antes de comprarlo ya había tomado la decisión de investigar para usarlo como es menester. Por lo que devoré libros, hilos en foros especializados, videos, artículos, etc. Todo para entender la física de su fundamento y la electrónica de su funcionamiento.&lt;/p&gt;
+
+&lt;p&gt;El conocimiento que he adquirido he comenzado a verterlo en un libro que por ahora tiene la forma de &lt;em&gt;booklet&lt;/em&gt;. Lo he llamado &lt;strong&gt;Cómo enfocar correctamente un microscopio&lt;/strong&gt;, pues la experiencia conviviendo con mis compañeros de universidad, además de la mía propia, me ha hecho ver que el adecuado enfoque es uno de los principales óbices a los que se enfrenta el estudiante o principiante cuando se encuentra frente a frente con estos formidables instrumentos.&lt;/p&gt;
+
+&lt;p&gt;Espero de corazón que este libro le resulte útil a quien lo necesite. Lo he escrito de forma clara y amena, valiéndome de mis años de experiencia en la docencia universitaria para implementar la abstracción y simplificar conceptos que, leyéndolos de otras fuentes, pueden resultar muy complejos. He nutrido mi pequeña obra con bellas &lt;strong&gt;imágenes&lt;/strong&gt;, &lt;strong&gt;procesos&lt;/strong&gt; sencillos y concisos, y con &lt;strong&gt;diagramas de flujo&lt;/strong&gt; que espero resulten esclarecedores.&lt;/p&gt;
+
+&lt;p&gt;Pienso expandir esta obra constantemente, añadiendo temas y nutriendo cada vez más los ya existentes, según mi propio conocimiento y experiencia vayan puliéndose, por lo que sería buena idea visitarlo periódicamente.&lt;/p&gt;
+
+&lt;p&gt;El texto está protegido bajo licencia &lt;strong&gt;Creative Commons Atribución-CompartirIgual 4.0 Internacional&lt;/strong&gt; (&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/deed.es&quot; target=&quot;blank&quot;&gt;CC BY-SA 4.0&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Y al fin, he aquí el libro. Por favor, haga clic en la imagen para poder abrirlo. ∎&lt;/p&gt;
+
+&lt;div class=&quot;row justify-content-sm-center&quot;&gt;
+    &lt;div class=&quot;col-sm-4 mt-3 mt-md-0&quot;&gt;
+        &lt;a href=&quot;/books/como-enfocar-correctamente/&quot; target=&quot;blank&quot;&gt;&lt;img src=&quot;/assets/img/cover_title.png&quot; alt=&quot;botton&quot; class=&quot;img-fluid&quot; /&gt;&lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+        </entry>
+    
+        <entry>
+            <title>Hola, mundo</title>
+            <author><name>Luis Capitanache</name></author>
+            <rights>2021 Luis Capitanache - CC BY-NC-ND 4.0</rights>
+            <summary></summary>
+            <published>2021-09-17T20:05:00+00:00</published>
+            <updated>2021-09-17T20:05:00+00:00</updated>
+            <link href="https://lcapitanache.github.io/blog/2021/hola-mundo/" />
+            <id>https://lcapitanache.github.io/blog/2021/hola-mundo/</id>
+            <content type="html">&lt;p&gt;Primer post. &lt;em&gt;Hola, mundo&lt;/em&gt;. ∎&lt;/p&gt;
+</content>
+        </entry>
+    
 </feed>

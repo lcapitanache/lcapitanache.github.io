@@ -1,40 +1,323 @@
----
-layout: 
----
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for page in site.pages %}
-  {% if page.url contains '.xml' or page.url contains 'assets' %}{% else %}
+  
+  
       <url>
-        <loc>{{ site.url }}{{ page.url }}</loc>
+        <loc>https://lcapitanache.github.io/404.html</loc>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
        </url>
-  {% endif %}
-  {% endfor %}
-  {% for page in site.posts %}
+  
+  
+  
+  
+  
       <url>
-        <loc>{{ site.url }}{{ page.url | replace: 'index.html', '' }}</loc>
+        <loc>https://lcapitanache.github.io/</loc>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
        </url>
-  {% endfor %}
-  {% for collection in site.collections %}
-      {% assign collection_name = collection.label %}
-      {% for page in site[collection_name] %}
+  
+  
+  
+  
+  
+  
+  
+      <url>
+        <loc>https://lcapitanache.github.io/papers/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>https://lcapitanache.github.io/robots.txt</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+  
+  
+      <url>
+        <loc>https://lcapitanache.github.io/tags/ciencia/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>https://lcapitanache.github.io/tags/libro/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>https://lcapitanache.github.io/tags/microscopio/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>https://lcapitanache.github.io/tags/explicaci%C3%B3n/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>https://lcapitanache.github.io/tags/autopsia-de-un-relato/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>https://lcapitanache.github.io/tags/tiamat/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>https://lcapitanache.github.io/blog/index.html</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>https://lcapitanache.github.io/tiamat/index.html</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>https://lcapitanache.github.io/tiamat/page/2/index.html</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>https://lcapitanache.github.io/tiamat/page/3/index.html</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+  
+  
+  
+  
+      <url>
+        <loc>https://lcapitanache.github.io/blog/2023/autopsia-de-una-pesadilla/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>https://lcapitanache.github.io/blog/2022/de-donde-provienen-los-fantasmas/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>https://lcapitanache.github.io/blog/2022/como-enfocar-correctamente-un-microscopio/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>https://lcapitanache.github.io/blog/2021/hola-mundo/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+      
+      
         <url>
-          <loc>{{ site.url }}{{ page.url | replace: 'index.html', '' }}</loc>
+          <loc>https://lcapitanache.github.io/news/1-inicio/</loc>
           <changefreq>daily</changefreq>
           <priority>1.0</priority>
          </url>
-       {% endfor %}
-  {% endfor %}
-  {% for page in site.without-plugin %}
-      <url>
-        <loc>{{ site.url }}{{ page.url | replace: 'index.html', '' }}</loc>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-       </url>
-  {% endfor %}
+       
+        <url>
+          <loc>https://lcapitanache.github.io/news/2-hola-mundo/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+        <url>
+          <loc>https://lcapitanache.github.io/news/3-el-jardin-de-orquideas/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+        <url>
+          <loc>https://lcapitanache.github.io/news/4-como-enfocar/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+        <url>
+          <loc>https://lcapitanache.github.io/news/5-la-idea-1/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+        <url>
+          <loc>https://lcapitanache.github.io/news/6-la-idea-2/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+        <url>
+          <loc>https://lcapitanache.github.io/news/7-de-donde-provienen-los-fantasmas/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+        <url>
+          <loc>https://lcapitanache.github.io/news/8-libros/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+        <url>
+          <loc>https://lcapitanache.github.io/news/9-autopsia-de-una-pesadilla/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+  
+      
+      
+        <url>
+          <loc>https://lcapitanache.github.io/blog/2023/autopsia-de-una-pesadilla/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+        <url>
+          <loc>https://lcapitanache.github.io/blog/2022/de-donde-provienen-los-fantasmas/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+        <url>
+          <loc>https://lcapitanache.github.io/blog/2022/como-enfocar-correctamente-un-microscopio/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+        <url>
+          <loc>https://lcapitanache.github.io/blog/2021/hola-mundo/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+  
+      
+      
+  
+      
+      
+        <url>
+          <loc>https://lcapitanache.github.io/tiamat/2021/pesadilla/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+        <url>
+          <loc>https://lcapitanache.github.io/tiamat/2021/bullied/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+        <url>
+          <loc>https://lcapitanache.github.io/tiamat/2021/hola-natascha/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+        <url>
+          <loc>https://lcapitanache.github.io/tiamat/2021/a-las-tres-de-la-madrugada/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+        <url>
+          <loc>https://lcapitanache.github.io/tiamat/2021/asesinato-en-el-ishtar-express/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+        <url>
+          <loc>https://lcapitanache.github.io/tiamat/2021/aula-20/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+        <url>
+          <loc>https://lcapitanache.github.io/tiamat/2021/monstruoso/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+        <url>
+          <loc>https://lcapitanache.github.io/tiamat/2021/carta-a-martha-elena/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+        <url>
+          <loc>https://lcapitanache.github.io/tiamat/2021/fragmento-1/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+        <url>
+          <loc>https://lcapitanache.github.io/tiamat/2021/abro-los-ojos/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+        <url>
+          <loc>https://lcapitanache.github.io/tiamat/2021/el-jardin-de-orquideas/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+        <url>
+          <loc>https://lcapitanache.github.io/tiamat/2022/la-idea-1/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+        <url>
+          <loc>https://lcapitanache.github.io/tiamat/2022/la-idea-2/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1.0</priority>
+         </url>
+       
+  
+  
 </urlset>
