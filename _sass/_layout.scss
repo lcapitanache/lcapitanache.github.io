@@ -30,20 +30,33 @@ img {
   height: auto;
 }
 
-.foot-author {
-  margin-right: 1em;
+.footer-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }
 
-.foot-socialmedia {
-  margin-left: 1em;
-}
-
-.foot-smedia {
-  margin-left: .5em;
+.foot-social-divider {
+  display: none;
 }
 
 .foot-center {
   text-align: center;
+}
+
+@media only screen and (max-width: 575px) {
+  .footer-content {
+    flex-direction: column;
+  }
+
+  .foot-separator {
+    display: none;
+  }
+
+  .foot-social-divider {
+    display: inline;
+  }
 }
 
 // Profile

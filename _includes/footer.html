@@ -13,9 +13,14 @@
 </footer>
 {% else %}
 <footer class="sticky-bottom mt-5 foot-center">
-  <div class="container">
-    <span class="foot-author">&copy; {{ site.time | date: '%Y' }} Luis Capitanache</span> | 
-    <span class="foot-socialmedia"><a href="http://twitter.com/lcapitanache" target="_blank">Twitter</a> <a class="foot-smedia" href="http://instagram.com/luis_capitanache" target="_blank">Instagram</a></span>
+  <div class="container footer-content">
+    <span class="foot-author">&copy; {{ site.time | date: '%Y' }} Luis Capitanache</span>
+    <span class="foot-separator">&ensp;|&ensp;</span>
+    <span class="foot-socialmedia">
+      <a href="https://x.com/lcapitanache" target="_blank">X</a>
+      <span class="foot-social-divider">&ensp;|&ensp;</span>
+      <a href="https://instagram.com/luis_capitanache" target="_blank">Instagram</a>
+    </span>
     {% if site.impressum_path %}
     <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
     {% endif %}
