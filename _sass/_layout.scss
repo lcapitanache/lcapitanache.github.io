@@ -20,6 +20,14 @@
 
 .container {
   max-width: $max-content-width;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+// Responsive images
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 .foot-author {
