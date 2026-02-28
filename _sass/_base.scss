@@ -5,6 +5,7 @@
  p.first::first-letter {
   text-transform: uppercase;
   font-size: 3em;
+  line-height: 1;
   letter-spacing: 3px;
 }
 
@@ -120,36 +121,42 @@ p {
 }
 
 h1 {
-  font-size: 2.2rem;
-  line-height: 1.5;
+  font-size: 2.4rem;
+  font-weight: bold;
+  line-height: 1.2;
   margin-bottom: 0.8rem;
 }
 
 h2 {
-  font-size: 1.75rem;
-  line-height: 1.5;
+  font-size: 1.85rem;
+  font-weight: bold;
+  line-height: 1.2;
   margin-bottom: 0.7rem;
 }
 
 h3 {
-  font-size: 1.4rem;
-  line-height: 1.5;
+  font-size: 1.5rem;
+  font-weight: bold;
+  line-height: 1.25;
   margin-bottom: 0.6rem;
 }
 
 h4 {
-  font-size: 1.15rem;
-  line-height: 1.5;
+  font-size: 1.25rem;
+  font-weight: bold;
+  line-height: 1.3;
 }
 
 h5 {
-  font-size: 1rem;
-  line-height: 1.5;
+  font-size: 1.1rem;
+  font-weight: bold;
+  line-height: 1.3;
 }
 
 h6 {
-  font-size: 0.9rem;
-  line-height: 1.5;
+  font-size: 0.95rem;
+  font-weight: bold;
+  line-height: 1.3;
 }
 
 li {
