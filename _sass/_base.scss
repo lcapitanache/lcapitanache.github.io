@@ -101,13 +101,13 @@ p.admonition-title {
 }
 
 html {
-  font-size: 18px;
+  font-size: 19.5px;
 }
 
 body {
   font-family: 'Noto Serif', Georgia, 'Times New Roman', serif;
   font-size: 1rem;
-  line-height: 1.8;
+  line-height: 1.5;
 }
 
 p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
@@ -116,7 +116,7 @@ p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
 }
 
 p {
-  line-height: 1.8;
+  line-height: 1.5;
   margin-bottom: 1.2rem;
 }
 
@@ -154,7 +154,7 @@ h6 {
 }
 
 li {
-  line-height: 1.8;
+  line-height: 1.5;
 }
 
 strong {
@@ -715,7 +715,7 @@ html.transition *:after {
 
 @media only screen and (min-width: 992px) {
   html {
-    font-size: 18px;
+    font-size: 19.5px;
   }
 
   .content-media {
@@ -725,7 +725,7 @@ html.transition *:after {
 
   .post-content {
     hyphens: auto;
-    line-height: 1.9;
+    line-height: 1.5;
     text-align: justify;
     text-justify: inter-word;
     word-wrap: normal;
@@ -738,7 +738,7 @@ html.transition *:after {
 
   .relato-content {
     margin: 3em;
-    line-height: 1.9;
+    line-height: 1.5;
   }
 
   .post-author {
@@ -753,7 +753,7 @@ html.transition *:after {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   html {
-    font-size: 17px;
+    font-size: 18.5px;
   }
 
   h1 {
@@ -774,7 +774,7 @@ html.transition *:after {
   }
 
   .post-content {
-    line-height: 1.85;
+    line-height: 1.5;
     text-align: justify;
     text-justify: inter-word;
   }
@@ -785,7 +785,7 @@ html.transition *:after {
   }
 
   .relato-content {
-    line-height: 1.85;
+    line-height: 1.5;
     margin: 2em 1.5em;
   }
 
@@ -814,7 +814,7 @@ html.transition *:after {
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   html {
-    font-size: 16px;
+    font-size: 17.5px;
   }
 
   h1 {
@@ -835,7 +835,7 @@ html.transition *:after {
   }
 
   .post-content {
-    line-height: 1.8;
+    line-height: 1.5;
   }
 
   .relato-author {
@@ -843,7 +843,7 @@ html.transition *:after {
   }
 
   .relato-content {
-    line-height: 1.8;
+    line-height: 1.5;
     margin-top: 2em;
     margin-bottom: 1.5em;
   }
@@ -874,7 +874,7 @@ html.transition *:after {
 
 @media only screen and (max-width: 575px) {
   html {
-    font-size: 15px;
+    font-size: 16.5px;
   }
 
   h1 {
@@ -890,7 +890,7 @@ html.transition *:after {
   }
 
   p {
-    line-height: 1.75;
+    line-height: 1.5;
   }
 
   .content-media {
@@ -899,7 +899,7 @@ html.transition *:after {
   }
 
   .post-content {
-    line-height: 1.75;
+    line-height: 1.5;
   }
 
   .relato-author {
@@ -907,7 +907,7 @@ html.transition *:after {
   }
 
   .relato-content {
-    line-height: 1.75;
+    line-height: 1.5;
     margin-top: 2em;
     margin-bottom: 1.5em;
   }
