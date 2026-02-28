@@ -1,8 +1,0 @@
-Notas de la versión
-===================
-
-:2022, may. 1:
-    **Reorganización** de los documentos del proyecto. Inclusión de :doc:`celda-electroquimica` y :doc:`electrodos-indicadores/index`. Adición del **logo** del proyecto, además de algunas **imágenes** de disección de electrodos.
-
-:2022, abr. 30:
-    **Inicio** del proyecto de catálogo. Inclusión de :doc:`electrodos-de-referencia/index`, de la **plantilla general** de electrodos, y de algunos **términos** en el :doc:`glosario`.

@@ -1,6 +1,3 @@
----
-permalink: /robots.txt
----
 Sitemap: https://lcapitanache.github.io/sitemap.xml
 
 User-agent: *
